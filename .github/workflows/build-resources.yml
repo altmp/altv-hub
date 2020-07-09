@@ -17,6 +17,8 @@ jobs:
           node-version: 13
       # Runs a set of commands using the runners shell
       - name: Create a file.
+        run: git pull origin master
+      - name: Create a file.
         run: npm install
       - name: Build Files
         run: npm run build
