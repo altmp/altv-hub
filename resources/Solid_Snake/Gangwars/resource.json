@@ -1,0 +1,7 @@
+{
+  "title": "VenoX + G2 Presents : V2 Gangwars",
+  "url": "https://github.com/VnX-SolidSnake/Gangwars",
+  "description": "Simple Gangwar Script based on VenoX-Global-Systems with 13 Teams & Disabled Team-Damage",
+  "tags": ["c#", "javascript", "anticheat", "globalban", "venox", "gamemode", "reallife", "gangwars"],
+  "cover": "https://raw.githubusercontent.com/VnX-SolidSnake/Gangwars/master/Gangwars_Client/Client/UI/files/images/bg.jpg"
+}
