@@ -1,0 +1,24 @@
+{
+  "name": "altv-hub",
+  "version": "0.0.1",
+  "description": "alt:V Hub is a reference point to post your resources for other users to explore.\r Simply create a pull request with a folder for your github username and a json file with your resource information.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altmp/altv-hub.git"
+  },
+  "author": "stuyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altmp/altv-hub/issues"
+  },
+  "homepage": "https://github.com/altmp/altv-hub#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "node-fetch": "^2.6.0",
+    "walk": "^2.3.14"
+  }
+}
