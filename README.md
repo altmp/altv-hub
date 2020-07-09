@@ -3,7 +3,7 @@
 alt:V Hub is a reference point to post your resources for other users to explore.
 Simply create a pull request with a folder for your github username and a json file with your resource information.
 
-Example:
+## Example JSON Structure for Resource
 
 ```js
 {
@@ -14,3 +14,7 @@ Example:
   "cover": "https://i.imgur.com/0t0vDFE.jpg"
 }
 ```
+
+## Post Resource Tutorial
+
+[![Tutorial](https://i.imgur.com/VlAvqSU.jpg)](https://www.youtube.com/watch?v=g2HTRdir6qo)
