@@ -1,0 +1,14 @@
+{
+  "title": "[JS] Simple IPC",
+  "url": "https://github.com/LeonMrBonnie/altv-simple-ipc",
+  "description": "A simple implementation for IPC for alt:V.",
+  "tags": [
+    "javascript",
+    "typescript",
+    "ipc",
+    "inter",
+    "process",
+    "communication"
+  ],
+  "cover": "https://i.imgur.com/SoQUFKf.png"
+}
