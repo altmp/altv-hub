@@ -1,7 +1,7 @@
 {
-  "title": "InGame Voice Chat 2D & 3D ( Customizable via JSON-File )",
+  "title": "[C#] 2D & 3D Voice Chat",
   "url": "https://github.com/VnX-SolidSnake/AltV-Voice",
-  "description": "2D & 3D Voice Chat ( Customizable via JSON-File) | For more information visit : https://forum.altv.mp/topic/596-voice-2d-3d-voice-resource/",
+  "description": "This resourece allows you to utilize alt:V's built-in voice service.",
   "tags": [
     "c#",
     "javascript",
@@ -10,5 +10,5 @@
     "NoSaltyChat",
     "customizable"
   ],
-  "cover": "https://venox-reallife.com/AltV/Posts/Images/Voice_22.png"
+  "cover": "https://i.imgur.com/YzjgDNG.png"
 }

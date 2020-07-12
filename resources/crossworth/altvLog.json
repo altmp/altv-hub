@@ -1,0 +1,7 @@
+{
+  "title": "[JS] Improved alt:V Log",
+  "url": "https://github.com/crossworth/altv-log",
+  "description": "Improves the usage of console.log for logging data, objects, etc.",
+  "tags": ["typescript", "boilerplate"],
+  "cover": "https://i.imgur.com/SoQUFKf.png"
+}

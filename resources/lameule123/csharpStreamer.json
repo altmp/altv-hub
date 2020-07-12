@@ -1,0 +1,7 @@
+{
+  "title": "[C#] CSharp Streamer",
+  "url": "https://github.com/lameule123/altv-csharp-streamer",
+  "description": "ServerSide Streamer using EntitySync. Based on @DasNiels Work.",
+  "tags": ["csharp", "streamer", "entity", "sync"],
+  "cover": "https://i.imgur.com/SoQUFKf.png"
+}
