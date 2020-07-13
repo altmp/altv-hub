@@ -1,0 +1,7 @@
+{
+  "title": "[JS] Postgres Database Wrapper",
+  "url": "https://github.com/Stuyk/altV-Postgres-Wrapper",
+  "description": "A database wrapper which uses TypeORM",
+  "tags": ["javascript", "database"],
+  "cover": "https://i.imgur.com/SoQUFKf.png"
+}
