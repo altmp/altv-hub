@@ -18,7 +18,3 @@ Simply create a pull request with a folder for your github username and a json f
 ## Post Resource Tutorial
 
 [![Tutorial](https://i.imgur.com/VlAvqSU.jpg)](https://www.youtube.com/watch?v=g2HTRdir6qo)
-
-## Testing
-
-Testing
