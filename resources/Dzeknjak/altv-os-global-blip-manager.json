@@ -1,0 +1,7 @@
+{
+  "title": "[JS] Global Blip Manager",
+  "url": "https://github.com/jovanivanovic/altv-os-global-blip-manager",
+  "description": "This is a basic global blip manager resource. It allows you to create/destroy blips from the server-side for all players.",
+  "tags": ["javascript", "blips", "js", "manager"],
+  "cover": "https://i.imgur.com/gFcZ3AC.png"
+}
