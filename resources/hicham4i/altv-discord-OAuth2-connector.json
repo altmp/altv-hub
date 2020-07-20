@@ -1,5 +1,5 @@
 {
-  "title": "Alt:V - Discord OAuth2 Connector",
+  "title": "[JS] Alt:V - Discord OAuth2 Connector",
   "url": "https://github.com/hicham4i/altv-discord-OAuth2-connector",
   "description": "Alt:V resource that uses OAuth2 Discord API to connect players to server depending on the roles",
   "tags": ["javascript", "discord", "OAuth2"],
