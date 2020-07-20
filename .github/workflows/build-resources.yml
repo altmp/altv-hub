@@ -20,13 +20,15 @@ jobs:
         with:
           node-version: 13
       # Runs a set of commands using the runners shell
-      - name: Create a file.
+      - name: Pull Origin
         run: git pull origin master
-      - name: Create a file.
+      - name: Install Dependencies
         run: npm install
+      - name: Clear Previous File
+        run: rm -rf ./dist/resources.json
       - name: Build Files
         run: npm run build
-      - name: Commit files
+      - name: Add Dist File and Update
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"

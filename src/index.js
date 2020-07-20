@@ -20,17 +20,16 @@ walker.on("end", async () => {
   for (let i = 0; i < files.length; i++) {
     let fileData = JSON.parse(fs.readFileSync(files[i].filePath).toString());
     fileData.author = files[i].author;
-
     const repoPath = fileData.url.replace("https://github.com/", "");
     const response = await fetch(`https://api.github.com/repos/${repoPath}`);
     const repoDataString = await response.text();
     const repoData = JSON.parse(repoDataString);
-
     fileData.updated = repoData.updated_at;
     fileData.creation = repoData.created_at;
     fileData.pushed = repoData.pushed_at;
     fileData.stars = repoData.stargazers_count;
     finalizedFiles.push(fileData);
+    console.log(`Parsed Files: ${i}/${files.length}`);
   }
 
   if (!fs.existsSync(path.join(__dirname, "../", "/dist"))) {
@@ -41,4 +40,6 @@ walker.on("end", async () => {
     path.join(__dirname, "../", "/dist/resources.json"),
     JSON.stringify(finalizedFiles)
   );
+
+  console.log(`Total Resources: ${files.length}`);
 });
