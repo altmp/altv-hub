@@ -1,0 +1,7 @@
+{
+  "title": "[JS] Global Text Labels",
+  "url": "https://github.com/Stuyk/altv-os-global-textlabels",
+  "description": "Easily create global text labels with custom color, font, scale, and distance. Text Labels are automatically synchronized when a player joins the server.",
+  "tags": ["javascript", "textlabel"],
+  "cover": "https://i.imgur.com/tTmia7K.jpg"
+}
