@@ -1,7 +1,7 @@
 {
   "title": "[JS] CFG Reader",
   "url": "https://github.com/Timo972/cfg-reader",
-  "description": "Reads the alt:v configuration file.",
-  "tags": ["javascript", "configuration", "cfg", "reader"],
+  "description": "Reads the alt:V configuration file.",
+  "tags": ["javascript", "tool"],
   "cover": "https://i.imgur.com/8qW0DJY.jpeg"
 }

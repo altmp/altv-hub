@@ -2,8 +2,7 @@
 
 name: CI
 on:
-  pull_request:
-    types: [closed]
+  push:
     branches: [master]
   release:
     types: [published]
@@ -19,7 +18,6 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 13
-      # Runs a set of commands using the runners shell
       - name: Pull Origin
         run: git pull origin master
       - name: Install Dependencies

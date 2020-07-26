@@ -2,6 +2,6 @@
   "title": "[C#] Server-side Object Streamer",
   "url": "https://github.com/DasNiels/altv-object-streamer",
   "description": "A server-side C# implementation of an object streamer for ALT:V MP.",
-  "tags": ["object", "streamer", "csharp", "c#"],
+  "tags": ["csharp", "utility"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }

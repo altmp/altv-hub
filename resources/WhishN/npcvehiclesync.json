@@ -2,6 +2,6 @@
   "title": "[C#] NPC Vehicle Sync [Experimental]",
   "url": "https://github.com/WhishN/altV--NPCVehicleSync",
   "description": "A server-side C# implementation of NPC traffic for your Server.",
-  "tags": ["npc", "traffic", "csharp", "c#"],
+  "tags": ["csharp", "vehicle", "ped"],
   "cover": "https://i.imgur.com/NYQejiD.png"
 }

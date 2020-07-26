@@ -2,6 +2,6 @@
   "title": "[JS] Webpack Plugin",
   "url": "https://github.com/micaww/altv-webpack-plugin",
   "description": "This plugin will take all of your alt:V dependencies (alt, alt-client, alt-server), marks them as external dependencies, and adds a single ESM import at the top of each output file that will be used in place of all of these modules.",
-  "tags": ["webpack", "packer", "javascript"],
+  "tags": ["javascript", "tool"],
   "cover": "https://i.imgur.com/bUeviQX.jpg"
 }

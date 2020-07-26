@@ -2,6 +2,6 @@
   "title": "[JS] Client-Server Communication",
   "url": "https://github.com/MrSentex/communication",
   "description": "The script provides the user with a simple API to make requests to the server and receive an asynchronous response from it, thus making the life of the developers simpler when it comes to receiving information from the server. The API is similar to the ESX API of FiveM so that developers coming from that platform will quickly become familiar with it.",
-  "tags": ["communication", "javascript", "fivem", "esx"],
+  "tags": ["javascript", "tool", "utility"],
   "cover": "https://i.imgur.com/bUeviQX.jpg"
 }

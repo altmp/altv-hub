@@ -1,7 +1,7 @@
 {
-  "title": "[JS] Freeroam Example",
+  "title": "[JS] Freeroam Example Gamemode",
   "url": "https://github.com/faizmain/altV-freeroam",
   "description": "Freeroam script for alt:v.",
-  "tags": ["javascript", "resource", "freeroam"],
+  "tags": ["javascript", "gamemode"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }

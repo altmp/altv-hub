@@ -2,6 +2,6 @@
   "title": "[JS] Improved alt:V Log",
   "url": "https://github.com/crossworth/altv-log",
   "description": "Improves the usage of console.log for logging data, objects, etc.",
-  "tags": ["typescript", "boilerplate"],
+  "tags": ["utility", "javascript"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }

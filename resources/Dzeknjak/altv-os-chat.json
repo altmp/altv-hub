@@ -2,6 +2,6 @@
   "title": "[JS] Chat",
   "url": "https://github.com/jovanivanovic/altv-os-chat",
   "description": "Simple chat implementation for alt:V to get your server started with some player-to-player interaction.",
-  "tags": ["javascript", "chat", "js"],
+  "tags": ["javascript", "interface"],
   "cover": "https://i.imgur.com/5NUVhNU.png"
 }

@@ -1,16 +1,7 @@
 {
-  "title": "[C#] V2 Gangwars",
+  "title": "[C#] VenoX Gangwars",
   "url": "https://github.com/VnX-SolidSnake/Gangwars",
-  "description": "Simple gangwars with 13 teams and no team damage.",
-  "tags": [
-    "c#",
-    "javascript",
-    "anticheat",
-    "globalban",
-    "venox",
-    "gamemode",
-    "reallife",
-    "gangwars"
-  ],
+  "description": "Simple gangwars with 13 teams and no team damage. Written in csharp.",
+  "tags": ["csharp", "javascript", "gamemode"],
   "cover": "https://i.imgur.com/lKRkL0A.jpg"
 }

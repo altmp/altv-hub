@@ -2,6 +2,6 @@
   "title": "[C#] Parked Vehicle Spawner",
   "url": "https://github.com/KWMSources/ParkedVehicleSpawner",
   "description": "Resource to spawn vehicles on GTA-native (CarGenerator) parking spots",
-  "tags": ["vehicle", "vehicles", "cargenerator"],
+  "tags": ["csharp", "vehicle"],
   "cover": "https://i.imgur.com/57KnQty.png"
 }

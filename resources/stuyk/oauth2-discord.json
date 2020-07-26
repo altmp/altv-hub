@@ -1,7 +1,7 @@
 {
-  "title": "[JS] oAuth2 Discord Login / Whitelist",
+  "title": "[JS] OS - oAuth2 Discord Login / Whitelist",
   "url": "https://github.com/Stuyk/altv-discord-auth",
   "description": "oAuth2 Discord Login with optional whitelist for alt:V. If you ever wanted a login system where you integrate your alt:V server into Discord this is the easiest setup for such integration. Users will go through an official Discord Authorization page before being let into the server.",
-  "tags": ["discord", "whitelist", "oauth2", "login"],
+  "tags": ["javascript", "interface", "authorization"],
   "cover": "https://i.imgur.com/qzftIlN.jpg"
 }

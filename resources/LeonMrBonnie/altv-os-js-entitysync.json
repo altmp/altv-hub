@@ -2,6 +2,6 @@
   "title": "[JS] Entity Sync",
   "url": "https://github.com/LeonMrBonnie/altv-os-js-entitysync",
   "description": "This repository provides an alt:V resource to work with the C# Entity Sync in JS. It provides an easy base class for entities that you can expand for you own entities.",
-  "tags": ["javascript", "sync", "c#", "js"],
+  "tags": ["javascript", "utility"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }

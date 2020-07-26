@@ -2,6 +2,6 @@
   "title": "[JS] Global Marker Manager",
   "url": "https://github.com/jovanivanovic/altv-os-global-marker-manager",
   "description": "This is a basic global marker manager resource. It allows you to create/destroy markers from the server-side for all players.",
-  "tags": ["javascript", "markers", "js", "manager"],
+  "tags": ["javascript", "utility"],
   "cover": "https://i.imgur.com/sm8wP7R.png"
 }

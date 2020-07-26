@@ -1,7 +1,7 @@
 {
-  "title": "[JS] Nicholas Speedometer",
+  "title": "[JS] Nicholas Speedometer Example",
   "url": "https://github.com/NicholasSchmitz/altV-speedometer",
   "description": "Simple vehicle tuning example.",
-  "tags": ["javascript", "speedometer", "vehicle"],
+  "tags": ["javascript", "vehicle", "interface"],
   "cover": "https://i.imgur.com/my78WtK.jpg"
 }

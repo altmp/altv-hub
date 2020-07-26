@@ -2,6 +2,6 @@
   "title": "[JS] In-Game Editor",
   "url": "https://github.com/tameemi/altv-ingame-editor",
   "description": "A server/client-sided editor made for Alt:V MP and powered by the Monaco Editor",
-  "tags": ["javascript", "editor"],
+  "tags": ["javascript", "tool"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }

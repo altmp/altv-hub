@@ -1,7 +1,7 @@
 {
   "title": "[JS] Keep Engine Running",
   "url": "https://github.com/DooDesch/altv-engine",
-  "description": "Keep your engine running.",
-  "tags": ["javascript", "vehicle", "engine"],
+  "description": "Keeps the vehicles engine running when the player exists the vehicle with the engine running.",
+  "tags": ["javascript", "vehicle"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }

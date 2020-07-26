@@ -2,14 +2,6 @@
   "title": "[C#] VenoX Global Bans & Anticheat",
   "url": "https://github.com/VnX-SolidSnake/altV_GlobalBan",
   "description": "A self maintained global anticheat and global ban system.",
-  "tags": [
-    "c#",
-    "javascript",
-    "anticheat",
-    "globalban",
-    "venox",
-    "gamemode",
-    "reallife"
-  ],
+  "tags": ["csharp", "javascript", "tool"],
   "cover": "https://i.imgur.com/gLjXED1.jpg"
 }

@@ -1,7 +1,7 @@
 {
-  "title": "[JS] Smartphone",
+  "title": "[JS] Smartphone Example Interface",
   "url": "https://github.com/NicholasSchmitz/altV-smartphone",
   "description": "Smart phone example. This is just a basis on which you can build a complete system.",
-  "tags": ["javascript", "smartphone", "system", "example"],
+  "tags": ["javascript", "interface"],
   "cover": "https://i.imgur.com/WjlBF53.jpg"
 }

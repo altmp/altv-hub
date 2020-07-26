@@ -2,6 +2,6 @@
   "title": "[JS] Native UI",
   "url": "https://github.com/DurtyFree/alt-V-NativeUI",
   "description": "This project is a (fully TypeScript compatible) port of RageMP-NativeUI Kar for alt:V. It provides a simple way to use NativeUI menus in your clientside scripts. A lot of credits to datWeazel who made the initial port of the RageMP-NativeUI.",
-  "tags": ["nativeui", "javascript", "typescript", "ui"],
+  "tags": ["javascript", "typescript", "interface"],
   "cover": "https://i.imgur.com/K1cndtS.jpeg"
 }

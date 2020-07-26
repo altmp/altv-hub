@@ -1,7 +1,7 @@
 {
-  "title": "[JS] Context Menus",
+  "title": "[JS] OS Context Menus",
   "url": "https://github.com/Stuyk/altv-os-context-menu",
   "description": "This allows you to create a simple context menu for players to utilize. Which means they can hold left alt and right-click on objects to select different objects. Which is great for creating in-depth options for players to utilize.",
-  "tags": ["javascript", "js", "rp", "menu"],
+  "tags": ["javascript", "interface"],
   "cover": "https://i.imgur.com/kneO4mt.jpg"
 }

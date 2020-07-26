@@ -2,6 +2,6 @@
   "title": "[C#] alt:V Updater",
   "url": "https://github.com/parpMoretti/AltVUpdate",
   "description": "A windows server update utility for the alt:V Platform",
-  "tags": ["windows", "server", "updater"],
+  "tags": ["tool", "csharp"],
   "cover": "https://i.imgur.com/bUeviQX.jpg"
 }

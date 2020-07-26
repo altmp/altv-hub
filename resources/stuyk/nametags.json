@@ -1,7 +1,7 @@
 {
-  "title": "[JS] Nametags",
+  "title": "[JS] OS - Nametags",
   "url": "https://github.com/Stuyk/altv-os-nametags",
   "description": "This repository provides a simple nametag system with optional health bars and armour bars. As well as hiding nametags when players are inside of vehicles. This nametag system scales based on distance as well as checks if you have direct line of sight with the opposing players. Nametags can be toggled completely off or on for a single player.",
-  "tags": ["name", "nametags", "healthbar", "armourbar", "textdraw"],
+  "tags": ["javascript", "nametags"],
   "cover": "https://i.imgur.com/vvkbD90.jpg"
 }

@@ -1,7 +1,7 @@
 {
-  "title": "[JS] Nicholas Gangwars",
+  "title": "[JS] Nicholas Gangwars Gamemode",
   "url": "https://github.com/NicholasSchmitz/altV-gangwar-server",
   "description": "A gangwar script with admin commands, stats, weapons, etc.",
-  "tags": ["javascript", "gangwar", "resource", "script"],
+  "tags": ["javascript", "gamemode"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }
