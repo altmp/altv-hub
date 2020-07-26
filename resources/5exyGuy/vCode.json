@@ -1,0 +1,7 @@
+{
+  "title": "[JS] vCode - In-Game Editor",
+  "url": "https://github.com/5exyGuy/altV-vCode",
+  "description": "A server/client-sided editor made for alt:V MP and powered by the Monaco Editor",
+  "tags": ["javascript", "js", "editor"],
+  "cover": "https://github.com/5exyGuy/altV-vCode/raw/master/preview.png"
+}
