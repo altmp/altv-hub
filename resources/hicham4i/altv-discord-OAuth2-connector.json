@@ -1,7 +1,0 @@
-{
-  "title": "[JS] alt:V - Discord OAuth2 Connector",
-  "url": "https://github.com/hicham4i/altv-discord-OAuth2-connector",
-  "description": "alt:V resource that uses OAuth2 Discord API to connect players to server depending on the roles",
-  "tags": ["javascript", "interface", "authorization"],
-  "cover": "https://i.imgur.com/SoQUFKf.png"
-}
