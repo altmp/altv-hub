@@ -1,0 +1,7 @@
+{
+  "title": "[JS] OS - Character Editor",
+  "url": "https://github.com/Stuyk/altv-os-character-editor",
+  "description": "A robust character editor for editing player appearances and customizing them. This script allows a player to be sent to a character editor screen. Where they may customize their facial appearances. Includes presets, makeup, hairstyles, face customization for all features, and overlays. Also includes the ability to export character code and import it.",
+  "tags": ["javascript", "interface", "player", "ped"],
+  "cover": "https://i.imgur.com/Lm3e7lF.jpg"
+}
