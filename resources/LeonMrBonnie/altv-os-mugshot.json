@@ -1,0 +1,7 @@
+{
+    "title": "[JS] Mugshot",
+    "url": "https://github.com/LeonMrBonnie/altv-os-mugshot",
+    "description": "This repository provides an alt:V resource to show the player holding a mugshot board like in GTA Online. This resource provides two easy events to start and stop holding the mugshot board.",
+    "tags": ["javascript", "utility"],
+    "cover": "https://i.imgur.com/3MylLlG.png"
+}
