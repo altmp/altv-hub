@@ -14,6 +14,8 @@ Cover links must be on `imgur`.
 
 Description must not be longer than 750 characters.
 
+`cli` refers to if your resource has install instructions in an `.altv` file. [See Here](https://github.com/stuyk/altv-installer)
+
 ## Example JSON Structure for Resource
 
 ```js
@@ -22,7 +24,8 @@ Description must not be longer than 750 characters.
   "url": "https://github.com/Stuyk/altv-quickstart",
   "description": "A starting point for starting an alt:V server with chat, commands, etc.",
   "tags": ["boilerplate", "javascript", "quickstart"],
-  "cover": "https://i.imgur.com/0t0vDFE.jpg"
+  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cli": false
 }
 ```
 
