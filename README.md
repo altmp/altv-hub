@@ -4,6 +4,8 @@ alt:V Hub Files is a reference point to post your resources for other users to e
 
 Simply create a pull request with a folder for your github username and a json file with your resource information.
 
+[Visit alt:V for the GTA:V Multiplayer Client Information](https://altv.mp)
+
 ## Few Simple Rules
 
 Tags must be in the included list below.
