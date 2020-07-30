@@ -1,0 +1,7 @@
+{
+    "title": "[JS] Pickups",
+    "url": "https://github.com/LeonMrBonnie/altv-os-pickups",
+    "description": "This repository provides an alt:V resource to create interactable pickups. This resource provides two easy events to create and delete pickups.",
+    "tags": ["javascript", "utility"],
+    "cover": "https://i.imgur.com/JJ0Fv6A.png"
+}
