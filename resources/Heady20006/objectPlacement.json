@@ -1,0 +1,8 @@
+{
+  "title": "[JS] Object Placement",
+  "url": "https://github.com/Heady20006/altV_objectPlacement",
+  "description": "A resource which allows you to place an object in front of your player and manipulate it's position",
+  "tags": ["player", "javascript"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
