@@ -1,7 +1,7 @@
 {
-  "title": "[C#] Object Streamer using Entity Sync",
+  "title": "[C#] Complete Streamer with EntitySync",
   "url": "https://github.com/lameule123/altv-csharp-streamer",
-  "description": "ServerSide Streamer using EntitySync. Based on @DasNiels Work.",
+  "description": "ServerSide Streamer using EntitySync. Currently supported: TextLabel, Marker, Object, HelpText.",
   "tags": ["csharp", "utility"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }
