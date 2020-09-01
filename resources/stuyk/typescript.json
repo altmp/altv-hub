@@ -1,0 +1,7 @@
+{
+    "title": "[TS] Stuyk's Typescript Boilerplate",
+    "url": "https://github.com/Stuyk/altv-typescript",
+    "description": "alt:V has a lot of Boilerplates for TypeScript. However, they have one feature missing. They fail to create an environment where you can support multiple resource compilations. This boilerplate aims to fix that and allow multiple resources to be compiled at once and support handle your mods, mlos, etc.",
+    "tags": ["typescript", "boilerplate"],
+    "cover": "https://i.imgur.com/2JeNvzY.png"
+}
