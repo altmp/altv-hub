@@ -1,0 +1,8 @@
+{
+  "title": "OS Map - FIB Garage",
+  "url": "https://github.com/ThomasMarangoni/altv-os-map-FIBGarage",
+  "description": "This adds an entry/exit to/from the FIB building. This is only build with probs, so don't expect to much.",
+  "tags": ["map"],
+  "cover": "https://i.imgur.com/h74L53S.png",
+  "cli": true
+}
