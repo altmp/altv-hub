@@ -113,6 +113,14 @@ If your resource includes a form of login or registration.
 
 If your resource is a tool for working with alt:V. Docker falls under this category.
 
+### map
+
+An exterior map that can be loaded into GTA:V.
+
+### mlo
+
+An enterable interior that can be loaded into GTA:V.
+
 ## How to post a resource Tutorial
 
 [![Tutorial](https://i.imgur.com/VlAvqSU.jpg)](https://www.youtube.com/watch?v=g2HTRdir6qo)
