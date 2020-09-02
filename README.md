@@ -34,21 +34,23 @@ Description must not be longer than 750 characters.
 ## Valid Tags
 
 ```diff
++ authorization
 + boilerplate
-+ csharp
-+ javascript
-+ typescript
-+ lua
 + c++
++ csharp
 + data
 + gamemode
 + interface
-+ vehicle
-+ player
++ javascript
++ lua
++ map
++ mlo
 + ped
-+ utility
-+ authorization
++ player
 + tool
++ typescript
++ utility
++ vehicle
 ```
 
 ### boilerplate
