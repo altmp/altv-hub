@@ -1,0 +1,8 @@
+{
+  "title": "[JS] OS - Freecam",
+  "url": "https://github.com/Stuyk/altv-os-freecam",
+  "description": "This repository provides an easy to use freecam that can be controlled with your mouse, controller, or anything else. Hides players who are using it from other players.",
+  "tags": ["javascript", "tool", "utility"],
+  "cover": "https://i.imgur.com/rr2eGqZ.jpg",
+  "cli": true
+}
