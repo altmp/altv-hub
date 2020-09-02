@@ -1,0 +1,8 @@
+{
+  "title": "OS Map - FIB Roof",
+  "url": "https://github.com/ThomasMarangoni/altv-os-map-FIBRoof",
+  "description": "Added an exit/enter door to the roof and added a helipad.",
+  "tags": ["map"],
+  "cover": "https://i.imgur.com/rYb0vZJ.jpg",
+  "cli": true
+}
