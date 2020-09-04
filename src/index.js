@@ -28,6 +28,8 @@ walker.on("end", async () => {
     fileData.creation = repoData.created_at;
     fileData.pushed = repoData.pushed_at;
     fileData.stars = repoData.stargazers_count;
+    console.log(fileData.updated);
+
     finalizedFiles.push(fileData);
     console.log(`Parsed Files: ${i}/${files.length}`);
   }
