@@ -1,0 +1,8 @@
+{
+  "title": "Marker Manager",
+  "url": "https://github.com/MateqB/altv-os-marker-manager",
+  "description": "This is server-side marker manager. It allows you to Create/Delete markers on the server. It also contains Enter/Leave/Interact events for client and server side.",
+  "tags": ["utility", "javascript", "player"],
+  "cover": "https://i.imgur.com/i9NKMNZ.png",
+  "cli": false
+}
