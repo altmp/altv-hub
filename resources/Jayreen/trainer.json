@@ -1,0 +1,8 @@
+{
+  "title": "Native Trainer",
+  "url": "https://github.com/Jayreen58/altv-trainer",
+  "description": "altv-trainer is a general-purpose menu built on NativeUI designed for alt:V.",
+  "tags": ["typescript", "interface", "vehicle", "player", "ped", "utility"],
+  "cover": "https://i.imgur.com/KEDjZjN.png",
+  "cli": false
+}
