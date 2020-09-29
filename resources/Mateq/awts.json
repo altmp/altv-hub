@@ -1,0 +1,9 @@
+  
+{
+  "title": "[JS] OS Weather and Time Sync",
+  "url": "https://github.com/MateqB/altv-os-weather-time-sync",
+  "description": "This resource is syncing time (Without dates) and weather with smooth transitions.",
+  "tags": ["javascript", "utility"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
