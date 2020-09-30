@@ -2,6 +2,5 @@
   "title": "altV Manager",
   "url": "https://github.com/OvileAmriam/altV-Manager",
   "description": "Automated server installer, updater and launcher with Multi resource/categorization support based on MTA.",
-  "tags": ["boilerplate", "javascript"],
-  "cover": ""
+  "tags": ["boilerplate", "javascript"]
 }
