@@ -1,0 +1,8 @@
+{
+  "title": "[JS] Speedcam",
+  "url": "https://github.com/benstrobel/altv-speedcam",
+  "description": "Adds a speedcam which can be used to monitor the speed of passing vehicles.",
+  "tags": ["javascript", "vehicle", "tool", "utility"],
+  "cover": "https://i.imgur.com/Tf6WcFn.jpg",
+  "cli": false
+}
