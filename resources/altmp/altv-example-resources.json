@@ -1,0 +1,8 @@
+{
+  "title": "Official alt:V Example Resources",
+  "url": "https://github.com/altmp/altv-example-resources",
+  "description": "The official alt:V example resources, it currently contains the following resources: chat, freeroam and voice.",
+  "tags": ["javascript", "quickstart"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
