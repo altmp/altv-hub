@@ -1,0 +1,8 @@
+{
+  "title": "Animator",
+  "url": "https://github.com/ithr0n/altv-animator",
+  "description": "Preview animations in game",
+  "tags": ["javascript", "tool", "utility"],
+  "cover": "https://i.imgur.com/2K53geF.png",
+  "cli": false
+}
