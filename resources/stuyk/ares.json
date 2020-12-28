@@ -1,0 +1,7 @@
+{
+    "title": "Ares - No Setup Discord Auth",
+    "url": "https://github.com/Stuyk/altv-ares",
+    "description": "This repository simplifies the entire process of Discord Authentication for alt:V or any GTA:V Framework if you write your own module.",
+    "tags": ["javascript", "tool", "authorization", "interface"],
+    "cover": "https://i.imgur.com/7xAUJqR.png"
+}
