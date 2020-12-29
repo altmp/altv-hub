@@ -1,0 +1,8 @@
+{
+  "title": "[Template] Vehicle Addon",
+  "url": "https://github.com/Carbon-Open-Source-Factory/addon_vehicle_template",
+  "description": "A simple template to reuse for creating vehicle addons.",
+  "tags": ["vehicle"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
