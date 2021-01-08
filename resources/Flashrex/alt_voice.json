@@ -1,0 +1,8 @@
+{
+  "title": "alt:RP Voice",
+  "url": "https://github.com/Flashrex/alt-Voice",
+  "description": "A voice API implementing ranged Voice Channels, Custom Voice Channels and a radio.",
+  "tags": ["csharp", "javascript"],
+  "cover": "https://imgur.com/a/GWtFdMb",
+  "cli": false
+}
