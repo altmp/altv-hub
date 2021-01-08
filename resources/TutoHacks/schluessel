@@ -1,0 +1,8 @@
+{
+    "title": "[JS] Vehicle Key System - German",
+    "url": "https://github.com/TutoHacks/tim_schluessel",
+    "description": "Simple vehicle key system. That using the SocialclubID to store the Vehicles.",
+    "tags": ["javascript", "vehicle"],
+    "cover": "https://i.imgur.com/SoQUFKf.png",
+    "cli": false
+}
