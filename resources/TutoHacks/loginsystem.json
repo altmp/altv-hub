@@ -2,6 +2,6 @@
     "title": "[JS] Login System - German",
     "url": "https://github.com/TutoHacks/tim_login",
     "description": "A simple Register / Login System that usees MongoDB, Vue, discord and PKDBF2 for Password Encryption",
-    "tags": ["javascript", "tool"],
+    "tags": ["javascript", "tool", "cli"],
     "cover": "https://i.imgur.com/p4nJGxE.jpeg"
   }
