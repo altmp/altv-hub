@@ -3,5 +3,6 @@
     "url": "https://github.com/TutoHacks/tim_login",
     "description": "A simple Register / Login System that usees MongoDB, Vue, discord and PKDBF2 for Password Encryption",
     "tags": ["javascript", "tool"],
-    "cover": "https://i.imgur.com/p4nJGxE.jpeg"
+    "cover": "https://i.imgur.com/p4nJGxE.jpeg",
+    "cli": false
   }
