@@ -1,0 +1,8 @@
+{
+  "title": "alt:V Svelte Tailwind TypeScript Starter",
+  "url": "https://github.com/abstractFlo/altv-svelte-tailwind-typescript",
+  "description": "A starting point for creating your gui with svelte, typescript and tailwind. Includes event helper class.",
+  "tags": ["boilerplate", "quickstart"],
+  "cover": "https://i.imgur.com/4HUyFuX.png",
+  "cli": false
+}
