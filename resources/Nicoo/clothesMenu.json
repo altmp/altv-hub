@@ -1,0 +1,8 @@
+{
+    "title": "Clothes menu",
+    "url": "https://github.com/Nicoo34/Clothes-Menu",
+    "description": "A useful menu who give you the posibility to test your clothes, require NativeUI",
+    "tags": ["javascript", "player", "interface"],
+    "cover": "https://i.imgur.com/SoQUFKf.png",
+    "cli": false
+  }
