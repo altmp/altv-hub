@@ -2,7 +2,7 @@
   "title": "Vehicle HUD",
   "url": "https://github.com/oell3/altv-Vehicle-Hud",
   "description": "A simple vehicle hud. When the tank reaches 0%, the vehicle stops ",
-  "tags": ["javascript", "quickstart", "interface". "vehicle"],
+  "tags": ["javascript", "quickstart", "interface", "vehicle"],
   "cover": "https://i.ibb.co/CWzjckc/speed.png",
   "cli": false
 }
