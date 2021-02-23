@@ -1,0 +1,8 @@
+{
+  "title": "Teamspeak Lip Animation Synchronisation",
+  "url": "https://github.com/Squizzor/SquizzorLipSync",
+  "description": "A resource which connects to a Teamspeak server to get all talking players and synchronizes the lips animation on the player models.",
+  "tags": ["csharp", "javascript", "player", "ped"],
+  "cover": "https://i.imgur.com/7Ve3hJK.png",
+  "cli": false
+}
