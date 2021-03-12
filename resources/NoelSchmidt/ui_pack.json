@@ -1,0 +1,8 @@
+{
+  "title": "UI Pack",
+  "url": "https://github.com/Noel-Schmidt/gtarp-clientui",
+  "description": "UI pack with login / register and more",
+  "tags": ["interface"],
+  "cover": "https://i.imgur.com/8G9A0Xh.png",
+  "cli": false
+}
