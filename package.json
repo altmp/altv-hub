@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/altmp/altv-hub#readme",
   "dependencies": {
+    "git-date-extractor": "^4.0.1",
     "glob": "^7.1.6",
     "node-fetch": "^2.6.1",
     "walk": "^2.3.14"
