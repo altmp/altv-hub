@@ -16,7 +16,7 @@ walker.on("file", (root, stat, next) => {
 });
 
 walker.on("end", async () => {
-  const finalizedFiles = [];
+  const fileInfo = [];
 
   for (let i = 0; i < files.length; i++) {
     console.log(`Parsing File: ${i}/${files.length}`);
@@ -42,9 +42,14 @@ walker.on("end", async () => {
     // fileData.stars = repoData.stargazers_count;
 
     console.log(`Updated: ${fileData.updated}`);
-    finalizedFiles.push(fileData);
-    
+    fileInfo.push(fileData);
   }
+
+  const sortedFiles = fileInfo.sort((a, b) => {
+    return new Date(a.updated) - new Date(b.updated);
+  });
+
+  sortedFiles.reverse();
 
   if (!fs.existsSync(path.join(__dirname, "../", "/dist"))) {
     fs.mkdirSync(path.join(__dirname, "../", "/dist"));
@@ -52,7 +57,7 @@ walker.on("end", async () => {
 
   fs.writeFileSync(
     path.join(__dirname, "../", "/dist/resources.json"),
-    JSON.stringify(finalizedFiles)
+    JSON.stringify(sortedFiles, null, '\t')
   );
 
   console.log(`Total Resources: ${files.length}`);
