@@ -1,0 +1,8 @@
+{
+  "title": "AuthMenu",
+  "url": "https://github.com/Basarus/ALT-V-AuthSystem",
+  "description": "Authorization, registration, and mail recovery menu for ALT:V servers",
+  "tags": ["javascript", "authorization"],
+  "cover": "https://i.imgur.com/tVWhyQm.png",
+  "cli": false
+}
