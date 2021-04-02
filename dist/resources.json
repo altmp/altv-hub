@@ -9,7 +9,7 @@
 		],
 		"cover": "https://i.imgur.com/tVWhyQm.png",
 		"cli": false,
-		"author": "basap",
+		"author": "resources/basap",
 		"updated": "2021-04-01T19:34:02.000Z",
 		"pushed": "2021-04-01T19:34:02.000Z",
 		"creation": "2021-04-01T19:34:02.000Z"
@@ -24,7 +24,7 @@
 			"javascript"
 		],
 		"cover": "https://i.imgur.com/cHLRnvJ.jpg",
-		"author": "R3DIANCE",
+		"author": "resources/R3DIANCE",
 		"updated": "2021-03-29T16:04:49.000Z",
 		"pushed": "2021-03-29T16:04:49.000Z",
 		"creation": "2021-03-29T01:40:27.000Z"
@@ -38,7 +38,7 @@
 		],
 		"cover": "https://i.imgur.com/8G9A0Xh.png",
 		"cli": false,
-		"author": "NoelSchmidt",
+		"author": "resources/NoelSchmidt",
 		"updated": "2021-03-12T06:38:21.000Z",
 		"pushed": "2021-03-12T06:38:21.000Z",
 		"creation": "2021-03-12T06:38:21.000Z"
@@ -53,7 +53,7 @@
 		],
 		"cover": "https://i.imgur.com/9B0JITT.jpg",
 		"cli": false,
-		"author": "GuilhermeTrevizani",
+		"author": "resources/GuilhermeTrevizani",
 		"updated": "2021-02-27T17:07:22.000Z",
 		"pushed": "2021-02-27T17:07:22.000Z",
 		"creation": "2021-02-27T17:07:22.000Z"
@@ -68,7 +68,7 @@
 		],
 		"cover": "https://i.imgur.com/9B0JITT.jpg",
 		"cli": false,
-		"author": "GuilhermeTrevizani",
+		"author": "resources/GuilhermeTrevizani",
 		"updated": "2021-02-27T17:06:42.000Z",
 		"pushed": "2021-02-27T17:06:42.000Z",
 		"creation": "2021-01-07T20:17:12.000Z"
@@ -85,7 +85,7 @@
 		],
 		"cover": "https://i.imgur.com/7Ve3hJK.png",
 		"cli": false,
-		"author": "Squizzor",
+		"author": "resources/Squizzor",
 		"updated": "2021-02-23T20:32:06.000Z",
 		"pushed": "2021-02-23T20:32:06.000Z",
 		"creation": "2021-02-23T20:32:06.000Z"
@@ -100,7 +100,7 @@
 		],
 		"cover": "https://i.imgur.com/Mk9psMw.jpg",
 		"cli": false,
-		"author": "benkf",
+		"author": "resources/benkf",
 		"updated": "2021-02-10T14:31:44.000Z",
 		"pushed": "2021-02-10T14:31:44.000Z",
 		"creation": "2021-02-10T14:31:44.000Z"
@@ -117,7 +117,7 @@
 		],
 		"cover": "https://i.imgur.com/HYKks1N.png",
 		"cli": false,
-		"author": "Ölle",
+		"author": "resources/Ölle",
 		"updated": "2021-02-08T02:39:02.000Z",
 		"pushed": "2021-02-08T02:39:02.000Z",
 		"creation": "2021-02-08T02:19:43.000Z"
@@ -132,7 +132,7 @@
 		],
 		"cover": "https://i.imgur.com/bP8kHkW.png",
 		"cli": false,
-		"author": "Flashrex",
+		"author": "resources/Flashrex",
 		"updated": "2021-01-10T18:18:31.000Z",
 		"pushed": "2021-01-10T18:18:31.000Z",
 		"creation": "2021-01-05T03:05:26.000Z"
@@ -148,7 +148,7 @@
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
 		"cli": false,
-		"author": "Nicoo",
+		"author": "resources/Nicoo",
 		"updated": "2021-01-08T12:58:10.000Z",
 		"pushed": "2021-01-08T12:58:10.000Z",
 		"creation": "2021-01-08T12:47:04.000Z"
@@ -163,7 +163,7 @@
 		],
 		"cover": "https://i.imgur.com/4HUyFuX.png",
 		"cli": false,
-		"author": "abstractFlo",
+		"author": "resources/abstractFlo",
 		"updated": "2021-01-05T13:31:51.000Z",
 		"pushed": "2021-01-05T13:31:51.000Z",
 		"creation": "2021-01-04T16:26:32.000Z"
@@ -177,7 +177,7 @@
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
 		"cli": false,
-		"author": "CarbonTM",
+		"author": "resources/CarbonTM",
 		"updated": "2020-12-29T14:03:57.000Z",
 		"pushed": "2020-12-29T14:03:57.000Z",
 		"creation": "2020-12-29T13:59:24.000Z"
@@ -193,7 +193,7 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/7xAUJqR.png",
-		"author": "stuyk",
+		"author": "resources/stuyk",
 		"updated": "2020-12-26T03:28:45.000Z",
 		"pushed": "2020-12-26T03:28:45.000Z",
 		"creation": "2020-12-26T03:27:59.000Z"
@@ -207,7 +207,7 @@
 			"gamemode"
 		],
 		"cover": "https://i.imgur.com/7xAUJqR.png",
-		"author": "stuyk",
+		"author": "resources/stuyk",
 		"updated": "2020-12-26T03:27:59.000Z",
 		"pushed": "2020-12-26T03:27:59.000Z",
 		"creation": "2020-12-26T03:27:59.000Z"
@@ -222,7 +222,7 @@
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
 		"cli": false,
-		"author": "altmp",
+		"author": "resources/altmp",
 		"updated": "2020-12-06T19:24:15.000Z",
 		"pushed": "2020-12-06T19:24:15.000Z",
 		"creation": "2020-12-06T19:24:15.000Z"
@@ -238,7 +238,7 @@
 		],
 		"cover": "https://i.imgur.com/2K53geF.png",
 		"cli": false,
-		"author": "ithr0n",
+		"author": "resources/ithr0n",
 		"updated": "2020-12-05T23:18:51.000Z",
 		"pushed": "2020-12-05T23:18:51.000Z",
 		"creation": "2020-12-05T23:15:21.000Z"
@@ -252,7 +252,7 @@
 		],
 		"cover": "https://i.imgur.com/PYnE4Kp.png",
 		"cli": false,
-		"author": "ROD",
+		"author": "resources/ROD",
 		"updated": "2020-11-29T15:38:20.000Z",
 		"pushed": "2020-11-29T15:38:20.000Z",
 		"creation": "2020-10-29T10:29:50.000Z"
@@ -266,7 +266,7 @@
 			"notifications"
 		],
 		"cover": "https://i.imgur.com/Ixhrpag.png",
-		"author": "GodKoten",
+		"author": "resources/GodKoten",
 		"updated": "2020-10-30T11:24:29.000Z",
 		"pushed": "2020-10-30T11:24:29.000Z",
 		"creation": "2020-10-30T11:24:29.000Z"
@@ -286,7 +286,7 @@
 			"ped"
 		],
 		"cover": "https://i.imgur.com/0GCBzvD.png",
-		"author": "Solid_Snake",
+		"author": "resources/Solid_Snake",
 		"updated": "2020-10-19T08:38:09.000Z",
 		"pushed": "2020-10-19T08:38:09.000Z",
 		"creation": "2020-10-15T12:49:04.000Z"
@@ -303,7 +303,7 @@
 		],
 		"cover": "https://i.imgur.com/Tf6WcFn.jpg",
 		"cli": false,
-		"author": "battlepig",
+		"author": "resources/battlepig",
 		"updated": "2020-10-09T22:44:25.000Z",
 		"pushed": "2020-10-09T22:44:25.000Z",
 		"creation": "2020-10-09T22:41:46.000Z"
@@ -318,7 +318,7 @@
 		],
 		"cover": "https://i.imgur.com/0t0vDFE.jpg",
 		"cli": false,
-		"author": "OvileAmriam",
+		"author": "resources/OvileAmriam",
 		"updated": "2020-09-30T15:05:38.000Z",
 		"pushed": "2020-09-30T15:05:38.000Z",
 		"creation": "2020-09-30T14:54:34.000Z"
@@ -333,7 +333,7 @@
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
 		"cli": false,
-		"author": "Mateq",
+		"author": "resources/Mateq",
 		"updated": "2020-09-29T18:10:15.000Z",
 		"pushed": "2020-09-29T18:10:15.000Z",
 		"creation": "2020-09-29T18:08:49.000Z"
@@ -352,7 +352,7 @@
 		],
 		"cover": "https://i.imgur.com/KEDjZjN.png",
 		"cli": false,
-		"author": "Jayreen",
+		"author": "resources/Jayreen",
 		"updated": "2020-09-18T14:27:28.000Z",
 		"pushed": "2020-09-18T14:27:28.000Z",
 		"creation": "2020-09-18T14:11:42.000Z"
@@ -368,7 +368,7 @@
 		],
 		"cover": "https://i.imgur.com/i9NKMNZ.png",
 		"cli": false,
-		"author": "Mateq",
+		"author": "resources/Mateq",
 		"updated": "2020-09-16T15:19:01.000Z",
 		"pushed": "2020-09-16T15:19:01.000Z",
 		"creation": "2020-09-16T15:19:01.000Z"
@@ -382,7 +382,7 @@
 		],
 		"cover": "https://imgur.com/g1Q2Lck.png",
 		"cli": false,
-		"author": "techlef",
+		"author": "resources/techlef",
 		"updated": "2020-09-14T21:55:18.000Z",
 		"pushed": "2020-09-14T21:55:18.000Z",
 		"creation": "2020-09-14T21:55:18.000Z"
@@ -397,7 +397,7 @@
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
 		"cli": false,
-		"author": "Mateq",
+		"author": "resources/Mateq",
 		"updated": "2020-09-10T12:54:02.000Z",
 		"pushed": "2020-09-10T12:54:02.000Z",
 		"creation": "2020-09-10T12:51:32.000Z"
@@ -411,7 +411,7 @@
 		],
 		"cover": "https://i.imgur.com/bZsSi8D.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-07T22:52:53.000Z",
 		"pushed": "2020-09-07T22:52:53.000Z",
 		"creation": "2020-09-07T22:52:53.000Z"
@@ -425,7 +425,7 @@
 		],
 		"cover": "https://i.imgur.com/xco02FP.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-07T22:52:53.000Z",
 		"pushed": "2020-09-07T22:52:53.000Z",
 		"creation": "2020-09-07T22:52:53.000Z"
@@ -439,7 +439,7 @@
 		],
 		"cover": "https://i.imgur.com/ygQk7Mm.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-07T22:52:53.000Z",
 		"pushed": "2020-09-07T22:52:53.000Z",
 		"creation": "2020-09-07T22:52:53.000Z"
@@ -453,7 +453,7 @@
 		],
 		"cover": "https://i.imgur.com/Lzp8pPe.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-07T22:52:53.000Z",
 		"pushed": "2020-09-07T22:52:53.000Z",
 		"creation": "2020-09-07T22:52:53.000Z"
@@ -467,7 +467,7 @@
 		],
 		"cover": "https://i.imgur.com/9o3COfV.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-07T22:52:53.000Z",
 		"pushed": "2020-09-07T22:52:53.000Z",
 		"creation": "2020-09-07T22:52:53.000Z"
@@ -481,7 +481,7 @@
 			"vehicle"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "enerv",
+		"author": "resources/enerv",
 		"updated": "2020-09-03T04:49:46.000Z",
 		"pushed": "2020-09-03T04:49:46.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -497,7 +497,7 @@
 		],
 		"cover": "https://i.imgur.com/rr2eGqZ.jpg",
 		"cli": true,
-		"author": "stuyk",
+		"author": "resources/stuyk",
 		"updated": "2020-09-02T20:45:55.000Z",
 		"pushed": "2020-09-02T20:45:55.000Z",
 		"creation": "2020-09-02T20:45:55.000Z"
@@ -511,7 +511,7 @@
 		],
 		"cover": "https://i.imgur.com/rhnGya6.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T15:18:41.000Z",
 		"pushed": "2020-09-02T15:18:41.000Z",
 		"creation": "2020-09-02T15:18:41.000Z"
@@ -525,7 +525,7 @@
 		],
 		"cover": "https://i.imgur.com/Lbq1Or2.jpeg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T15:18:41.000Z",
 		"pushed": "2020-09-02T15:18:41.000Z",
 		"creation": "2020-09-02T15:18:41.000Z"
@@ -539,7 +539,7 @@
 		],
 		"cover": "https://i.imgur.com/CVUukLk.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T15:18:41.000Z",
 		"pushed": "2020-09-02T15:18:41.000Z",
 		"creation": "2020-09-02T15:18:41.000Z"
@@ -553,7 +553,7 @@
 		],
 		"cover": "https://i.imgur.com/oe1mZN8.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T15:18:41.000Z",
 		"pushed": "2020-09-02T15:18:41.000Z",
 		"creation": "2020-09-02T13:35:08.000Z"
@@ -567,7 +567,7 @@
 		],
 		"cover": "https://i.imgur.com/rYb0vZJ.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T15:18:41.000Z",
 		"pushed": "2020-09-02T15:18:41.000Z",
 		"creation": "2020-09-02T15:18:41.000Z"
@@ -581,7 +581,7 @@
 		],
 		"cover": "https://i.imgur.com/h74L53S.png",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T15:18:41.000Z",
 		"pushed": "2020-09-02T15:18:41.000Z",
 		"creation": "2020-09-02T15:18:41.000Z"
@@ -595,7 +595,7 @@
 		],
 		"cover": "https://i.imgur.com/5KRMpaA.jpg",
 		"cli": true,
-		"author": "DasChaos",
+		"author": "resources/DasChaos",
 		"updated": "2020-09-02T14:03:58.000Z",
 		"pushed": "2020-09-02T14:03:58.000Z",
 		"creation": "2020-09-02T14:03:58.000Z"
@@ -609,7 +609,7 @@
 			"boilerplate"
 		],
 		"cover": "https://i.imgur.com/2JeNvzY.png",
-		"author": "stuyk",
+		"author": "resources/stuyk",
 		"updated": "2020-09-01T13:39:22.000Z",
 		"pushed": "2020-09-01T13:39:22.000Z",
 		"creation": "2020-09-01T13:39:22.000Z"
@@ -623,7 +623,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "lameule123",
+		"author": "resources/lameule123",
 		"updated": "2020-08-28T20:59:46.000Z",
 		"pushed": "2020-08-28T20:59:46.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -636,7 +636,7 @@
 			"boilerplate"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "combowomb0",
+		"author": "resources/combowomb0",
 		"updated": "2020-08-16T15:54:05.000Z",
 		"pushed": "2020-08-16T15:54:05.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -650,7 +650,7 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "combowomb0",
+		"author": "resources/combowomb0",
 		"updated": "2020-08-16T15:54:05.000Z",
 		"pushed": "2020-08-16T15:54:05.000Z",
 		"creation": "2020-08-16T15:54:05.000Z"
@@ -665,7 +665,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/UwoDUym.png",
-		"author": "combowomb0",
+		"author": "resources/combowomb0",
 		"updated": "2020-08-16T15:54:05.000Z",
 		"pushed": "2020-08-16T15:54:05.000Z",
 		"creation": "2020-07-13T12:53:30.000Z"
@@ -679,7 +679,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/PB4JHGK.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-08-15T11:23:02.000Z",
 		"pushed": "2020-08-15T11:23:02.000Z",
 		"creation": "2020-08-15T11:23:02.000Z"
@@ -693,7 +693,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/DzypXwQ.jpg",
-		"author": "eisengrind",
+		"author": "resources/eisengrind",
 		"updated": "2020-08-13T22:45:45.000Z",
 		"pushed": "2020-08-13T22:45:45.000Z",
 		"creation": "2020-07-13T16:43:49.000Z"
@@ -706,7 +706,7 @@
 			"tool"
 		],
 		"cover": "https://i.imgur.com/FqZjj7p.jpg",
-		"author": "eisengrind",
+		"author": "resources/eisengrind",
 		"updated": "2020-08-13T22:45:12.000Z",
 		"pushed": "2020-08-13T22:45:12.000Z",
 		"creation": "2020-07-13T16:42:11.000Z"
@@ -721,7 +721,7 @@
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
 		"cli": false,
-		"author": "Heady20006",
+		"author": "resources/Heady20006",
 		"updated": "2020-08-08T09:05:18.000Z",
 		"pushed": "2020-08-08T09:05:18.000Z",
 		"creation": "2020-08-08T09:03:55.000Z"
@@ -735,7 +735,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/JJ0Fv6A.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-07-30T10:56:25.000Z",
 		"pushed": "2020-07-30T10:56:25.000Z",
 		"creation": "2020-07-30T10:56:25.000Z"
@@ -749,7 +749,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/TDd36KX.png",
-		"author": "DurtyFree",
+		"author": "resources/DurtyFree",
 		"updated": "2020-07-28T22:42:12.000Z",
 		"pushed": "2020-07-28T22:42:12.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -763,7 +763,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/3MylLlG.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-07-28T20:17:53.000Z",
 		"pushed": "2020-07-28T20:17:53.000Z",
 		"creation": "2020-07-28T20:17:53.000Z"
@@ -779,7 +779,7 @@
 			"ped"
 		],
 		"cover": "https://i.imgur.com/Lm3e7lF.jpg",
-		"author": "stuyk",
+		"author": "resources/stuyk",
 		"updated": "2020-07-27T20:15:24.000Z",
 		"pushed": "2020-07-27T20:15:24.000Z",
 		"creation": "2020-07-27T20:15:24.000Z"
@@ -793,7 +793,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-07-27T19:56:45.000Z",
 		"pushed": "2020-07-27T19:56:45.000Z",
 		"creation": "2020-07-27T19:56:45.000Z"
@@ -807,7 +807,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-07-26T21:06:59.000Z",
 		"pushed": "2020-07-26T21:06:59.000Z",
 		"creation": "2020-07-26T21:06:59.000Z"
@@ -821,7 +821,7 @@
 			"tool"
 		],
 		"cover": "https://i.imgur.com/VHCcc1N.png",
-		"author": "5exyGuy",
+		"author": "resources/5exyGuy",
 		"updated": "2020-07-26T13:54:24.000Z",
 		"pushed": "2020-07-26T13:54:24.000Z",
 		"creation": "2020-07-26T13:14:31.000Z"
@@ -836,7 +836,7 @@
 			"voice"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "DatMayo",
+		"author": "resources/DatMayo",
 		"updated": "2020-07-26T13:43:52.000Z",
 		"pushed": "2020-07-26T13:43:52.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -851,39 +851,10 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "5exyGuy",
+		"author": "resources/5exyGuy",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-18T07:21:53.000Z"
-	},
-	{
-		"title": "[JS] Players List",
-		"url": "https://github.com/combowomb0/altv-players-list",
-		"description": "A players list for alt:V",
-		"tags": [
-			"javascript",
-			"player",
-			"interface"
-		],
-		"cover": "https://i.imgur.com/GgIWagx.jpg",
-		"author": "combowomb0",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
-	},
-	{
-		"title": "[JS] Improved alt:V Log",
-		"url": "https://github.com/crossworth/altv-log",
-		"description": "Improves the usage of console.log for logging data, objects, etc.",
-		"tags": [
-			"utility",
-			"javascript"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "crossworth",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[C#] Server-side Object Streamer",
@@ -894,7 +865,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "DasNiels",
+		"author": "resources/DasNiels",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -909,7 +880,7 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "DatMayo",
+		"author": "resources/DatMayo",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -923,7 +894,7 @@
 			"boilerplate"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "DatMayo",
+		"author": "resources/DatMayo",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -937,24 +908,10 @@
 			"vehicle"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "DooDesch",
+		"author": "resources/DooDesch",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
-	},
-	{
-		"title": "[C++] alt:V Bin Reader",
-		"url": "https://github.com/drakeee/altv-bin-reader",
-		"description": "A basic reader which can read vehmodels.bin file inside your server data folder",
-		"tags": [
-			"c++",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "drakeee",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-13T16:32:38.000Z"
 	},
 	{
 		"title": "[JS] Native UI",
@@ -966,24 +923,10 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/K1cndtS.jpeg",
-		"author": "DurtyFree",
+		"author": "resources/DurtyFree",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-09T18:16:15.000Z"
-	},
-	{
-		"title": "[JS] Visual Vehicle Spawner",
-		"url": "https://github.com/dusieq95/Visual-Vehicle-Spawner",
-		"description": "Visual vehicle spawner for alt:V",
-		"tags": [
-			"javascript",
-			"vehicle"
-		],
-		"cover": "https://i.imgur.com/ozUQ41i.png",
-		"author": "dusieq95",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[JS] Online Radio",
@@ -994,7 +937,7 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/sygrdix.png",
-		"author": "Dzeknjak",
+		"author": "resources/Dzeknjak",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-10T08:25:11.000Z"
@@ -1008,7 +951,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/YA9XReI.png",
-		"author": "Dzeknjak",
+		"author": "resources/Dzeknjak",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-17T23:28:03.000Z"
@@ -1022,7 +965,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/sm8wP7R.png",
-		"author": "Dzeknjak",
+		"author": "resources/Dzeknjak",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-16T23:19:12.000Z"
@@ -1036,7 +979,7 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/gFcZ3AC.png",
-		"author": "Dzeknjak",
+		"author": "resources/Dzeknjak",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-16T20:09:15.000Z"
@@ -1050,38 +993,10 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/5NUVhNU.png",
-		"author": "Dzeknjak",
+		"author": "resources/Dzeknjak",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-17T22:08:08.000Z"
-	},
-	{
-		"title": "[JS] Chat Extender",
-		"url": "https://github.com/echoWanderer/altV-Chat",
-		"description": "An extended chat resource by echo wanderer.",
-		"tags": [
-			"javascript",
-			"interface"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "echoWanderer",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
-	},
-	{
-		"title": "[JS] Freeroam Example Gamemode",
-		"url": "https://github.com/faizmain/altV-freeroam",
-		"description": "Freeroam script for alt:v.",
-		"tags": [
-			"javascript",
-			"gamemode"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "faizmain",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[JS] Ugly Progress Bar",
@@ -1092,7 +1007,7 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "KadirFiratFTW",
+		"author": "resources/KadirFiratFTW",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -1106,7 +1021,7 @@
 			"boilerplate"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "KifKick",
+		"author": "resources/KifKick",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -1122,7 +1037,7 @@
 			"tool"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -1136,24 +1051,10 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "LeonMrBonnie",
+		"author": "resources/LeonMrBonnie",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-19T15:32:23.000Z"
-	},
-	{
-		"title": "[JS] Webpack Plugin",
-		"url": "https://github.com/micaww/altv-webpack-plugin",
-		"description": "This plugin will take all of your alt:V dependencies (alt, alt-client, alt-server), marks them as external dependencies, and adds a single ESM import at the top of each output file that will be used in place of all of these modules.",
-		"tags": [
-			"javascript",
-			"tool"
-		],
-		"cover": "https://i.imgur.com/bUeviQX.jpg",
-		"author": "micaww",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[JS] Client-Server Communication",
@@ -1165,38 +1066,10 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/bUeviQX.jpg",
-		"author": "MrSentex",
+		"author": "resources/MrSentex",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-09T18:20:35.000Z"
-	},
-	{
-		"title": "[C#] alt:V Updater",
-		"url": "https://github.com/parpMoretti/AltVUpdate",
-		"description": "A windows server update utility for the alt:V Platform",
-		"tags": [
-			"tool",
-			"csharp"
-		],
-		"cover": "https://i.imgur.com/bUeviQX.jpg",
-		"author": "parpMoretti",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
-	},
-	{
-		"title": "[JS] alt:V Function Helpers",
-		"url": "https://github.com/lsvMoretti/altV-Helpers",
-		"description": "Few helpers for alt:V Multiplayer Development",
-		"tags": [
-			"javascript",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "parpMoretti",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[C#] Ped Syncer (Experimental)",
@@ -1207,7 +1080,7 @@
 			"csharp"
 		],
 		"cover": "https://i.imgur.com/M0fF8XT.png",
-		"author": "Saltmueller",
+		"author": "resources/Saltmueller",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-09T19:48:46.000Z"
@@ -1221,23 +1094,10 @@
 			"vehicle"
 		],
 		"cover": "https://i.imgur.com/57KnQty.png",
-		"author": "Saltmueller",
+		"author": "resources/Saltmueller",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-09T19:38:20.000Z"
-	},
-	{
-		"title": "GTA:V Scenario List",
-		"url": "https://github.com/Santagain/gtav-scenarios",
-		"description": "A list of scenarios for GTA:V.",
-		"tags": [
-			"data"
-		],
-		"cover": "https://i.imgur.com/bUeviQX.jpg",
-		"author": "santagain",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[JS] Selection Wheel",
@@ -1248,7 +1108,22 @@
 			"interface"
 		],
 		"cover": "https://i.imgur.com/OHyKm0g.jpg",
-		"author": "Sinister-lab",
+		"author": "resources/Sinister-lab",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C#] VenoX Global Bans & Anticheat",
+		"url": "https://github.com/VnX-SolidSnake/altV_GlobalBan",
+		"description": "A self maintained global anticheat and global ban system.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/gLjXED1.jpg",
+		"author": "resources/Solid_Snake",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -1263,25 +1138,10 @@
 			"utility"
 		],
 		"cover": "https://i.imgur.com/YzjgDNG.png",
-		"author": "Solid_Snake",
+		"author": "resources/Solid_Snake",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-09T22:11:05.000Z"
-	},
-	{
-		"title": "[C#] VenoX Global Bans & Anticheat",
-		"url": "https://github.com/VnX-SolidSnake/altV_GlobalBan",
-		"description": "A self maintained global anticheat and global ban system.",
-		"tags": [
-			"csharp",
-			"javascript",
-			"tool"
-		],
-		"cover": "https://i.imgur.com/gLjXED1.jpg",
-		"author": "Solid_Snake",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
 		"title": "[C#] VenoX Gangwars",
@@ -1293,180 +1153,10 @@
 			"gamemode"
 		],
 		"cover": "https://i.imgur.com/lKRkL0A.jpg",
-		"author": "Solid_Snake",
+		"author": "resources/Solid_Snake",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-09T22:17:40.000Z"
-	},
-	{
-		"title": "[JS] Quickstart Repository",
-		"url": "https://github.com/Stuyk/altv-quickstart",
-		"description": "A starting point for starting an alt:V server with chat, commands, etc.",
-		"tags": [
-			"boilerplate",
-			"javascript"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-08T17:20:44.000Z"
-	},
-	{
-		"title": "[JS] Postgres Database Wrapper",
-		"url": "https://github.com/Stuyk/altV-Postgres-Wrapper",
-		"description": "A database wrapper which uses TypeORM",
-		"tags": [
-			"javascript",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-13T13:14:24.000Z"
-	},
-	{
-		"title": "[JS] OS - Register / Login",
-		"url": "https://github.com/Stuyk/altv-os-auth",
-		"description": "Very simple decoupled authentication resource that uses MongoDB, Vue, and PKDBF2 for Encryption.",
-		"tags": [
-			"javascript",
-			"interface",
-			"authorization"
-		],
-		"cover": "https://i.imgur.com/p4nJGxE.jpeg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-14T06:39:05.000Z"
-	},
-	{
-		"title": "[JS] Open Roleplay",
-		"url": "https://github.com/Stuyk/openrp-altv",
-		"description": "This project now serves as a reference for roleplay servers in the future. Includes various systems and examples as references.",
-		"tags": [
-			"javascript",
-			"gamemode"
-		],
-		"cover": "https://i.imgur.com/uKfS2Eo.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-08T18:17:12.000Z"
-	},
-	{
-		"title": "[JS] OS - oAuth2 Discord Login / Whitelist",
-		"url": "https://github.com/Stuyk/altv-discord-auth",
-		"description": "oAuth2 Discord Login with optional whitelist for alt:V. If you ever wanted a login system where you integrate your alt:V server into Discord this is the easiest setup for such integration. Users will go through an official Discord Authorization page before being let into the server.",
-		"tags": [
-			"javascript",
-			"interface",
-			"authorization"
-		],
-		"cover": "https://i.imgur.com/qzftIlN.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-15T23:25:07.000Z"
-	},
-	{
-		"title": "[JS] OS - Nametags",
-		"url": "https://github.com/Stuyk/altv-os-nametags",
-		"description": "This repository provides a simple nametag system with optional health bars and armour bars. As well as hiding nametags when players are inside of vehicles. This nametag system scales based on distance as well as checks if you have direct line of sight with the opposing players. Nametags can be toggled completely off or on for a single player.",
-		"tags": [
-			"javascript",
-			"nametags"
-		],
-		"cover": "https://i.imgur.com/vvkbD90.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-17T22:31:36.000Z"
-	},
-	{
-		"title": "[JS] OS Global Text Labels",
-		"url": "https://github.com/Stuyk/altv-os-global-textlabels",
-		"description": "Easily create global text labels with custom color, font, scale, and distance. Text Labels are automatically synchronized when a player joins the server.",
-		"tags": [
-			"javascript",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/tTmia7K.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-22T00:15:45.000Z"
-	},
-	{
-		"title": "[JS] Fuel Rats Gamemode",
-		"url": "https://github.com/Stuyk/altV-Fuel-Rats",
-		"description": "A free for all competitive gamemode where you smash your car into other players to capture a flag.",
-		"tags": [
-			"javascript",
-			"gamemode"
-		],
-		"cover": "https://i.imgur.com/B66MjeR.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-08T18:17:12.000Z"
-	},
-	{
-		"title": "[JS] OS Context Menus",
-		"url": "https://github.com/Stuyk/altv-os-context-menu",
-		"description": "This allows you to create a simple context menu for players to utilize. Which means they can hold left alt and right-click on objects to select different objects. Which is great for creating in-depth options for players to utilize.",
-		"tags": [
-			"javascript",
-			"interface"
-		],
-		"cover": "https://i.imgur.com/kneO4mt.jpg",
-		"author": "stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-20T00:56:26.000Z"
-	},
-	{
-		"title": "[JS] Fingerpointing",
-		"url": "https://github.com/tastydev/fingerpointing-altv",
-		"description": "This resource allows players to point out things with their finger",
-		"tags": [
-			"javascript",
-			"player"
-		],
-		"cover": "https://i.imgur.com/8qW0DJY.jpeg",
-		"author": "t4styy",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-09T18:53:36.000Z"
-	},
-	{
-		"title": "[JS] In-Game Editor",
-		"url": "https://github.com/tameemi/altv-ingame-editor",
-		"description": "A server/client-sided editor made for Alt:V MP and powered by the Monaco Editor",
-		"tags": [
-			"javascript",
-			"tool"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "tameemi",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-13T13:05:42.000Z"
-	},
-	{
-		"title": "[JS] Weather Date Sync",
-		"url": "https://github.com/tastydev/weatherDateSync-altv",
-		"description": "This resource syncs real weather of cities to the game.",
-		"tags": [
-			"javascript",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "tastydev",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-13T12:45:49.000Z"
 	},
 	{
 		"title": "[JS] CFG Reader",
@@ -1477,7 +1167,7 @@
 			"tool"
 		],
 		"cover": "https://i.imgur.com/8qW0DJY.jpeg",
-		"author": "Timo972",
+		"author": "resources/Timo972",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
@@ -1491,7 +1181,7 @@
 			"tool"
 		],
 		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"author": "Timo972",
+		"author": "resources/Timo972",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-13T16:36:59.000Z"
@@ -1506,9 +1196,319 @@
 			"ped"
 		],
 		"cover": "https://i.imgur.com/NYQejiD.png",
-		"author": "WhishN",
+		"author": "resources/WhishN",
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T19:58:05.000Z"
+	},
+	{
+		"title": "[JS] Players List",
+		"url": "https://github.com/combowomb0/altv-players-list",
+		"description": "A players list for alt:V",
+		"tags": [
+			"javascript",
+			"player",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/GgIWagx.jpg",
+		"author": "resources/combowomb0",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Improved alt:V Log",
+		"url": "https://github.com/crossworth/altv-log",
+		"description": "Improves the usage of console.log for logging data, objects, etc.",
+		"tags": [
+			"utility",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/crossworth",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C++] alt:V Bin Reader",
+		"url": "https://github.com/drakeee/altv-bin-reader",
+		"description": "A basic reader which can read vehmodels.bin file inside your server data folder",
+		"tags": [
+			"c++",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/drakeee",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T16:32:38.000Z"
+	},
+	{
+		"title": "[JS] Visual Vehicle Spawner",
+		"url": "https://github.com/dusieq95/Visual-Vehicle-Spawner",
+		"description": "Visual vehicle spawner for alt:V",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/ozUQ41i.png",
+		"author": "resources/dusieq95",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Chat Extender",
+		"url": "https://github.com/echoWanderer/altV-Chat",
+		"description": "An extended chat resource by echo wanderer.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/echoWanderer",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Freeroam Example Gamemode",
+		"url": "https://github.com/faizmain/altV-freeroam",
+		"description": "Freeroam script for alt:v.",
+		"tags": [
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/faizmain",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Webpack Plugin",
+		"url": "https://github.com/micaww/altv-webpack-plugin",
+		"description": "This plugin will take all of your alt:V dependencies (alt, alt-client, alt-server), marks them as external dependencies, and adds a single ESM import at the top of each output file that will be used in place of all of these modules.",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/micaww",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C#] alt:V Updater",
+		"url": "https://github.com/parpMoretti/AltVUpdate",
+		"description": "A windows server update utility for the alt:V Platform",
+		"tags": [
+			"tool",
+			"csharp"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/parpMoretti",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] alt:V Function Helpers",
+		"url": "https://github.com/lsvMoretti/altV-Helpers",
+		"description": "Few helpers for alt:V Multiplayer Development",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/parpMoretti",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "GTA:V Scenario List",
+		"url": "https://github.com/Santagain/gtav-scenarios",
+		"description": "A list of scenarios for GTA:V.",
+		"tags": [
+			"data"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/santagain",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Quickstart Repository",
+		"url": "https://github.com/Stuyk/altv-quickstart",
+		"description": "A starting point for starting an alt:V server with chat, commands, etc.",
+		"tags": [
+			"boilerplate",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/0t0vDFE.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-08T17:20:44.000Z"
+	},
+	{
+		"title": "[JS] Postgres Database Wrapper",
+		"url": "https://github.com/Stuyk/altV-Postgres-Wrapper",
+		"description": "A database wrapper which uses TypeORM",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T13:14:24.000Z"
+	},
+	{
+		"title": "[JS] OS - Register / Login",
+		"url": "https://github.com/Stuyk/altv-os-auth",
+		"description": "Very simple decoupled authentication resource that uses MongoDB, Vue, and PKDBF2 for Encryption.",
+		"tags": [
+			"javascript",
+			"interface",
+			"authorization"
+		],
+		"cover": "https://i.imgur.com/p4nJGxE.jpeg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-14T06:39:05.000Z"
+	},
+	{
+		"title": "[JS] Open Roleplay",
+		"url": "https://github.com/Stuyk/openrp-altv",
+		"description": "This project now serves as a reference for roleplay servers in the future. Includes various systems and examples as references.",
+		"tags": [
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/uKfS2Eo.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-08T18:17:12.000Z"
+	},
+	{
+		"title": "[JS] OS - oAuth2 Discord Login / Whitelist",
+		"url": "https://github.com/Stuyk/altv-discord-auth",
+		"description": "oAuth2 Discord Login with optional whitelist for alt:V. If you ever wanted a login system where you integrate your alt:V server into Discord this is the easiest setup for such integration. Users will go through an official Discord Authorization page before being let into the server.",
+		"tags": [
+			"javascript",
+			"interface",
+			"authorization"
+		],
+		"cover": "https://i.imgur.com/qzftIlN.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-15T23:25:07.000Z"
+	},
+	{
+		"title": "[JS] OS - Nametags",
+		"url": "https://github.com/Stuyk/altv-os-nametags",
+		"description": "This repository provides a simple nametag system with optional health bars and armour bars. As well as hiding nametags when players are inside of vehicles. This nametag system scales based on distance as well as checks if you have direct line of sight with the opposing players. Nametags can be toggled completely off or on for a single player.",
+		"tags": [
+			"javascript",
+			"nametags"
+		],
+		"cover": "https://i.imgur.com/vvkbD90.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-17T22:31:36.000Z"
+	},
+	{
+		"title": "[JS] OS Global Text Labels",
+		"url": "https://github.com/Stuyk/altv-os-global-textlabels",
+		"description": "Easily create global text labels with custom color, font, scale, and distance. Text Labels are automatically synchronized when a player joins the server.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/tTmia7K.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-22T00:15:45.000Z"
+	},
+	{
+		"title": "[JS] Fuel Rats Gamemode",
+		"url": "https://github.com/Stuyk/altV-Fuel-Rats",
+		"description": "A free for all competitive gamemode where you smash your car into other players to capture a flag.",
+		"tags": [
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/B66MjeR.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-08T18:17:12.000Z"
+	},
+	{
+		"title": "[JS] OS Context Menus",
+		"url": "https://github.com/Stuyk/altv-os-context-menu",
+		"description": "This allows you to create a simple context menu for players to utilize. Which means they can hold left alt and right-click on objects to select different objects. Which is great for creating in-depth options for players to utilize.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/kneO4mt.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-20T00:56:26.000Z"
+	},
+	{
+		"title": "[JS] Fingerpointing",
+		"url": "https://github.com/tastydev/fingerpointing-altv",
+		"description": "This resource allows players to point out things with their finger",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/8qW0DJY.jpeg",
+		"author": "resources/t4styy",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-09T18:53:36.000Z"
+	},
+	{
+		"title": "[JS] In-Game Editor",
+		"url": "https://github.com/tameemi/altv-ingame-editor",
+		"description": "A server/client-sided editor made for Alt:V MP and powered by the Monaco Editor",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/tameemi",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T13:05:42.000Z"
+	},
+	{
+		"title": "[JS] Weather Date Sync",
+		"url": "https://github.com/tastydev/weatherDateSync-altv",
+		"description": "This resource syncs real weather of cities to the game.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/tastydev",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T12:45:49.000Z"
 	}
 ]
