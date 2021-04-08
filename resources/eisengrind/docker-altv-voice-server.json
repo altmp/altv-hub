@@ -2,6 +2,6 @@
   "title": "alt:V Voice Server Docker image",
   "url": "https://github.com/eisengrind/docker-altv-voice-server",
   "description": "The unofficial Alt:V voice server Docker image",
-  "tags": ["tool", "utility"],
+  "tags": ["tool", "utility", "voice"],
   "cover": "https://i.imgur.com/DzypXwQ.jpg"
 }
