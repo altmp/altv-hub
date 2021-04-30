@@ -1,5 +1,19 @@
 [
 	{
+		"title": "ServerConfigParser Repository",
+		"url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
+		"description": "A Fileparser for the Alt:V server.cfg, with any other functions.",
+		"tags": [
+			"csharp"
+		],
+		"cover": "https://i.imgur.com/0t0vDFE.jpg",
+		"cli": false,
+		"author": "resources/schwarzi",
+		"updated": "2021-04-30T19:41:12.000Z",
+		"pushed": "2021-04-30T19:41:12.000Z",
+		"creation": "2021-04-30T19:01:22.000Z"
+	},
+	{
 		"title": "Vehicle MDT Example",
 		"url": "https://github.com/Studio5Net/ALT-V-vehicle-MDT",
 		"description": "An Example Resource on how to create a Webview that only works in an Emergency Vehicle for an MDT or other related Roleplay tools",
