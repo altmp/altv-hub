@@ -1,0 +1,8 @@
+{
+  "title": "ServerConfigParser Repository",
+  "url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
+  "description": "ein Parser für die Serverconfig von AltV. Ingame verwendbar",
+  "tags": ["csharp"],
+  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cli": false
+}
