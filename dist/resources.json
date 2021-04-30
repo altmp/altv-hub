@@ -1,5 +1,20 @@
 [
 	{
+		"title": "Vehicle MDT Example",
+		"url": "https://github.com/Studio5Net/ALT-V-vehicle-MDT",
+		"description": "An Example Resource on how to create a Webview that only works in an Emergency Vehicle for an MDT or other related Roleplay tools",
+		"tags": [
+			"interface",
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/AmfZWZg.png",
+		"author": "resources/Studio5",
+		"updated": "2021-04-13T01:24:20.000Z",
+		"pushed": "2021-04-13T01:24:20.000Z",
+		"creation": "2021-04-13T01:24:20.000Z"
+	},
+	{
 		"title": "alt:RP Voice",
 		"url": "https://github.com/Flashrex/alt-Voice",
 		"description": "A voice API implementing ranged Voice Channels, Custom Voice Channels and a radio.",
