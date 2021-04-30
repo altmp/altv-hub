@@ -1,0 +1,8 @@
+{
+  "title": "ServerConfigParser",
+  "url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
+  "description": "Ein in C# entwickelter Parser für die server.cfg",
+  "tags": ["csharp"],
+  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cli": false
+}
