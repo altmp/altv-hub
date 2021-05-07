@@ -2,7 +2,7 @@
   "title": "Simple Roleplay",
   "url": "https://github.com/juztim/Simple-Roleplay",
   "description": "A rather complete C# + JS Roleplay script for learning purposes.",
-  "tags": ["roleplay", "csharp", "learning", "script", "javascript"],
-  "cover": "https://image.winudf.com/v2/image1/Y29tLnJvbGVwbGF5bW9kLmNyYWZ0YXV0b19zY3JlZW5fMF8xNTkyMTMyNDk4XzAyOA/screen-0.jpg?fakeurl=1&type=.jpg",
+  "tags": ["csharp", "gamemode", "javascript"],
+  "cover": "https://imgur.com/a/051EO6p",
   "cli": false
 }
