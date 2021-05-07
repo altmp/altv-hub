@@ -1,0 +1,8 @@
+{
+  "title": "Simple Roleplay",
+  "url": "https://github.com/juztim/Simple-Roleplay",
+  "description": "A rather complete C# + JS Roleplay script for learning purposes.",
+  "tags": ["csharp", "gamemode", "javascript"],
+  "cover": "https://i.imgur.com/8ZmIsbj.jpg",
+  "cli": false
+}
