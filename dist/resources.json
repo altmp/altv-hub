@@ -1,5 +1,21 @@
 [
 	{
+		"title": "Simple Roleplay",
+		"url": "https://github.com/juztim/Simple-Roleplay",
+		"description": "A rather complete C# + JS Roleplay script for learning purposes.",
+		"tags": [
+			"csharp",
+			"gamemode",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/8ZmIsbj.jpg",
+		"cli": false,
+		"author": "resources/JuzTim",
+		"updated": "2021-05-07T15:37:46.000Z",
+		"pushed": "2021-05-07T15:37:46.000Z",
+		"creation": "2021-05-07T15:27:51.000Z"
+	},
+	{
 		"title": "ServerConfigParser Repository",
 		"url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
 		"description": "A Fileparser for the Alt:V server.cfg, with any other functions.",
