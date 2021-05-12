@@ -1,0 +1,8 @@
+{
+  "title": "Notification System",
+  "url": "https://github.com/Floriian/altv-notificationsystem",
+  "description": "A simpe notification system, based on NotyJS",
+  "tags": ["csharp", "javascript", "notifications"],
+  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cli": false
+}
