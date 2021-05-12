@@ -2,7 +2,7 @@
   "title": "Animation Menu",
   "url": "https://github.com/mcmuffin77/altv-animationmenu",
   "description": "A simple menu for the player to choose and play an animation.",
-  "tags": ["javascript", "player"],
+  "tags": ["typescript","javascript", "player"],
   "cover": "https://imgur.com/a/m9pf2Z0",
   "cli": false
 }
