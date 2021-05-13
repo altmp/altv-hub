@@ -1,5 +1,21 @@
 [
 	{
+		"title": "Animation Menu",
+		"url": "https://github.com/mcmuffin77/altv-animationmenu",
+		"description": "A simple menu for the player to choose and play an animation.",
+		"tags": [
+			"typescript",
+			"javascript",
+			"player"
+		],
+		"cover": "https://imgur.com/a/m9pf2Z0",
+		"cli": false,
+		"author": "resources/mcmuffin77",
+		"updated": "2021-05-12T20:24:04.000Z",
+		"pushed": "2021-05-12T20:24:04.000Z",
+		"creation": "2021-05-07T16:36:10.000Z"
+	},
+	{
 		"title": "Simple Roleplay",
 		"url": "https://github.com/juztim/Simple-Roleplay",
 		"description": "A rather complete C# + JS Roleplay script for learning purposes.",
