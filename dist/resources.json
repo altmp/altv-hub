@@ -1,5 +1,20 @@
 [
 	{
+		"title": "Notification System",
+		"url": "https://github.com/Floriian/altv-notificationsystem",
+		"description": "A simpe notification system, based on NotyJS",
+		"tags": [
+			"csharp",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/0t0vDFE.jpg",
+		"cli": false,
+		"author": "resources/Floriian",
+		"updated": "2021-05-13T06:41:23.000Z",
+		"pushed": "2021-05-13T06:41:23.000Z",
+		"creation": "2021-05-12T18:58:20.000Z"
+	},
+	{
 		"title": "Animation Menu",
 		"url": "https://github.com/mcmuffin77/altv-animationmenu",
 		"description": "A simple menu for the player to choose and play an animation.",
