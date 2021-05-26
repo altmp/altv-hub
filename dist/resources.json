@@ -16,6 +16,21 @@
 		"creation": "2021-05-26T17:36:14.000Z"
 	},
 	{
+		"title": "Admin Control Panel API",
+		"url": "https://github.com/riffy/altv-adminpanel-api",
+		"description": "A simple API for retrieving server information, player management and other admin stuff using express.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/PyL1Hif.png",
+		"cli": false,
+		"author": "resources/meisterboom",
+		"updated": "2021-05-19T15:53:28.000Z",
+		"pushed": "2021-05-19T15:53:28.000Z",
+		"creation": "2021-05-19T15:51:09.000Z"
+	},
+	{
 		"title": "[JS] Screenshot-Websocket",
 		"url": "https://github.com/tastydev/websocket-screenshot-altv",
 		"description": "Example alt:V Multiplayer resource for alt-websocket and alt-screenshot api",
