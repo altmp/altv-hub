@@ -1,0 +1,8 @@
+{
+  "title": "Admin Control Panel API",
+  "url": "https://github.com/riffy/altv-adminpanel-api",
+  "description": "A simple API for retrieving server information, player management and other admin stuff using express.",
+  "tags": ["javascript", "utility"],
+  "cover": "https://i.imgur.com/PyL1Hif.png",
+  "cli": false
+}
