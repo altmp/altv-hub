@@ -1,5 +1,21 @@
 [
 	{
+		"title": "Object Attacher",
+		"url": "https://github.com/Squizzor/SquizzorObjectAttacher",
+		"description": "A resource which allows you to easily attach objects to players.",
+		"tags": [
+			"javascript",
+			"player",
+			"ped"
+		],
+		"cover": "https://i.imgur.com/7BqhYkS.png",
+		"cli": false,
+		"author": "resources/Squizzor",
+		"updated": "2021-05-26T17:36:14.000Z",
+		"pushed": "2021-05-26T17:36:14.000Z",
+		"creation": "2021-05-26T17:36:14.000Z"
+	},
+	{
 		"title": "[JS] Screenshot-Websocket",
 		"url": "https://github.com/tastydev/websocket-screenshot-altv",
 		"description": "Example alt:V Multiplayer resource for alt-websocket and alt-screenshot api",
