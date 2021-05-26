@@ -1,0 +1,8 @@
+{
+  "title": "Object Attacher",
+  "url": "https://github.com/Squizzor/SquizzorObjectAttacher",
+  "description": "A resource which allows you to easily attach objects to players.",
+  "tags": ["javascript", "player", "ped"],
+  "cover": "https://i.imgur.com/7BqhYkS.png",
+  "cli": false
+}
