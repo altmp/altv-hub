@@ -1,0 +1,8 @@
+{
+  "title": "Aim Info",
+  "url": "https://github.com/Squizzor/SquizzorAimInfo",
+  "description": "A little resource which gives information about the current aiming position including some entity details.",
+  "tags": ["javascript", "player", "utility"],
+  "cover": "https://i.imgur.com/iWexLhl.png",
+  "cli": false
+}
