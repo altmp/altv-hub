@@ -66,6 +66,22 @@
 		"creation": "2020-10-15T12:49:04.000Z"
 	},
 	{
+		"title": "Police Shields",
+		"url": "https://github.com/benstrobel/altv-police-shield",
+		"description": "Adds usable bullet blocking ballistic & riot police shields.",
+		"tags": [
+			"player",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/Enn6Z1I.png",
+		"cli": false,
+		"author": "resources/battlepig",
+		"updated": "2021-05-28T13:17:44.000Z",
+		"pushed": "2021-05-28T13:17:44.000Z",
+		"creation": "2021-05-28T13:01:57.000Z"
+	},
+	{
 		"title": "Aim Info",
 		"url": "https://github.com/Squizzor/SquizzorAimInfo",
 		"description": "A little resource which gives information about the current aiming position including some entity details.",
