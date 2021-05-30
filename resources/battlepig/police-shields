@@ -1,0 +1,8 @@
+{
+  "title": "Police Shields",
+  "url": "https://github.com/benstrobel/altv-police-shield",
+  "description": "Adds usable bullet blocking ballistic & riot police shields.",
+  "tags": ["player", "javascript", "utility"],
+  "cover": "https://i.imgur.com/Enn6Z1I.png",
+  "cli": false
+}
