@@ -30,6 +30,21 @@
 		"creation": "2021-06-02T13:36:01.000Z"
 	},
 	{
+		"title": "Better NoClip with JavaScript",
+		"url": "https://github.com/LeCyreaxYT/altv-better-noclip",
+		"description": "A NoClip Script with Support for vehicles and players",
+		"tags": [
+			"javascript",
+			"player",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/Et8KDfa.png",
+		"author": "resources/LeCyreaxYT",
+		"updated": "2021-06-01T21:30:01.000Z",
+		"pushed": "2021-06-01T21:30:01.000Z",
+		"creation": "2021-06-01T21:30:01.000Z"
+	},
+	{
 		"title": "[C#] VenoX Global Bans & Anticheat",
 		"url": "https://github.com/Kuroosh/altV-GlobalBan",
 		"description": "A self maintained global anticheat and global ban system.",
