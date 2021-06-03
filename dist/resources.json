@@ -1,5 +1,35 @@
 [
 	{
+		"title": "[C#] Blip System | Postgres & MySql",
+		"url": "https://github.com/1stNox/altv-blips",
+		"description": "A simple blip system written in C#(serverside) and JS (clientside). Using Postgres or MySql to save and get the blip data.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://imgur.com/a/rOa2uw5",
+		"cli": false,
+		"author": "resources/1stNox",
+		"updated": "2021-06-03T14:11:26.000Z",
+		"pushed": "2021-06-03T14:11:26.000Z",
+		"creation": "2021-06-03T14:04:25.000Z"
+	},
+	{
+		"title": "Better Clothing Menu with JavaScript",
+		"url": "https://github.com/LeCyreaxYT/altv-better-clothing",
+		"description": "A Better Clothing Menu with you can switch Clothings without Press Enter",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/7UfLo2e.png",
+		"author": "resources/LeCyreaxYT",
+		"updated": "2021-06-02T13:36:01.000Z",
+		"pushed": "2021-06-02T13:36:01.000Z",
+		"creation": "2021-06-02T13:36:01.000Z"
+	},
+	{
 		"title": "[C#] VenoX Global Bans & Anticheat",
 		"url": "https://github.com/Kuroosh/altV-GlobalBan",
 		"description": "A self maintained global anticheat and global ban system.",
