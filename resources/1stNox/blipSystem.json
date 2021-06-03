@@ -3,6 +3,6 @@
   "url": "https://github.com/1stNox/altv-blips",
   "description": "A simple blip system written in C#(serverside) and JS (clientside). Using Postgres or MySql to save and get the blip data.",
   "tags": ["csharp", "javascript", "utility"],
-  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cover": "https://imgur.com/a/rOa2uw5",
   "cli": false
 }
