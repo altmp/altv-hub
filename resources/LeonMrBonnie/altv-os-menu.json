@@ -3,5 +3,6 @@
     "url": "https://github.com/LeonMrBonnie/altv-os-menu",
     "description": "A menu builder written in TypeScript using Vue with Vuetify.",
     "tags": ["typescript", "javascript", "utility", "interface"],
-    "cover": "https://i.imgur.com/Fc0heaD.png"
+    "cover": "https://i.imgur.com/Fc0heaD.png",
+    "cli": false
 }
