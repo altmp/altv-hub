@@ -3,6 +3,7 @@
     "url": "https://github.com/azarzaza/altv-siren-control",
     "description": "A siren control version for toggling five type of siren in emergency vehicle",
     "tags": ["javascript", "vehicle"],
-    "cover": "https://i.imgur.com/LLYxi6H.jpg"
+    "cover": "https://i.imgur.com/LLYxi6H.jpg",
+    "cli": false
   }
   
