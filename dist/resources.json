@@ -1,5 +1,20 @@
 [
 	{
+		"title": "[JS] Altv Siren Control",
+		"url": "https://github.com/azarzaza/altv-siren-control",
+		"description": "A siren control version for toggling five type of siren in emergency vehicle",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/LLYxi6H.jpg",
+		"cli": false,
+		"author": "resources/azarzaza",
+		"updated": "2021-06-23T05:30:47.000Z",
+		"pushed": "2021-06-23T05:30:47.000Z",
+		"creation": "2021-06-07T06:42:33.000Z"
+	},
+	{
 		"title": "[C#] Blip System | Postgres & MySql",
 		"url": "https://github.com/1stNox/altv-blips",
 		"description": "A simple blip system written in C#(serverside) and JS (clientside). Using Postgres or MySql to save and get the blip data.",
