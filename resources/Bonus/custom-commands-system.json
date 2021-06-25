@@ -1,5 +1,5 @@
 {
-  "title": "CustomCommandsSystem",
+  "title": "[C#] Custom Commands System",
   "url": "https://github.com/emre1702/altv-CustomCommandsSystem",
   "description": "A custom commands system for alt:V, written in C#. The package can be found in NuGet.",
   "tags": ["csharp", "player", "utility"],
