@@ -1,0 +1,8 @@
+{
+  "title": "[JS] 3D-Speedo",
+  "url": "https://github.com/Heady20006/altV-3D-Speedo",
+  "description": "A nice 3D-Speedo to show Speed, RPM, Gear, Fuellevel, Lightstate and Enginestate next to the vehicle",
+  "tags": ["vehicle", "javascript"],
+  "cover": "https://imgur.com/IUlBkey",
+  "cli": false
+}
