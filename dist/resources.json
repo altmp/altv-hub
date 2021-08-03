@@ -1,5 +1,33 @@
 [
 	{
+		"title": "Power Outages with Vehicle lights on!",
+		"url": "https://github.com/Annihilator4423/poweroutage",
+		"description": "This script allows you to have server wide blackouts with vehicle lights still enabled!",
+		"tags": [
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/rhys19",
+		"updated": "2021-08-02T22:59:49.000Z",
+		"pushed": "2021-08-02T22:59:49.000Z",
+		"creation": "2021-08-02T22:56:17.000Z"
+	},
+	{
+		"title": "Delete your vehicles to prevent buildup!",
+		"url": "https://github.com/Annihilator4423/delveh",
+		"description": "Delete your vehicles ingame with /dv to prevent vehicle buildup!",
+		"tags": [
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/rhys19",
+		"updated": "2021-08-02T22:59:39.000Z",
+		"pushed": "2021-08-02T22:59:39.000Z",
+		"creation": "2021-08-02T22:57:20.000Z"
+	},
+	{
 		"title": "[JS] AltV-Infoscript",
 		"url": "https://github.com/Heady20006/AltV-InfoScript",
 		"description": "Small script to get several informations about the Player, Vehicle or other Entities. Using raycast to get an Entity",
