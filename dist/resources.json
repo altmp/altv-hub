@@ -1,5 +1,19 @@
 [
 	{
+		"title": "React WebView event handler",
+		"url": "https://github.com/TheKineese/altv-webview-event-handler",
+		"description": "An implementation to (un)subscribe and mock incoming alt-events and fire events inside your React UI.",
+		"tags": [
+			"typescript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/the_kineese",
+		"updated": "2021-06-26T11:51:21.000Z",
+		"pushed": "2021-06-26T11:51:21.000Z",
+		"creation": "2021-06-26T11:45:40.000Z"
+	},
+	{
 		"title": "[C#] Custom Commands System",
 		"url": "https://github.com/emre1702/altv-CustomCommandsSystem",
 		"description": "A custom commands system written in C#. The package can be found in NuGet.",
