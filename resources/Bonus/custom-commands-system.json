@@ -1,0 +1,8 @@
+{
+  "title": "[C#] Custom Commands System",
+  "url": "https://github.com/emre1702/altv-CustomCommandsSystem",
+  "description": "A custom commands system written in C#. The package can be found in NuGet.",
+  "tags": ["csharp", "player", "utility"],
+  "cover": "https://imgur.com/bF2V76n.jpg",
+  "cli": false
+}
