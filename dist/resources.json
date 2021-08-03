@@ -1,5 +1,51 @@
 [
 	{
+		"title": "[JS] AltV-Infoscript",
+		"url": "https://github.com/Heady20006/AltV-InfoScript",
+		"description": "Small script to get several informations about the Player, Vehicle or other Entities. Using raycast to get an Entity",
+		"tags": [
+			"player",
+			"tool",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/9tZv4hm.png",
+		"cli": false,
+		"author": "resources/Heady20006",
+		"updated": "2021-07-15T10:37:29.000Z",
+		"pushed": "2021-07-15T10:37:29.000Z",
+		"creation": "2021-07-15T10:37:29.000Z"
+	},
+	{
+		"title": "[JS] 3D-Speedo",
+		"url": "https://github.com/Heady20006/altV-3D-Speedo",
+		"description": "A nice 3D-Speedo to show Speed, RPM, Gear, Fuellevel, Lightstate and Enginestate next to the vehicle",
+		"tags": [
+			"vehicle",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/IUlBkey.png",
+		"cli": false,
+		"author": "resources/Heady20006",
+		"updated": "2021-07-15T10:03:07.000Z",
+		"pushed": "2021-07-15T10:03:07.000Z",
+		"creation": "2021-07-15T10:00:58.000Z"
+	},
+	{
+		"title": "[C#] Freeroam",
+		"url": "https://github.com/1stNox/altv-freeroam",
+		"description": "A freeroam gamemode written in C# as alternative to the js freeroam example resource. Contains some useful commands like spawning a vehicle.",
+		"tags": [
+			"csharp",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/0t0vDFE.jpg",
+		"cli": false,
+		"author": "resources/1stNox",
+		"updated": "2021-07-04T10:51:57.000Z",
+		"pushed": "2021-07-04T10:51:57.000Z",
+		"creation": "2021-07-04T10:51:57.000Z"
+	},
+	{
 		"title": "React WebView event handler",
 		"url": "https://github.com/TheKineese/altv-webview-event-handler",
 		"description": "An implementation to (un)subscribe and mock incoming alt-events and fire events inside your React UI.",
