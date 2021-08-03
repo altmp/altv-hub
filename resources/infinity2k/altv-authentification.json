@@ -1,8 +1,0 @@
-{
-  "title": "[JS] JavaScript login & register",
-  "url": "https://github.com/Infinity-Coding/infinitycoding-altv-authentification",
-  "description": "A simple alt:V login/register written in JavaScript",
-  "tags": ["javascript", "interface", "authorization"],
-  "cover": "https://i.imgur.com/xO0FdCN.png",
-  "cli": false
-}
