@@ -1,5 +1,21 @@
 [
 	{
+		"title": "[C#] Custom Commands System",
+		"url": "https://github.com/emre1702/altv-CustomCommandsSystem",
+		"description": "A custom commands system written in C#. The package can be found in NuGet.",
+		"tags": [
+			"csharp",
+			"player",
+			"utility"
+		],
+		"cover": "https://imgur.com/bF2V76n.jpg",
+		"cli": false,
+		"author": "resources/Bonus",
+		"updated": "2021-06-25T20:16:19.000Z",
+		"pushed": "2021-06-25T20:16:19.000Z",
+		"creation": "2021-06-25T19:33:11.000Z"
+	},
+	{
 		"title": "[TS / JS] Menu Builder",
 		"url": "https://github.com/LeonMrBonnie/altv-os-menu",
 		"description": "A menu builder written in TypeScript using Vue with Vuetify.",
@@ -30,6 +46,22 @@
 		"updated": "2021-06-23T05:30:47.000Z",
 		"pushed": "2021-06-23T05:30:47.000Z",
 		"creation": "2021-06-07T06:42:33.000Z"
+	},
+	{
+		"title": "[JS] JavaScript login & register",
+		"url": "https://github.com/Infinity-Coding/infinitycoding-altv-authentification",
+		"description": "A simple alt:V login/register written in JavaScript",
+		"tags": [
+			"javascript",
+			"interface",
+			"authorization"
+		],
+		"cover": "https://i.imgur.com/xO0FdCN.png",
+		"cli": false,
+		"author": "resources/infinity2k",
+		"updated": "2021-06-20T15:02:35.000Z",
+		"pushed": "2021-06-20T15:02:35.000Z",
+		"creation": "2021-06-20T15:02:35.000Z"
 	},
 	{
 		"title": "[C#] Blip System | Postgres & MySql",
