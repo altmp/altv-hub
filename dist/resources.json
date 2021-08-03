@@ -136,22 +136,6 @@
 		"creation": "2021-06-07T06:42:33.000Z"
 	},
 	{
-		"title": "[JS] JavaScript login & register",
-		"url": "https://github.com/Infinity-Coding/infinitycoding-altv-authentification",
-		"description": "A simple alt:V login/register written in JavaScript",
-		"tags": [
-			"javascript",
-			"interface",
-			"authorization"
-		],
-		"cover": "https://i.imgur.com/xO0FdCN.png",
-		"cli": false,
-		"author": "resources/infinity2k",
-		"updated": "2021-06-20T15:02:35.000Z",
-		"pushed": "2021-06-20T15:02:35.000Z",
-		"creation": "2021-06-20T15:02:35.000Z"
-	},
-	{
 		"title": "[C#] Blip System | Postgres & MySql",
 		"url": "https://github.com/1stNox/altv-blips",
 		"description": "A simple blip system written in C#(serverside) and JS (clientside). Using Postgres or MySql to save and get the blip data.",
