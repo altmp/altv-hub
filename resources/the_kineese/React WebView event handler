@@ -1,0 +1,8 @@
+{
+  "title": "React WebView event handler",
+  "url": "https://github.com/TheKineese/altv-webview-event-handler",
+  "description": "An implementation to (un)subscribe and mock incoming alt-events and fire events inside your React UI.",
+  "tags": ["typescript"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
