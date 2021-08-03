@@ -1,0 +1,8 @@
+{
+  "title": "[JS] AltV-Infoscript",
+  "url": "https://github.com/Heady20006/AltV-InfoScript",
+  "description": "Small script to get several informations about the Player, Vehicle or other Entities. Using raycast to get an Entity",
+  "tags": ["player", "tool", "javascript"],
+  "cover": "https://i.imgur.com/9tZv4hm.png",
+  "cli": false
+}
