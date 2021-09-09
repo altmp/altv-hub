@@ -2,7 +2,7 @@
   "title": "Speedometer",
   "url": "https://github.com/Basarus/ALT-V-Speedometr",
   "description": "A beautiful speedometer with a link to the car",
-  "tags": ["javascript", 'vehicle'],
+  "tags": ["javascript", "vehicle"],
   "cover": "https://i.imgur.com/Xd6gHl5.png",
   "cli": false
 }
