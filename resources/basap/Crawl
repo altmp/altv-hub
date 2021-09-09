@@ -1,0 +1,8 @@
+{
+  "title": "Crawl",
+  "url": "https://github.com/Basarus/ALT-V-Crawl",
+  "description": "A script that allows the player to crawl",
+  "tags": ["javascript", "player"],
+  "cover": "https://i.imgur.com/lQdPC8s.png",
+  "cli": false
+}
