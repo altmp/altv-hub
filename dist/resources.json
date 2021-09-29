@@ -1,5 +1,21 @@
 [
 	{
+		"title": "[TS] Sit",
+		"url": "https://github.com/elsucco/altv-sit",
+		"description": "A script that allows the player to sit down on benches, chairs etc.",
+		"tags": [
+			"player",
+			"typescript",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/0t0vDFE.jpg",
+		"cli": false,
+		"author": "resources/marloni",
+		"updated": "2021-09-29T09:47:04.000Z",
+		"pushed": "2021-09-29T09:47:04.000Z",
+		"creation": "2021-09-29T09:47:04.000Z"
+	},
+	{
 		"title": "[C#] GTA V Pursuits Gamemode [PT/BR]",
 		"url": "https://github.com/GuilhermeTrevizani/pursuits-server",
 		"description": "GTA V Pursuits Gamemode C#",
