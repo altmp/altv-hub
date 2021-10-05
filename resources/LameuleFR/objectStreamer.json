@@ -2,6 +2,6 @@
   "title": "[JS] Simple Object Streamer",
   "url": "https://gitlab.com/LaMeule/altv-clientside-object-streamer-csharp",
   "description": "Simple object streamers without using EntitySync.",
-  "tags": ["javascript", "utility", "streamer"],
+  "tags": ["javascript", "utility"],
   "cover": "https://i.imgur.com/SoQUFKf.png"
 }
