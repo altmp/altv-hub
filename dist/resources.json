@@ -1,5 +1,20 @@
 [
 	{
+		"title": "[JS/TS] Esbuild dev plugin",
+		"url": "https://github.com/xxshady/esbuild-plugin-altv-dev-server",
+		"description": "esbuild plugin for extremely fast scripting using JS/TS on alt:V.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/spCngWE.jpg",
+		"author": "resources/xshady",
+		"updated": "2021-10-20T10:55:15.000Z",
+		"pushed": "2021-10-20T10:55:15.000Z",
+		"creation": "2021-10-20T10:55:15.000Z"
+	},
+	{
 		"title": "[JS] Simple Object Streamer",
 		"url": "https://github.com/LameuleFR/AltV-Object-ClientSide-Streamer",
 		"description": "Simple object streamers without using EntitySync.",
