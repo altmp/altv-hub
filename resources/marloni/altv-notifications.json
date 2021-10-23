@@ -1,0 +1,8 @@
+{
+  "title": "alt:V Vue Typescript Notifications",
+  "url": "https://github.com/elsucco/altv-notifications",
+  "description": "A simple notification script made with typescript and vue.js",
+  "tags": ["typescript", "utility", "interface"],
+  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cli": false
+}
