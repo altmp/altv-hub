@@ -1,0 +1,8 @@
+{
+  "title": "[TS] Object Streamer",
+  "url": "https://github.com/lilAmper/object-streamer",
+  "description": "A simple and useful object handler (with sync attachable to entity). It is based on server side usage.",
+  "tags": ["typescript", "utility"],
+  "cover": "https://i.imgur.com/luKx6xC.png",
+  "cli": false
+}
