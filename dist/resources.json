@@ -1,5 +1,21 @@
 [
 	{
+		"title": "altV-better-notify",
+		"url": "https://github.com/LorianAtashi01/altV-better-notify",
+		"description": "Notification System made with React (including Queue System)",
+		"tags": [
+			"javascript",
+			"typescript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/fFUBoXb.png",
+		"cli": false,
+		"author": "resources/LorianAtashi01",
+		"updated": "2021-10-25T20:31:41.000Z",
+		"pushed": "2021-10-25T20:31:41.000Z",
+		"creation": "2021-10-25T20:31:41.000Z"
+	},
+	{
 		"title": "alt:V Vue Typescript Notifications",
 		"url": "https://github.com/elsucco/altv-notifications",
 		"description": "A simple notification script made with typescript and vue.js",
