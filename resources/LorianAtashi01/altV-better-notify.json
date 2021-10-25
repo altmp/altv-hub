@@ -2,7 +2,7 @@
   "title": "altV-better-notify",
   "url": "https://github.com/LorianAtashi01/altV-better-notify",
   "description": "Notification System made with React (including Queue System)",
-  "tags": ["react", "typescript", "Sample Resource"],
+  "tags": ["javascript", "typescript", "interface"],
   "cover": "https://i.imgur.com/fFUBoXb.png",
   "cli": false
 }
