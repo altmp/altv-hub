@@ -1,5 +1,21 @@
 [
 	{
+		"title": "altV-autoWalking",
+		"url": "https://github.com/hookmethods/altv-ped-autowalk",
+		"description": "walk your ped by placing a way point or walk straight",
+		"tags": [
+			"javascript",
+			"typescript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/aYqyhql.gif",
+		"cli": false,
+		"author": "resources/hookmethods",
+		"updated": "2021-11-14T1:45:22.000Z",
+		"pushed": "2021-11-14T1:45:22.000Z",
+		"creation": "2021-11-14T1:45:22.000Z"
+	},
+	{
 		"title": "altV-better-notify",
 		"url": "https://github.com/LorianAtashi01/altV-better-notify",
 		"description": "Notification System made with React (including Queue System)",
