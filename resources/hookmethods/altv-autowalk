@@ -1,0 +1,8 @@
+{
+  "title": "altv-autowalk",
+  "url": "https://github.com/hookmethods/altv-ped-autowalk",
+  "description": "Walk your ped by placing a waypoint or go straight",
+  "tags": ["javascript"],
+  "cover": "https://i.imgur.com/aYqyhql.gif",
+  "cli": false
+}
