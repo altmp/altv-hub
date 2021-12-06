@@ -1,0 +1,8 @@
+{
+  "title": "EasyNoClip",
+  "url": "https://github.com/Swwox/EasyNoClip",
+  "description": "Just a simple noclip.",
+  "tags": ["player", "javascript", "vehicle", "utility"],
+  "cover": "https://i.imgur.com/YX4Q555.png",
+  "cli": false
+}
