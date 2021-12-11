@@ -1,5 +1,21 @@
 [
 	{
+		"title": "[JS] alt:V Flatbed Script",
+		"url": "https://github.com/V4M0N0S/altv-flatbed",
+		"description": "A simple resource for your alt:V Server - Tow your cars with a flatbed!",
+		"tags": [
+			"javascript",
+			"vehicle",
+			"flatbed"
+		],
+		"cover": "https://i.imgur.com/cBL7cN3.jpg",
+		"cli": false,
+		"author": "resources/V4M0N0S",
+		"updated": "2021-12-11T20:10:40.000Z",
+		"pushed": "2021-12-11T20:10:40.000Z",
+		"creation": "2021-12-11T20:10:40.000Z"
+	},
+	{
 		"title": "EasyNoClip",
 		"url": "https://github.com/Swwox/EasyNoClip",
 		"description": "Just a simple noclip.",
