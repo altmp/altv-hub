@@ -1,5 +1,21 @@
 [
 	{
+		"title": "[JS] alt:V Tablet Script",
+		"url": "https://github.com/V4M0N0S/altv-tablet",
+		"description": "A simple resource for your alt:V Server - Show your content in a tablet!",
+		"tags": [
+			"javascript",
+			"quickstart",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/dZW5rQE.jpg",
+		"cli": false,
+		"author": "resources/V4M0N0S",
+		"updated": "2021-12-14T14:07:05.000Z",
+		"pushed": "2021-12-14T14:07:05.000Z",
+		"creation": "2021-12-14T14:07:05.000Z"
+	},
+	{
 		"title": "[JS] alt:V Flatbed Script",
 		"url": "https://github.com/V4M0N0S/altv-flatbed",
 		"description": "A simple resource for your alt:V Server - Tow your cars with a flatbed!",
