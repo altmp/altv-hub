@@ -1,5 +1,22 @@
 [
 	{
+		"title": "[TS] Developer Tools",
+		"url": "https://github.com/zziger/altv-dev-tools",
+		"description": "Developer helper tools including powerful in-game code editor, model inspector, fly, and more.",
+		"tags": [
+			"typescript",
+			"utility",
+			"interface",
+			"player"
+		],
+		"cover": "https://i.imgur.com/0Cu6FMw.png",
+		"cli": false,
+		"author": "resources/zziger",
+		"updated": "2021-12-21T20:27:40.000Z",
+		"pushed": "2021-12-21T20:27:40.000Z",
+		"creation": "2021-12-21T20:27:40.000Z"
+	},
+	{
 		"title": "[JS] alt:V Tablet Script",
 		"url": "https://github.com/V4M0N0S/altv-tablet",
 		"description": "A simple resource for your alt:V Server - Show your content in a tablet!",
