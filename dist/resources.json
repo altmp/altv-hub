@@ -1,5 +1,20 @@
 [
 	{
+		"title": "Sky Camera",
+		"url": "https://github.com/JoshuaGerke/altv-skycam",
+		"description": "A clientside script that allows you to use the GTA Online Skycam.",
+		"tags": [
+			"javascript",
+			"player",
+			"utility"
+		],
+		"cover": "https://imgur.com/Szze7bR.jpg",
+		"author": "resources/JoshuaGerke",
+		"updated": "2021-12-26T11:39:14.000Z",
+		"pushed": "2021-12-26T11:39:14.000Z",
+		"creation": "2021-12-26T11:39:14.000Z"
+	},
+	{
 		"title": "[TS] Developer Tools",
 		"url": "https://github.com/zziger/altv-dev-tools",
 		"description": "Developer helper tools including powerful in-game code editor, model inspector, fly, and more.",
