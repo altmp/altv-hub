@@ -1,0 +1,7 @@
+{
+  "title": "Sky Camera",
+  "url": "https://github.com/JoshuaGerke/altv-skycam",
+  "description": "A clientside script that allows you to use the GTA Online Skycam.",
+  "tags": ["javascript", "player", "utility"],
+  "cover": "https://imgur.com/Szze7bR.jpg"
+}
