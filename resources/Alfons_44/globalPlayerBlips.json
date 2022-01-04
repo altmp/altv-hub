@@ -1,0 +1,8 @@
+{
+  "title": "[TS] Global Player Blips",
+  "url": "https://github.com/Alfons44/altV-globalplayerblips",
+  "description": "This script add Player blips for all Players on the Server",
+  "tags": ["typescript", "utility"],
+  "cover": "https://i.imgur.com/WWffryE.png",
+  "cli": false
+}
