@@ -1,5 +1,20 @@
 [
 	{
+		"title": "[TS] Global Player Blips",
+		"url": "https://github.com/Alfons44/altV-globalplayerblips",
+		"description": "This script add Player blips for all Players on the Server",
+		"tags": [
+			"typescript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/WWffryE.png",
+		"cli": false,
+		"author": "resources/Alfons_44",
+		"updated": "2022-01-04T19:40:39.000Z",
+		"pushed": "2022-01-04T19:40:39.000Z",
+		"creation": "2022-01-04T19:40:39.000Z"
+	},
+	{
 		"title": "Sky Camera",
 		"url": "https://github.com/JoshuaGerke/altv-skycam",
 		"description": "A clientside script that allows you to use the GTA Online Skycam.",
