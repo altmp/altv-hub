@@ -1,0 +1,8 @@
+{
+  "title": "alt:V - ZoneManager",
+  "url": "https://github.com/Phill030/alt-V-ZoneManager",
+  "description": "Little script to create and trigger selfmade Polygons",
+  "tags": ["javascript", "utility"],
+  "cover": "https://imgur.com/a/6mrH2My",
+  "cli": false
+}
