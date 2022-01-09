@@ -1,5 +1,20 @@
 [
 	{
+		"title": "alt:V - ZoneManager",
+		"url": "https://github.com/Phill030/alt-V-ZoneManager",
+		"description": "Little script to create and trigger selfmade Polygons",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://imgur.com/a/6mrH2My",
+		"cli": false,
+		"author": "resources/Phill030",
+		"updated": "2022-01-09T10:42:10.000Z",
+		"pushed": "2022-01-09T10:42:10.000Z",
+		"creation": "2022-01-09T10:42:10.000Z"
+	},
+	{
 		"title": "[TS] Global Player Blips",
 		"url": "https://github.com/Alfons44/altV-globalplayerblips",
 		"description": "This script add Player blips for all Players on the Server",
