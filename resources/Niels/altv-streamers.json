@@ -1,0 +1,8 @@
+{
+  "title": "AltV Entity Sync Streamers (Objects, Textlabels, Markers, Removable world objects)",
+  "url": "https://github.com/CoffeeGen/altv-entity-streamers-os",
+  "description": "A C# server-side streamer implementation for objects, markers, textlabels(rmlui) and removing world objects. Client-side written in TypeScript.",
+  "tags": ["csharp", "javascript", "utility"],
+  "cover": "https://i.imgur.com/Mz5b8i8.png",
+  "cli": false
+}
