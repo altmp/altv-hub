@@ -1,5 +1,21 @@
 [
 	{
+		"title": "AltV Entity Sync Streamers (Objects, Textlabels, Markers, Removable world objects)",
+		"url": "https://github.com/CoffeeGen/altv-entity-streamers-os",
+		"description": "A C# server-side streamer implementation for objects, markers, textlabels(rmlui) and removing world objects. Client-side written in TypeScript.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/Mz5b8i8.png",
+		"cli": false,
+		"author": "resources/Niels",
+		"updated": "2022-02-14T11:31:17.000Z",
+		"pushed": "2022-02-14T11:31:17.000Z",
+		"creation": "2022-02-14T11:31:17.000Z"
+	},
+	{
 		"title": "alt:V - ZoneManager",
 		"url": "https://github.com/Phill030/alt-V-ZoneManager",
 		"description": "Little script to create and trigger selfmade Polygons",
