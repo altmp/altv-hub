@@ -1,5 +1,110 @@
 [
 	{
+		"title": "[C#] Freeroam",
+		"url": "https://github.com/1stNox/altv-freeroam",
+		"description": "A freeroam gamemode written in C# as alternative to the js freeroam example resource. Contains some useful commands like spawning a vehicle.",
+		"tags": [
+			"csharp",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/1stNox",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-07-04T10:51:57.000Z"
+	},
+	{
+		"title": "Notification System",
+		"url": "https://github.com/Floriian/altv-notificationsystem",
+		"description": "A simpe notification system, based on NotyJS",
+		"tags": [
+			"csharp",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/Floriian",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-05-12T18:58:20.000Z"
+	},
+	{
+		"title": "altV Manager",
+		"url": "https://github.com/OvileAmriam/altV-Manager",
+		"description": "Automated server installer, updater and launcher with Multi resource/categorization support based on MTA.",
+		"tags": [
+			"boilerplate",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/OvileAmriam",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2020-09-30T14:54:34.000Z"
+	},
+	{
+		"title": "[TS] Sit",
+		"url": "https://github.com/elsucco/altv-sit",
+		"description": "A script that allows the player to sit down on benches, chairs etc.",
+		"tags": [
+			"player",
+			"typescript",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/marloni",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-09-29T09:47:04.000Z"
+	},
+	{
+		"title": "alt:V Vue Typescript Notifications",
+		"url": "https://github.com/elsucco/altv-notifications",
+		"description": "A simple notification script made with typescript and vue.js",
+		"tags": [
+			"typescript",
+			"utility",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/marloni",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-10-23T12:30:26.000Z"
+	},
+	{
+		"title": "ServerConfigParser Repository",
+		"url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
+		"description": "A Fileparser for the Alt:V server.cfg, with any other functions.",
+		"tags": [
+			"csharp"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/schwarzi",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-04-30T19:01:22.000Z"
+	},
+	{
+		"title": "[JS] Quickstart Repository",
+		"url": "https://github.com/Stuyk/altv-quickstart",
+		"description": "A starting point for starting an alt:V server with chat, commands, etc.",
+		"tags": [
+			"boilerplate",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/stuyk",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2020-07-08T17:20:44.000Z"
+	},
+	{
 		"title": "alt:V - ZoneManager",
 		"url": "https://github.com/Phill030/alt-V-ZoneManager",
 		"description": "Little script to create and trigger selfmade Polygons",
@@ -174,22 +279,6 @@
 		"creation": "2021-10-25T20:31:41.000Z"
 	},
 	{
-		"title": "alt:V Vue Typescript Notifications",
-		"url": "https://github.com/elsucco/altv-notifications",
-		"description": "A simple notification script made with typescript and vue.js",
-		"tags": [
-			"typescript",
-			"utility",
-			"interface"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"cli": false,
-		"author": "resources/marloni",
-		"updated": "2021-10-23T12:30:26.000Z",
-		"pushed": "2021-10-23T12:30:26.000Z",
-		"creation": "2021-10-23T12:30:26.000Z"
-	},
-	{
 		"title": "[JS/TS] Esbuild dev plugin",
 		"url": "https://github.com/xxshady/esbuild-plugin-altv-dev-server",
 		"description": "esbuild plugin for extremely fast scripting using JS/TS on alt:V.",
@@ -231,22 +320,6 @@
 		"updated": "2021-10-05T15:16:19.000Z",
 		"pushed": "2021-10-05T15:16:19.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
-	},
-	{
-		"title": "[TS] Sit",
-		"url": "https://github.com/elsucco/altv-sit",
-		"description": "A script that allows the player to sit down on benches, chairs etc.",
-		"tags": [
-			"player",
-			"typescript",
-			"javascript"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"cli": false,
-		"author": "resources/marloni",
-		"updated": "2021-09-29T09:47:04.000Z",
-		"pushed": "2021-09-29T09:47:04.000Z",
-		"creation": "2021-09-29T09:47:04.000Z"
 	},
 	{
 		"title": "[C#] GTA V Pursuits Gamemode [PT/BR]",
@@ -413,21 +486,6 @@
 		"updated": "2021-08-02T22:59:39.000Z",
 		"pushed": "2021-08-02T22:59:39.000Z",
 		"creation": "2021-08-02T22:57:20.000Z"
-	},
-	{
-		"title": "[C#] Freeroam",
-		"url": "https://github.com/1stNox/altv-freeroam",
-		"description": "A freeroam gamemode written in C# as alternative to the js freeroam example resource. Contains some useful commands like spawning a vehicle.",
-		"tags": [
-			"csharp",
-			"gamemode"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"cli": false,
-		"author": "resources/1stNox",
-		"updated": "2021-07-04T10:51:57.000Z",
-		"pushed": "2021-07-04T10:51:57.000Z",
-		"creation": "2021-07-04T10:51:57.000Z"
 	},
 	{
 		"title": "[C#] Custom Commands System",
@@ -665,21 +723,6 @@
 		"creation": "2020-07-13T12:45:49.000Z"
 	},
 	{
-		"title": "Notification System",
-		"url": "https://github.com/Floriian/altv-notificationsystem",
-		"description": "A simpe notification system, based on NotyJS",
-		"tags": [
-			"csharp",
-			"javascript"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"cli": false,
-		"author": "resources/Floriian",
-		"updated": "2021-05-13T06:41:23.000Z",
-		"pushed": "2021-05-13T06:41:23.000Z",
-		"creation": "2021-05-12T18:58:20.000Z"
-	},
-	{
 		"title": "Simple Roleplay",
 		"url": "https://github.com/juztim/Simple-Roleplay",
 		"description": "A rather complete C# + JS Roleplay script for learning purposes.",
@@ -694,20 +737,6 @@
 		"updated": "2021-05-07T15:37:46.000Z",
 		"pushed": "2021-05-07T15:37:46.000Z",
 		"creation": "2021-05-07T15:27:51.000Z"
-	},
-	{
-		"title": "ServerConfigParser Repository",
-		"url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
-		"description": "A Fileparser for the Alt:V server.cfg, with any other functions.",
-		"tags": [
-			"csharp"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"cli": false,
-		"author": "resources/schwarzi",
-		"updated": "2021-04-30T19:41:12.000Z",
-		"pushed": "2021-04-30T19:41:12.000Z",
-		"creation": "2021-04-30T19:01:22.000Z"
 	},
 	{
 		"title": "Vehicle MDT Example",
@@ -982,21 +1011,6 @@
 		"updated": "2020-10-09T22:44:25.000Z",
 		"pushed": "2020-10-09T22:44:25.000Z",
 		"creation": "2020-10-09T22:41:46.000Z"
-	},
-	{
-		"title": "altV Manager",
-		"url": "https://github.com/OvileAmriam/altV-Manager",
-		"description": "Automated server installer, updater and launcher with Multi resource/categorization support based on MTA.",
-		"tags": [
-			"boilerplate",
-			"javascript"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"cli": false,
-		"author": "resources/OvileAmriam",
-		"updated": "2020-09-30T15:05:38.000Z",
-		"pushed": "2020-09-30T15:05:38.000Z",
-		"creation": "2020-09-30T14:54:34.000Z"
 	},
 	{
 		"title": "[JS] OS Weather and Time Sync",
@@ -1942,20 +1956,6 @@
 		"updated": "2020-07-26T13:36:25.000Z",
 		"pushed": "2020-07-26T13:36:25.000Z",
 		"creation": "2020-07-12T14:52:02.000Z"
-	},
-	{
-		"title": "[JS] Quickstart Repository",
-		"url": "https://github.com/Stuyk/altv-quickstart",
-		"description": "A starting point for starting an alt:V server with chat, commands, etc.",
-		"tags": [
-			"boilerplate",
-			"javascript"
-		],
-		"cover": "https://i.imgur.com/0t0vDFE.jpg",
-		"author": "resources/stuyk",
-		"updated": "2020-07-26T13:36:25.000Z",
-		"pushed": "2020-07-26T13:36:25.000Z",
-		"creation": "2020-07-08T17:20:44.000Z"
 	},
 	{
 		"title": "[JS] Postgres Database Wrapper",
