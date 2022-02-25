@@ -26,7 +26,7 @@ Description must not be longer than 750 characters.
   "url": "https://github.com/Stuyk/altv-quickstart",
   "description": "A starting point for starting an alt:V server with chat, commands, etc.",
   "tags": ["boilerplate", "javascript", "quickstart"],
-  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "cover": "https://i.imgur.com/SoQUFKf.png",
   "cli": false
 }
 ```
