@@ -2,7 +2,9 @@
   "title": "ServerConfigParser Repository",
   "url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
   "description": "A Fileparser for the Alt:V server.cfg, with any other functions.",
-  "tags": ["csharp"],
-  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "tags": [
+    "csharp"
+  ],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
   "cli": false
 }

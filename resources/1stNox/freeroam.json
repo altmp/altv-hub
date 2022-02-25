@@ -2,7 +2,10 @@
   "title": "[C#] Freeroam",
   "url": "https://github.com/1stNox/altv-freeroam",
   "description": "A freeroam gamemode written in C# as alternative to the js freeroam example resource. Contains some useful commands like spawning a vehicle.",
-  "tags": ["csharp", "gamemode"],
-  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "tags": [
+    "csharp",
+    "gamemode"
+  ],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
   "cli": false
 }

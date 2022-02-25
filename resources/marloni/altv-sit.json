@@ -2,7 +2,11 @@
   "title": "[TS] Sit",
   "url": "https://github.com/elsucco/altv-sit",
   "description": "A script that allows the player to sit down on benches, chairs etc.",
-  "tags": ["player", "typescript", "javascript"],
-  "cover": "https://i.imgur.com/0t0vDFE.jpg",
+  "tags": [
+    "player",
+    "typescript",
+    "javascript"
+  ],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
   "cli": false
 }
