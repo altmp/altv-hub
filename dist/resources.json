@@ -1,0 +1,2117 @@
+[
+	{
+		"title": "[JS/TS] client xstreamer",
+		"url": "https://github.com/xxshady/altv-client-xstreamer",
+		"description": "clientside entity streamer (JS/TS) based on workers",
+		"tags": [
+			"javascript",
+			"typescript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/v1ovsoc.jpg",
+		"author": "resources/xshady",
+		"updated": "2022-03-08T20:52:47.000Z",
+		"pushed": "2022-03-08T20:52:47.000Z",
+		"creation": "2022-03-08T20:52:47.000Z"
+	},
+	{
+		"title": "[C#] Freeroam",
+		"url": "https://github.com/1stNox/altv-freeroam",
+		"description": "A freeroam gamemode written in C# as alternative to the js freeroam example resource. Contains some useful commands like spawning a vehicle.",
+		"tags": [
+			"csharp",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/1stNox",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-07-04T10:51:57.000Z"
+	},
+	{
+		"title": "Notification System",
+		"url": "https://github.com/Floriian/altv-notificationsystem",
+		"description": "A simpe notification system, based on NotyJS",
+		"tags": [
+			"csharp",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/Floriian",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-05-12T18:58:20.000Z"
+	},
+	{
+		"title": "altV Manager",
+		"url": "https://github.com/OvileAmriam/altV-Manager",
+		"description": "Automated server installer, updater and launcher with Multi resource/categorization support based on MTA.",
+		"tags": [
+			"boilerplate",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/OvileAmriam",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2020-09-30T14:54:34.000Z"
+	},
+	{
+		"title": "[TS] Sit",
+		"url": "https://github.com/elsucco/altv-sit",
+		"description": "A script that allows the player to sit down on benches, chairs etc.",
+		"tags": [
+			"player",
+			"typescript",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/marloni",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-09-29T09:47:04.000Z"
+	},
+	{
+		"title": "alt:V Vue Typescript Notifications",
+		"url": "https://github.com/elsucco/altv-notifications",
+		"description": "A simple notification script made with typescript and vue.js",
+		"tags": [
+			"typescript",
+			"utility",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/marloni",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-10-23T12:30:26.000Z"
+	},
+	{
+		"title": "ServerConfigParser Repository",
+		"url": "https://github.com/schwarzi/ALT-V-ServerConfigParser",
+		"description": "A Fileparser for the Alt:V server.cfg, with any other functions.",
+		"tags": [
+			"csharp"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/schwarzi",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2021-04-30T19:01:22.000Z"
+	},
+	{
+		"title": "[JS] Quickstart Repository",
+		"url": "https://github.com/Stuyk/altv-quickstart",
+		"description": "A starting point for starting an alt:V server with chat, commands, etc.",
+		"tags": [
+			"boilerplate",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/stuyk",
+		"updated": "2022-02-25T17:53:53.000Z",
+		"pushed": "2022-02-25T17:53:53.000Z",
+		"creation": "2020-07-08T17:20:44.000Z"
+	},
+	{
+		"title": "alt:V - ZoneManager",
+		"url": "https://github.com/Phill030/alt-V-ZoneManager",
+		"description": "Little script to create and trigger selfmade Polygons",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/STiydsz.png",
+		"cli": false,
+		"author": "resources/Phill030",
+		"updated": "2022-02-25T11:29:47.000Z",
+		"pushed": "2022-02-25T11:29:47.000Z",
+		"creation": "2022-01-09T10:42:10.000Z"
+	},
+	{
+		"title": "Animation Menu",
+		"url": "https://github.com/mcmuffin77/altv-animationmenu",
+		"description": "A simple menu for the player to choose and play an animation.",
+		"tags": [
+			"typescript",
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/4xvBcmI.png",
+		"cli": false,
+		"author": "resources/mcmuffin77",
+		"updated": "2022-02-25T11:29:11.000Z",
+		"pushed": "2022-02-25T11:29:11.000Z",
+		"creation": "2021-05-07T16:36:10.000Z"
+	},
+	{
+		"title": "AltV Entity Sync Streamers (Objects, Textlabels, Markers, Removable world objects)",
+		"url": "https://github.com/CoffeeGen/altv-entity-streamers-os",
+		"description": "A C# server-side streamer implementation for objects, markers, textlabels(rmlui) and removing world objects. Client-side written in TypeScript.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/Mz5b8i8.png",
+		"cli": false,
+		"author": "resources/Niels",
+		"updated": "2022-02-14T11:31:17.000Z",
+		"pushed": "2022-02-14T11:31:17.000Z",
+		"creation": "2022-02-14T11:31:17.000Z"
+	},
+	{
+		"title": "[TS] Global Player Blips",
+		"url": "https://github.com/Alfons44/altV-globalplayerblips",
+		"description": "This script add Player blips for all Players on the Server",
+		"tags": [
+			"typescript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/WWffryE.png",
+		"cli": false,
+		"author": "resources/Alfons_44",
+		"updated": "2022-01-04T19:40:39.000Z",
+		"pushed": "2022-01-04T19:40:39.000Z",
+		"creation": "2022-01-04T19:40:39.000Z"
+	},
+	{
+		"title": "Sky Camera",
+		"url": "https://github.com/JoshuaGerke/altv-skycam",
+		"description": "A clientside script that allows you to use the GTA Online Skycam.",
+		"tags": [
+			"javascript",
+			"player",
+			"utility"
+		],
+		"cover": "https://imgur.com/Szze7bR.jpg",
+		"author": "resources/JoshuaGerke",
+		"updated": "2021-12-26T11:39:14.000Z",
+		"pushed": "2021-12-26T11:39:14.000Z",
+		"creation": "2021-12-26T11:39:14.000Z"
+	},
+	{
+		"title": "[TS] Developer Tools",
+		"url": "https://github.com/zziger/altv-dev-tools",
+		"description": "Developer helper tools including powerful in-game code editor, model inspector, fly, and more.",
+		"tags": [
+			"typescript",
+			"utility",
+			"interface",
+			"player"
+		],
+		"cover": "https://i.imgur.com/0Cu6FMw.png",
+		"cli": false,
+		"author": "resources/zziger",
+		"updated": "2021-12-21T20:27:40.000Z",
+		"pushed": "2021-12-21T20:27:40.000Z",
+		"creation": "2021-12-21T20:27:40.000Z"
+	},
+	{
+		"title": "[JS] alt:V Tablet Script",
+		"url": "https://github.com/V4M0N0S/altv-tablet",
+		"description": "A simple resource for your alt:V Server - Show your content in a tablet!",
+		"tags": [
+			"javascript",
+			"quickstart",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/dZW5rQE.jpg",
+		"cli": false,
+		"author": "resources/V4M0N0S",
+		"updated": "2021-12-14T14:07:05.000Z",
+		"pushed": "2021-12-14T14:07:05.000Z",
+		"creation": "2021-12-14T14:07:05.000Z"
+	},
+	{
+		"title": "[JS] alt:V Flatbed Script",
+		"url": "https://github.com/V4M0N0S/altv-flatbed",
+		"description": "A simple resource for your alt:V Server - Tow your cars with a flatbed!",
+		"tags": [
+			"javascript",
+			"vehicle",
+			"flatbed"
+		],
+		"cover": "https://i.imgur.com/BgCtLpc.jpg",
+		"cli": false,
+		"author": "resources/V4M0N0S",
+		"updated": "2021-12-12T17:21:30.000Z",
+		"pushed": "2021-12-12T17:21:30.000Z",
+		"creation": "2021-12-11T20:10:40.000Z"
+	},
+	{
+		"title": "EasyNoClip",
+		"url": "https://github.com/Swwox/EasyNoClip",
+		"description": "Just a simple noclip.",
+		"tags": [
+			"player",
+			"javascript",
+			"vehicle",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/YX4Q555.png",
+		"cli": false,
+		"author": "resources/Swox",
+		"updated": "2021-12-06T09:50:13.000Z",
+		"pushed": "2021-12-06T09:50:13.000Z",
+		"creation": "2021-12-06T09:50:13.000Z"
+	},
+	{
+		"title": "[TS] Object Streamer",
+		"url": "https://github.com/gurkansahinn/object-streamer",
+		"description": "A simple and useful object handler (with sync attachable to entity). It is based on server side usage.",
+		"tags": [
+			"typescript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/luKx6xC.png",
+		"cli": false,
+		"author": "resources/Amper",
+		"updated": "2021-11-15T10:17:59.000Z",
+		"pushed": "2021-11-15T10:17:59.000Z",
+		"creation": "2021-10-23T09:24:23.000Z"
+	},
+	{
+		"title": "altV-better-notify",
+		"url": "https://github.com/LorianAtashi01/altV-better-notify",
+		"description": "Notification System made with React (including Queue System)",
+		"tags": [
+			"javascript",
+			"typescript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/fFUBoXb.png",
+		"cli": false,
+		"author": "resources/LorianAtashi01",
+		"updated": "2021-10-25T20:31:41.000Z",
+		"pushed": "2021-10-25T20:31:41.000Z",
+		"creation": "2021-10-25T20:31:41.000Z"
+	},
+	{
+		"title": "[JS/TS] Esbuild dev plugin",
+		"url": "https://github.com/xxshady/esbuild-plugin-altv-dev-server",
+		"description": "esbuild plugin for extremely fast scripting using JS/TS on alt:V.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/spCngWE.jpg",
+		"author": "resources/xshady",
+		"updated": "2021-10-20T10:55:15.000Z",
+		"pushed": "2021-10-20T10:55:15.000Z",
+		"creation": "2021-10-20T10:55:15.000Z"
+	},
+	{
+		"title": "[JS] Simple Object Streamer",
+		"url": "https://github.com/LameuleFR/AltV-Object-ClientSide-Streamer",
+		"description": "Simple object streamers without using EntitySync.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/LameuleFR",
+		"updated": "2021-10-05T15:16:19.000Z",
+		"pushed": "2021-10-05T15:16:19.000Z",
+		"creation": "2021-10-05T15:16:19.000Z"
+	},
+	{
+		"title": "[C#] Complete Streamer with EntitySync",
+		"url": "https://github.com/LameuleFR/altv-csharp-streamer",
+		"description": "ServerSide Streamer using EntitySync. Currently supported: TextLabel, Marker, Object, HelpText.",
+		"tags": [
+			"csharp",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/LameuleFR",
+		"updated": "2021-10-05T15:16:19.000Z",
+		"pushed": "2021-10-05T15:16:19.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C#] GTA V Pursuits Gamemode [PT/BR]",
+		"url": "https://github.com/GuilhermeTrevizani/pursuits-server",
+		"description": "GTA V Pursuits Gamemode C#",
+		"tags": [
+			"csharp",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/9B0JITT.jpg",
+		"cli": false,
+		"author": "resources/GuilhermeTrevizani",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-02-27T17:07:22.000Z"
+	},
+	{
+		"title": "[JS] AltV-Infoscript",
+		"url": "https://github.com/Heady20006/AltV-InfoScript",
+		"description": "Small script to get several informations about the Player, Vehicle or other Entities. Using raycast to get an Entity",
+		"tags": [
+			"player",
+			"tool",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/9tZv4hm.png",
+		"cli": false,
+		"author": "resources/Heady20006",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-07-15T10:37:29.000Z"
+	},
+	{
+		"title": "[JS] 3D-Speedo",
+		"url": "https://github.com/Heady20006/altV-3D-Speedo",
+		"description": "A nice 3D-Speedo to show Speed, RPM, Gear, Fuellevel, Lightstate and Enginestate next to the vehicle",
+		"tags": [
+			"vehicle",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/IUlBkey.png",
+		"cli": false,
+		"author": "resources/Heady20006",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-07-15T10:00:58.000Z"
+	},
+	{
+		"title": "Teamspeak Lip Animation Synchronisation",
+		"url": "https://github.com/Squizzor/SquizzorLipSync",
+		"description": "A resource which connects to a Teamspeak server to get all talking players and synchronizes the lips animation on the player models.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"player",
+			"ped"
+		],
+		"cover": "https://i.imgur.com/7Ve3hJK.png",
+		"cli": false,
+		"author": "resources/Squizzor",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-02-23T20:32:06.000Z"
+	},
+	{
+		"title": "Speedometer",
+		"url": "https://github.com/Basarus/ALT-V-Speedometr",
+		"description": "A beautiful speedometer with a link to the car",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/Xd6gHl5.png",
+		"cli": false,
+		"author": "resources/basap",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-09-09T20:07:44.000Z"
+	},
+	{
+		"title": "Crawl",
+		"url": "https://github.com/Basarus/ALT-V-Crawl",
+		"description": "A script that allows the player to crawl",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/lQdPC8s.png",
+		"cli": false,
+		"author": "resources/basap",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-09-09T20:14:05.000Z"
+	},
+	{
+		"title": "AuthMenu",
+		"url": "https://github.com/Basarus/ALT-V-AuthSystem",
+		"description": "Authorization, registration, and mail recovery menu for ALT:V servers",
+		"tags": [
+			"javascript",
+			"authorization"
+		],
+		"cover": "https://i.imgur.com/tVWhyQm.png",
+		"cli": false,
+		"author": "resources/basap",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-04-01T19:34:02.000Z"
+	},
+	{
+		"title": "Police Shields",
+		"url": "https://github.com/benstrobel/altv-police-shield",
+		"description": "Adds usable bullet blocking ballistic & riot police shields.",
+		"tags": [
+			"player",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/Enn6Z1I.png",
+		"cli": false,
+		"author": "resources/battlepig",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-05-28T13:01:57.000Z"
+	},
+	{
+		"title": "React WebView event handler",
+		"url": "https://github.com/TheKineese/altv-webview-event-handler",
+		"description": "An implementation to (un)subscribe and mock incoming alt-events and fire events inside your React UI.",
+		"tags": [
+			"typescript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/the_kineese",
+		"updated": "2021-09-09T23:18:47.000Z",
+		"pushed": "2021-09-09T23:18:47.000Z",
+		"creation": "2021-06-26T11:45:40.000Z"
+	},
+	{
+		"title": "Power Outages with Vehicle lights on!",
+		"url": "https://github.com/Annihilator4423/poweroutage",
+		"description": "This script allows you to have server wide blackouts with vehicle lights still enabled!",
+		"tags": [
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/rhys19",
+		"updated": "2021-08-02T22:59:49.000Z",
+		"pushed": "2021-08-02T22:59:49.000Z",
+		"creation": "2021-08-02T22:56:17.000Z"
+	},
+	{
+		"title": "Delete your vehicles to prevent buildup!",
+		"url": "https://github.com/Annihilator4423/delveh",
+		"description": "Delete your vehicles ingame with /dv to prevent vehicle buildup!",
+		"tags": [
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/rhys19",
+		"updated": "2021-08-02T22:59:39.000Z",
+		"pushed": "2021-08-02T22:59:39.000Z",
+		"creation": "2021-08-02T22:57:20.000Z"
+	},
+	{
+		"title": "[C#] Custom Commands System",
+		"url": "https://github.com/emre1702/altv-CustomCommandsSystem",
+		"description": "A custom commands system written in C#. The package can be found in NuGet.",
+		"tags": [
+			"csharp",
+			"player",
+			"utility"
+		],
+		"cover": "https://imgur.com/bF2V76n.jpg",
+		"cli": false,
+		"author": "resources/Bonus",
+		"updated": "2021-06-25T20:16:19.000Z",
+		"pushed": "2021-06-25T20:16:19.000Z",
+		"creation": "2021-06-25T19:33:11.000Z"
+	},
+	{
+		"title": "[TS / JS] Menu Builder",
+		"url": "https://github.com/LeonMrBonnie/altv-os-menu",
+		"description": "A menu builder written in TypeScript using Vue with Vuetify.",
+		"tags": [
+			"typescript",
+			"javascript",
+			"utility",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/Fc0heaD.png",
+		"cli": false,
+		"author": "resources/LeonMrBonnie",
+		"updated": "2021-06-23T13:38:58.000Z",
+		"pushed": "2021-06-23T13:38:58.000Z",
+		"creation": "2021-06-21T16:18:34.000Z"
+	},
+	{
+		"title": "[JS] Altv Siren Control",
+		"url": "https://github.com/azarzaza/altv-siren-control",
+		"description": "A siren control version for toggling five type of siren in emergency vehicle",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/LLYxi6H.jpg",
+		"cli": false,
+		"author": "resources/azarzaza",
+		"updated": "2021-06-23T05:30:47.000Z",
+		"pushed": "2021-06-23T05:30:47.000Z",
+		"creation": "2021-06-07T06:42:33.000Z"
+	},
+	{
+		"title": "[C#] Blip System | Postgres & MySql",
+		"url": "https://github.com/1stNox/altv-blips",
+		"description": "A simple blip system written in C#(serverside) and JS (clientside). Using Postgres or MySql to save and get the blip data.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/qVEuYB1.jpg",
+		"cli": false,
+		"author": "resources/1stNox",
+		"updated": "2021-06-03T14:37:57.000Z",
+		"pushed": "2021-06-03T14:37:57.000Z",
+		"creation": "2021-06-03T14:04:25.000Z"
+	},
+	{
+		"title": "Better Clothing Menu with JavaScript",
+		"url": "https://github.com/LeCyreaxYT/altv-better-clothing",
+		"description": "A Better Clothing Menu with you can switch Clothings without Press Enter",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/7UfLo2e.png",
+		"author": "resources/LeCyreaxYT",
+		"updated": "2021-06-02T13:36:01.000Z",
+		"pushed": "2021-06-02T13:36:01.000Z",
+		"creation": "2021-06-02T13:36:01.000Z"
+	},
+	{
+		"title": "Better NoClip with JavaScript",
+		"url": "https://github.com/LeCyreaxYT/altv-better-noclip",
+		"description": "A NoClip Script with Support for vehicles and players",
+		"tags": [
+			"javascript",
+			"player",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/Et8KDfa.png",
+		"author": "resources/LeCyreaxYT",
+		"updated": "2021-06-01T21:30:01.000Z",
+		"pushed": "2021-06-01T21:30:01.000Z",
+		"creation": "2021-06-01T21:30:01.000Z"
+	},
+	{
+		"title": "[C#] VenoX Global Bans & Anticheat",
+		"url": "https://github.com/Kuroosh/altV-GlobalBan",
+		"description": "A self maintained global anticheat and global ban system.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/gLjXED1.jpg",
+		"author": "resources/Kuroosh",
+		"updated": "2021-05-29T23:01:28.000Z",
+		"pushed": "2021-05-29T23:01:28.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C#] 2D & 3D Voice Chat",
+		"url": "https://github.com/Kuroosh/altV-Voice",
+		"description": "This resourece allows you to utilize alt:V's built-in voice service.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"utility",
+			"voice"
+		],
+		"cover": "https://i.imgur.com/YzjgDNG.png",
+		"author": "resources/Kuroosh",
+		"updated": "2021-05-29T23:01:28.000Z",
+		"pushed": "2021-05-29T23:01:28.000Z",
+		"creation": "2020-07-09T22:11:05.000Z"
+	},
+	{
+		"title": "[C#] VenoX Gangwars",
+		"url": "https://github.com/Kuroosh/altV-Gangwars",
+		"description": "Simple gangwars with 13 teams and no team damage. Written in csharp.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/lKRkL0A.jpg",
+		"author": "resources/Kuroosh",
+		"updated": "2021-05-29T23:01:28.000Z",
+		"pushed": "2021-05-29T23:01:28.000Z",
+		"creation": "2020-07-09T22:17:40.000Z"
+	},
+	{
+		"title": "Colorized Player Blips",
+		"url": "https://github.com/Kuroosh/altV-PlayerBlips",
+		"description": "Colorized Player Blips! You can disbale the Color & set some more things in the settings.json.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"player",
+			"map",
+			"data",
+			"tool",
+			"utility",
+			"ped"
+		],
+		"cover": "https://i.imgur.com/0GCBzvD.png",
+		"author": "resources/Kuroosh",
+		"updated": "2021-05-29T22:40:18.000Z",
+		"pushed": "2021-05-29T22:40:18.000Z",
+		"creation": "2020-10-15T12:49:04.000Z"
+	},
+	{
+		"title": "Aim Info",
+		"url": "https://github.com/Squizzor/SquizzorAimInfo",
+		"description": "A little resource which gives information about the current aiming position including some entity details.",
+		"tags": [
+			"javascript",
+			"player",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/iWexLhl.png",
+		"cli": false,
+		"author": "resources/Squizzor",
+		"updated": "2021-05-27T10:24:49.000Z",
+		"pushed": "2021-05-27T10:24:49.000Z",
+		"creation": "2021-05-27T10:24:49.000Z"
+	},
+	{
+		"title": "Object Attacher",
+		"url": "https://github.com/Squizzor/SquizzorObjectAttacher",
+		"description": "A resource which allows you to easily attach objects to players.",
+		"tags": [
+			"javascript",
+			"player",
+			"ped"
+		],
+		"cover": "https://i.imgur.com/7BqhYkS.png",
+		"cli": false,
+		"author": "resources/Squizzor",
+		"updated": "2021-05-26T17:36:14.000Z",
+		"pushed": "2021-05-26T17:36:14.000Z",
+		"creation": "2021-05-26T17:36:14.000Z"
+	},
+	{
+		"title": "Admin Control Panel API",
+		"url": "https://github.com/riffy/altv-adminpanel-api",
+		"description": "A simple API for retrieving server information, player management and other admin stuff using express.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/PyL1Hif.png",
+		"cli": false,
+		"author": "resources/meisterboom",
+		"updated": "2021-05-19T15:53:28.000Z",
+		"pushed": "2021-05-19T15:53:28.000Z",
+		"creation": "2021-05-19T15:51:09.000Z"
+	},
+	{
+		"title": "[JS] Screenshot-Websocket",
+		"url": "https://github.com/tastydev/websocket-screenshot-altv",
+		"description": "Example alt:V Multiplayer resource for alt-websocket and alt-screenshot api",
+		"tags": [
+			"javascript",
+			"player",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/JSEMcHT.png",
+		"author": "resources/t4styy",
+		"updated": "2021-05-17T14:09:54.000Z",
+		"pushed": "2021-05-17T14:09:54.000Z",
+		"creation": "2021-05-17T14:05:15.000Z"
+	},
+	{
+		"title": "[JS] Weather Date Sync",
+		"url": "https://github.com/tastydev/weatherDateSync-altv",
+		"description": "This resource syncs real weather of cities to the game.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/t4styy",
+		"updated": "2021-05-17T14:05:15.000Z",
+		"pushed": "2021-05-17T14:05:15.000Z",
+		"creation": "2020-07-13T12:45:49.000Z"
+	},
+	{
+		"title": "Simple Roleplay",
+		"url": "https://github.com/juztim/Simple-Roleplay",
+		"description": "A rather complete C# + JS Roleplay script for learning purposes.",
+		"tags": [
+			"csharp",
+			"gamemode",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/8ZmIsbj.jpg",
+		"cli": false,
+		"author": "resources/JuzTim",
+		"updated": "2021-05-07T15:37:46.000Z",
+		"pushed": "2021-05-07T15:37:46.000Z",
+		"creation": "2021-05-07T15:27:51.000Z"
+	},
+	{
+		"title": "Vehicle MDT Example",
+		"url": "https://github.com/Studio5Net/ALT-V-vehicle-MDT",
+		"description": "An Example Resource on how to create a Webview that only works in an Emergency Vehicle for an MDT or other related Roleplay tools",
+		"tags": [
+			"interface",
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/AmfZWZg.png",
+		"author": "resources/Studio5",
+		"updated": "2021-04-13T01:24:20.000Z",
+		"pushed": "2021-04-13T01:24:20.000Z",
+		"creation": "2021-04-13T01:24:20.000Z"
+	},
+	{
+		"title": "alt:RP Voice",
+		"url": "https://github.com/Flashrex/alt-Voice",
+		"description": "A voice API implementing ranged Voice Channels, Custom Voice Channels and a radio.",
+		"tags": [
+			"csharp",
+			"javascript",
+			"voice"
+		],
+		"cover": "https://i.imgur.com/bP8kHkW.png",
+		"cli": false,
+		"author": "resources/Flashrex",
+		"updated": "2021-04-08T15:35:15.000Z",
+		"pushed": "2021-04-08T15:35:15.000Z",
+		"creation": "2021-01-05T03:05:26.000Z"
+	},
+	{
+		"title": "Official alt:V Example Resources",
+		"url": "https://github.com/altmp/altv-example-resources",
+		"description": "The official alt:V example resources, it currently contains the following resources: chat, freeroam and voice.",
+		"tags": [
+			"javascript",
+			"quickstart",
+			"voice"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/altmp",
+		"updated": "2021-04-08T15:33:43.000Z",
+		"pushed": "2021-04-08T15:33:43.000Z",
+		"creation": "2020-12-06T19:24:15.000Z"
+	},
+	{
+		"title": "alt:V Voice Server Docker image",
+		"url": "https://github.com/eisengrind/docker-altv-voice-server",
+		"description": "The unofficial Alt:V voice server Docker image",
+		"tags": [
+			"tool",
+			"utility",
+			"voice"
+		],
+		"cover": "https://i.imgur.com/DzypXwQ.jpg",
+		"author": "resources/eisengrind",
+		"updated": "2021-04-08T15:32:27.000Z",
+		"pushed": "2021-04-08T15:32:27.000Z",
+		"creation": "2020-07-13T16:43:49.000Z"
+	},
+	{
+		"title": "Discord Web Hooks",
+		"url": "https://github.com/R3DIANCE/altv-discordWebHook",
+		"description": "Invoke discord webhooks via server scriping",
+		"tags": [
+			"discord",
+			"utility",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/cHLRnvJ.jpg",
+		"author": "resources/R3DIANCE",
+		"updated": "2021-03-29T16:04:49.000Z",
+		"pushed": "2021-03-29T16:04:49.000Z",
+		"creation": "2021-03-29T01:40:27.000Z"
+	},
+	{
+		"title": "UI Pack",
+		"url": "https://github.com/Noel-Schmidt/gtarp-clientui",
+		"description": "UI pack with login / register and more",
+		"tags": [
+			"interface"
+		],
+		"cover": "https://i.imgur.com/8G9A0Xh.png",
+		"cli": false,
+		"author": "resources/NoelSchmidt",
+		"updated": "2021-03-12T06:38:21.000Z",
+		"pushed": "2021-03-12T06:38:21.000Z",
+		"creation": "2021-03-12T06:38:21.000Z"
+	},
+	{
+		"title": "[C#] Segunda Vida Roleplay Gamemode [PT/BR]",
+		"url": "https://github.com/GuilhermeTrevizani/roleplay-server",
+		"description": "Segunda Vida Roleplay Gamemode C#",
+		"tags": [
+			"csharp",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/9B0JITT.jpg",
+		"cli": false,
+		"author": "resources/GuilhermeTrevizani",
+		"updated": "2021-02-27T17:06:42.000Z",
+		"pushed": "2021-02-27T17:06:42.000Z",
+		"creation": "2021-01-07T20:17:12.000Z"
+	},
+	{
+		"title": "alt:V Battlefield Open Source Game Mode",
+		"url": "https://github.com/KadirFiratFTW/alt-V-Battle-Field-OS-GameMode",
+		"description": "Open Source Battlefield Game Mode for alt:V",
+		"tags": [
+			"gamemode",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/Mk9psMw.jpg",
+		"cli": false,
+		"author": "resources/benkf",
+		"updated": "2021-02-10T14:31:44.000Z",
+		"pushed": "2021-02-10T14:31:44.000Z",
+		"creation": "2021-02-10T14:31:44.000Z"
+	},
+	{
+		"title": "Vehicle HUD",
+		"url": "https://github.com/oell3/altv-Vehicle-Hud",
+		"description": "A simple vehicle hud. When the tank reaches 0%, the vehicle stops ",
+		"tags": [
+			"javascript",
+			"quickstart",
+			"interface",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/HYKks1N.png",
+		"cli": false,
+		"author": "resources/Ölle",
+		"updated": "2021-02-08T02:39:02.000Z",
+		"pushed": "2021-02-08T02:39:02.000Z",
+		"creation": "2021-02-08T02:19:43.000Z"
+	},
+	{
+		"title": "Clothes menu",
+		"url": "https://github.com/Nicoo34/Clothes-Menu",
+		"description": "A useful menu who give you the posibility to test your clothes, require NativeUI",
+		"tags": [
+			"javascript",
+			"player",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/Nicoo",
+		"updated": "2021-01-08T12:58:10.000Z",
+		"pushed": "2021-01-08T12:58:10.000Z",
+		"creation": "2021-01-08T12:47:04.000Z"
+	},
+	{
+		"title": "alt:V Svelte Tailwind TypeScript Starter",
+		"url": "https://github.com/abstractFlo/altv-svelte-tailwind-typescript",
+		"description": "A starting point for creating your gui with svelte, typescript and tailwind. Includes event helper class.",
+		"tags": [
+			"boilerplate",
+			"quickstart"
+		],
+		"cover": "https://i.imgur.com/4HUyFuX.png",
+		"cli": false,
+		"author": "resources/abstractFlo",
+		"updated": "2021-01-05T13:31:51.000Z",
+		"pushed": "2021-01-05T13:31:51.000Z",
+		"creation": "2021-01-04T16:26:32.000Z"
+	},
+	{
+		"title": "[Template] Vehicle Addon",
+		"url": "https://github.com/Carbon-Open-Source-Factory/addon_vehicle_template",
+		"description": "A simple template to reuse for creating vehicle addons.",
+		"tags": [
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/CarbonTM",
+		"updated": "2020-12-29T14:03:57.000Z",
+		"pushed": "2020-12-29T14:03:57.000Z",
+		"creation": "2020-12-29T13:59:24.000Z"
+	},
+	{
+		"title": "Ares - No Setup Discord Auth",
+		"url": "https://github.com/Stuyk/altv-ares",
+		"description": "This repository simplifies the entire process of Discord Authentication for alt:V or any GTA:V Framework if you write your own module.",
+		"tags": [
+			"javascript",
+			"tool",
+			"authorization",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/7xAUJqR.png",
+		"author": "resources/stuyk",
+		"updated": "2020-12-26T03:28:45.000Z",
+		"pushed": "2020-12-26T03:28:45.000Z",
+		"creation": "2020-12-26T03:27:59.000Z"
+	},
+	{
+		"title": "Athena Roleplay Framework",
+		"url": "https://github.com/Stuyk/altv-athena",
+		"description": "A Roleplay Framework that handles the author's interpretation of core roleplay.",
+		"tags": [
+			"typescript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/7xAUJqR.png",
+		"author": "resources/stuyk",
+		"updated": "2020-12-26T03:27:59.000Z",
+		"pushed": "2020-12-26T03:27:59.000Z",
+		"creation": "2020-12-26T03:27:59.000Z"
+	},
+	{
+		"title": "Animator",
+		"url": "https://github.com/ithr0n/altv-animator",
+		"description": "Preview animations in game",
+		"tags": [
+			"javascript",
+			"tool",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/2K53geF.png",
+		"cli": false,
+		"author": "resources/ithr0n",
+		"updated": "2020-12-05T23:18:51.000Z",
+		"pushed": "2020-12-05T23:18:51.000Z",
+		"creation": "2020-12-05T23:15:21.000Z"
+	},
+	{
+		"title": "NotifyMe! Easy Notifications",
+		"url": "https://github.com/rodistic/NotifyMe",
+		"description": "An easy to use Notifications System for your Server!",
+		"tags": [
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/PYnE4Kp.png",
+		"cli": false,
+		"author": "resources/ROD",
+		"updated": "2020-11-29T15:38:20.000Z",
+		"pushed": "2020-11-29T15:38:20.000Z",
+		"creation": "2020-10-29T10:29:50.000Z"
+	},
+	{
+		"title": "alt:V Notifications",
+		"url": "https://github.com/godkoten/altv-notifications",
+		"description": "GTAV Notifications",
+		"tags": [
+			"javascript",
+			"notifications"
+		],
+		"cover": "https://i.imgur.com/Ixhrpag.png",
+		"author": "resources/GodKoten",
+		"updated": "2020-10-30T11:24:29.000Z",
+		"pushed": "2020-10-30T11:24:29.000Z",
+		"creation": "2020-10-30T11:24:29.000Z"
+	},
+	{
+		"title": "[JS] Speedcam",
+		"url": "https://github.com/benstrobel/altv-speedcam",
+		"description": "Adds a speedcam which can be used to monitor the speed of passing vehicles.",
+		"tags": [
+			"javascript",
+			"vehicle",
+			"tool",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/Tf6WcFn.jpg",
+		"cli": false,
+		"author": "resources/battlepig",
+		"updated": "2020-10-09T22:44:25.000Z",
+		"pushed": "2020-10-09T22:44:25.000Z",
+		"creation": "2020-10-09T22:41:46.000Z"
+	},
+	{
+		"title": "[JS] OS Weather and Time Sync",
+		"url": "https://github.com/MateqB/altv-os-weather-time-sync",
+		"description": "This resource is syncing time (Without dates) and weather with smooth transitions.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/Mateq",
+		"updated": "2020-09-29T18:10:15.000Z",
+		"pushed": "2020-09-29T18:10:15.000Z",
+		"creation": "2020-09-29T18:08:49.000Z"
+	},
+	{
+		"title": "Native Trainer",
+		"url": "https://github.com/Jayreen58/altv-trainer",
+		"description": "altv-trainer is a general-purpose menu built on NativeUI designed for alt:V.",
+		"tags": [
+			"typescript",
+			"interface",
+			"vehicle",
+			"player",
+			"ped",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/KEDjZjN.png",
+		"cli": false,
+		"author": "resources/Jayreen",
+		"updated": "2020-09-18T14:27:28.000Z",
+		"pushed": "2020-09-18T14:27:28.000Z",
+		"creation": "2020-09-18T14:11:42.000Z"
+	},
+	{
+		"title": "Marker Manager",
+		"url": "https://github.com/MateqB/altv-os-marker-manager",
+		"description": "This is server-side marker manager. It allows you to Create/Delete markers on the server. It also contains Enter/Leave/Interact events for client and server side.",
+		"tags": [
+			"utility",
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/i9NKMNZ.png",
+		"cli": false,
+		"author": "resources/Mateq",
+		"updated": "2020-09-16T15:19:01.000Z",
+		"pushed": "2020-09-16T15:19:01.000Z",
+		"creation": "2020-09-16T15:19:01.000Z"
+	},
+	{
+		"title": "Free Horney`s Burger MLO - Alt:V ready",
+		"url": "https://github.com/Techlef/honeysburgershop",
+		"description": "a Free MLO for all Alt:V Servers, this is a ready Server Resource!",
+		"tags": [
+			"map"
+		],
+		"cover": "https://imgur.com/g1Q2Lck.png",
+		"cli": false,
+		"author": "resources/techlef",
+		"updated": "2020-09-14T21:55:18.000Z",
+		"pushed": "2020-09-14T21:55:18.000Z",
+		"creation": "2020-09-14T21:55:18.000Z"
+	},
+	{
+		"title": "[JS] Vehicle Lock System",
+		"url": "https://github.com/MateqB/altv-vehicle-lock-system",
+		"description": "This resource allows you to simply Close/Open vehicle.",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/Mateq",
+		"updated": "2020-09-10T12:54:02.000Z",
+		"pushed": "2020-09-10T12:54:02.000Z",
+		"creation": "2020-09-10T12:51:32.000Z"
+	},
+	{
+		"title": "OS Map - Construction & Road Block 05",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-construction05",
+		"description": "This is part of a pack with construction sites and road blocks.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/bZsSi8D.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-07T22:52:53.000Z",
+		"pushed": "2020-09-07T22:52:53.000Z",
+		"creation": "2020-09-07T22:52:53.000Z"
+	},
+	{
+		"title": "OS Map - Construction & Road Block 04",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-construction04",
+		"description": "This is part of a pack with construction sites and road blocks.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/xco02FP.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-07T22:52:53.000Z",
+		"pushed": "2020-09-07T22:52:53.000Z",
+		"creation": "2020-09-07T22:52:53.000Z"
+	},
+	{
+		"title": "OS Map - Construction & Road Block 03",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-construction03",
+		"description": "This is part of a pack with construction sites and road blocks.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/ygQk7Mm.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-07T22:52:53.000Z",
+		"pushed": "2020-09-07T22:52:53.000Z",
+		"creation": "2020-09-07T22:52:53.000Z"
+	},
+	{
+		"title": "OS Map - Construction & Road Block 02",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-construction02",
+		"description": "This is part of a pack with construction sites and road blocks.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/Lzp8pPe.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-07T22:52:53.000Z",
+		"pushed": "2020-09-07T22:52:53.000Z",
+		"creation": "2020-09-07T22:52:53.000Z"
+	},
+	{
+		"title": "OS Map - Construction & Road Block 01",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-construction01",
+		"description": "This is part of a pack with construction sites and road blocks.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/9o3COfV.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-07T22:52:53.000Z",
+		"pushed": "2020-09-07T22:52:53.000Z",
+		"creation": "2020-09-07T22:52:53.000Z"
+	},
+	{
+		"title": "[JS] Handling Editor",
+		"url": "https://github.com/Enerv/hedit",
+		"description": "Handling editor by enerv. Allows you to change vehicle handling.",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/enerv",
+		"updated": "2020-09-03T04:49:46.000Z",
+		"pushed": "2020-09-03T04:49:46.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] OS - Freecam",
+		"url": "https://github.com/Stuyk/altv-os-freecam",
+		"description": "This repository provides an easy to use freecam that can be controlled with your mouse, controller, or anything else. Hides players who are using it from other players.",
+		"tags": [
+			"javascript",
+			"tool",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/rr2eGqZ.jpg",
+		"cli": true,
+		"author": "resources/stuyk",
+		"updated": "2020-09-02T20:45:55.000Z",
+		"pushed": "2020-09-02T20:45:55.000Z",
+		"creation": "2020-09-02T20:45:55.000Z"
+	},
+	{
+		"title": "OS Map - Workshop Sandy Shores",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-WorkshopSS",
+		"description": "A public placed workshop exterior placed near Sandy Shores.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/rhnGya6.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T15:18:41.000Z",
+		"pushed": "2020-09-02T15:18:41.000Z",
+		"creation": "2020-09-02T15:18:41.000Z"
+	},
+	{
+		"title": "OS Map - Workshop Los Santos",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-WorkshopLS",
+		"description": "This is a public workshop placed in Los Santos, with vendig machines, a petrol station and added some light.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/Lbq1Or2.jpeg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T15:18:41.000Z",
+		"pushed": "2020-09-02T15:18:41.000Z",
+		"creation": "2020-09-02T15:18:41.000Z"
+	},
+	{
+		"title": "OS Map - Prison Outdoor",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-PrisonOutdoor",
+		"description": "The stairs got secured with fences, holes got fixed and helipad added.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/CVUukLk.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T15:18:41.000Z",
+		"pushed": "2020-09-02T15:18:41.000Z",
+		"creation": "2020-09-02T15:18:41.000Z"
+	},
+	{
+		"title": "OS Map - Fort Zancudo Shooting Range",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-FortZancudoShootingRange",
+		"description": "This is a Shootin-Range placed in Fort Zancudo for alt:V, this map was made during GT-MP times and got now ported to alt:V.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/oe1mZN8.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T15:18:41.000Z",
+		"pushed": "2020-09-02T15:18:41.000Z",
+		"creation": "2020-09-02T13:35:08.000Z"
+	},
+	{
+		"title": "OS Map - FIB Roof",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-FIBRoof",
+		"description": "Added an exit/enter door to the roof and added a helipad.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/rYb0vZJ.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T15:18:41.000Z",
+		"pushed": "2020-09-02T15:18:41.000Z",
+		"creation": "2020-09-02T15:18:41.000Z"
+	},
+	{
+		"title": "OS Map - FIB Garage",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-FIBGarage",
+		"description": "This adds an entry/exit to/from the FIB building. This is only build with probs, so don't expect to much.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/h74L53S.png",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T15:18:41.000Z",
+		"pushed": "2020-09-02T15:18:41.000Z",
+		"creation": "2020-09-02T15:18:41.000Z"
+	},
+	{
+		"title": "OS Map - Blocked Metro Tunnel System",
+		"url": "https://github.com/ThomasMarangoni/altv-os-map-BlockedMetroTunnelSystem",
+		"description": "Do you want to prevent players from entering the Metro Tunnel System, then this is the right map for you.",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/5KRMpaA.jpg",
+		"cli": true,
+		"author": "resources/DasChaos",
+		"updated": "2020-09-02T14:03:58.000Z",
+		"pushed": "2020-09-02T14:03:58.000Z",
+		"creation": "2020-09-02T14:03:58.000Z"
+	},
+	{
+		"title": "[TS] Stuyk's Typescript Boilerplate",
+		"url": "https://github.com/Stuyk/altv-typescript",
+		"description": "alt:V has a lot of Boilerplates for TypeScript. However, they have one feature missing. They fail to create an environment where you can support multiple resource compilations. This boilerplate aims to fix that and allow multiple resources to be compiled at once and support handle your mods, mlos, etc.",
+		"tags": [
+			"typescript",
+			"boilerplate"
+		],
+		"cover": "https://i.imgur.com/2JeNvzY.png",
+		"author": "resources/stuyk",
+		"updated": "2020-09-01T13:39:22.000Z",
+		"pushed": "2020-09-01T13:39:22.000Z",
+		"creation": "2020-09-01T13:39:22.000Z"
+	},
+	{
+		"title": "[JS] Boilerplate with TypeScript and React",
+		"url": "https://github.com/combowomb0/altv-boilerplate",
+		"description": "alt:V boilerplate with TypeScript and React",
+		"tags": [
+			"boilerplate"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/combowomb0",
+		"updated": "2020-08-16T15:54:05.000Z",
+		"pushed": "2020-08-16T15:54:05.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Custom Radio",
+		"url": "https://github.com/combowomb0/altv-custom-radio",
+		"description": "Modification of the default radio with custom stream urls",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/combowomb0",
+		"updated": "2020-08-16T15:54:05.000Z",
+		"pushed": "2020-08-16T15:54:05.000Z",
+		"creation": "2020-08-16T15:54:05.000Z"
+	},
+	{
+		"title": "[JS] Custom Notifications",
+		"url": "https://github.com/combowomb0/altv-notifications",
+		"description": "An easy way to send webview notifications to a player.",
+		"tags": [
+			"javascript",
+			"interface",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/UwoDUym.png",
+		"author": "resources/combowomb0",
+		"updated": "2020-08-16T15:54:05.000Z",
+		"pushed": "2020-08-16T15:54:05.000Z",
+		"creation": "2020-07-13T12:53:30.000Z"
+	},
+	{
+		"title": "[JS] Timerbars",
+		"url": "https://github.com/LeonMrBonnie/altv-os-timerbars",
+		"description": "This repository provides an alt:V resource to allow easy usage of GTA V timerbars. This resource provides events to create, remove and edit timerbars.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/PB4JHGK.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-08-15T11:23:02.000Z",
+		"pushed": "2020-08-15T11:23:02.000Z",
+		"creation": "2020-08-15T11:23:02.000Z"
+	},
+	{
+		"title": "alt:V Server Docker image",
+		"url": "https://github.com/eisengrind/docker-altv-server",
+		"description": "The unofficial alt:V server Docker image",
+		"tags": [
+			"tool"
+		],
+		"cover": "https://i.imgur.com/FqZjj7p.jpg",
+		"author": "resources/eisengrind",
+		"updated": "2020-08-13T22:45:12.000Z",
+		"pushed": "2020-08-13T22:45:12.000Z",
+		"creation": "2020-07-13T16:42:11.000Z"
+	},
+	{
+		"title": "[JS] Object Placement",
+		"url": "https://github.com/Heady20006/altV_objectPlacement",
+		"description": "A resource which allows you to place an object in front of your player and manipulate it's position",
+		"tags": [
+			"player",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/Heady20006",
+		"updated": "2020-08-08T09:05:18.000Z",
+		"pushed": "2020-08-08T09:05:18.000Z",
+		"creation": "2020-08-08T09:03:55.000Z"
+	},
+	{
+		"title": "[JS] Pickups",
+		"url": "https://github.com/LeonMrBonnie/altv-os-pickups",
+		"description": "This repository provides an alt:V resource to create interactable pickups. This resource provides two easy events to create and delete pickups.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/JJ0Fv6A.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-07-30T10:56:25.000Z",
+		"pushed": "2020-07-30T10:56:25.000Z",
+		"creation": "2020-07-30T10:56:25.000Z"
+	},
+	{
+		"title": "GTA-V Extracted Data Dumps",
+		"url": "https://github.com/DurtyFree/gta-v-data-dumps",
+		"description": "This is a collection of various GTA V data dumps mostly useful for modding & scripting. All of these are auto generated and some are enhanced with data from my GTA V researches.",
+		"tags": [
+			"data",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/TDd36KX.png",
+		"author": "resources/DurtyFree",
+		"updated": "2020-07-28T22:42:12.000Z",
+		"pushed": "2020-07-28T22:42:12.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Mugshot",
+		"url": "https://github.com/LeonMrBonnie/altv-os-mugshot",
+		"description": "This repository provides an alt:V resource to show the player holding a mugshot board like in GTA Online. This resource provides two easy events to start and stop holding the mugshot board.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/3MylLlG.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-07-28T20:17:53.000Z",
+		"pushed": "2020-07-28T20:17:53.000Z",
+		"creation": "2020-07-28T20:17:53.000Z"
+	},
+	{
+		"title": "[JS] OS - Character Editor",
+		"url": "https://github.com/Stuyk/altv-os-character-editor",
+		"description": "A robust character editor for editing player appearances and customizing them. This script allows a player to be sent to a character editor screen. Where they may customize their facial appearances. Includes presets, makeup, hairstyles, face customization for all features, and overlays. Also includes the ability to export character code and import it.",
+		"tags": [
+			"javascript",
+			"interface",
+			"player",
+			"ped"
+		],
+		"cover": "https://i.imgur.com/Lm3e7lF.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-27T20:15:24.000Z",
+		"pushed": "2020-07-27T20:15:24.000Z",
+		"creation": "2020-07-27T20:15:24.000Z"
+	},
+	{
+		"title": "[JS] Noclip",
+		"url": "https://github.com/LeonMrBonnie/altv-os-noclip",
+		"description": "This repository provides an alt:V resource to allow the player to noclip. This resource provides two easy events to start and stop noclip for a player.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-07-27T19:56:45.000Z",
+		"pushed": "2020-07-27T19:56:45.000Z",
+		"creation": "2020-07-27T19:56:45.000Z"
+	},
+	{
+		"title": "[JS] Interactions",
+		"url": "https://github.com/LeonMrBonnie/altv-os-interactions",
+		"description": "This repository provides an alt:V resource to create interactions. This resource provides an easy way to create and remove interactions.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-07-26T21:06:59.000Z",
+		"pushed": "2020-07-26T21:06:59.000Z",
+		"creation": "2020-07-26T21:06:59.000Z"
+	},
+	{
+		"title": "[JS] vCode - In-Game Editor",
+		"url": "https://github.com/5exyGuy/altV-vCode",
+		"description": "A server/client-sided editor made for alt:V MP and powered by the Monaco Editor",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/VHCcc1N.png",
+		"author": "resources/5exyGuy",
+		"updated": "2020-07-26T13:54:24.000Z",
+		"pushed": "2020-07-26T13:54:24.000Z",
+		"creation": "2020-07-26T13:14:31.000Z"
+	},
+	{
+		"title": "[TS] Walkie Talkie",
+		"url": "https://github.com/AltV-Projects/TypeScript-Walkie-Talkie",
+		"description": "A Walkie - Talkie, which implements a Roleplay ready immersion of an real HT.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"voice"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/DatMayo",
+		"updated": "2020-07-26T13:43:52.000Z",
+		"pushed": "2020-07-26T13:43:52.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C#] Interactions JS Wrapper",
+		"url": "https://github.com/5exyGuy/altV-InteractionsJsWrapper",
+		"description": "A Simple Javascript Wrapper to work with C# Interactions",
+		"tags": [
+			"csharp",
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/5exyGuy",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-18T07:21:53.000Z"
+	},
+	{
+		"title": "[C#] Server-side Object Streamer",
+		"url": "https://github.com/DasNiels/altv-object-streamer",
+		"description": "A server-side C# implementation of an object streamer for ALT:V MP.",
+		"tags": [
+			"csharp",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/DasNiels",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[TS] Typescript Login & Register",
+		"url": "https://github.com/AltV-Projects/TypeScript-Login-Register",
+		"description": "An example for Login & Registration in Typescript",
+		"tags": [
+			"typescript",
+			"authorization",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/DatMayo",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[TS] DatMayo's Typescript Boilerplate",
+		"url": "https://github.com/AltV-Projects/TypeScript-Boilerplate",
+		"description": "A boiler plate for writing typescript for alt:V",
+		"tags": [
+			"typescript",
+			"boilerplate"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/DatMayo",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Keep Engine Running",
+		"url": "https://github.com/DooDesch/altv-engine",
+		"description": "Keeps the vehicles engine running when the player exists the vehicle with the engine running.",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/DooDesch",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Native UI",
+		"url": "https://github.com/DurtyFree/alt-V-NativeUI",
+		"description": "This project is a (fully TypeScript compatible) port of RageMP-NativeUI Kar for alt:V. It provides a simple way to use NativeUI menus in your clientside scripts. A lot of credits to datWeazel who made the initial port of the RageMP-NativeUI.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/K1cndtS.jpeg",
+		"author": "resources/DurtyFree",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-09T18:16:15.000Z"
+	},
+	{
+		"title": "[JS] Online Radio",
+		"url": "https://github.com/jovanivanovic/altv-radio",
+		"description": "alt:V Radio resource replaces the default GTA V vehicle radio with custom online radio stations.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/sygrdix.png",
+		"author": "resources/Dzeknjak",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-10T08:25:11.000Z"
+	},
+	{
+		"title": "[JS] Missing Interiors Loader",
+		"url": "https://github.com/jovanivanovic/altv-os-missing-interiors",
+		"description": "This resource basically fills in the gaps that are found across the map.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/YA9XReI.png",
+		"author": "resources/Dzeknjak",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-17T23:28:03.000Z"
+	},
+	{
+		"title": "[JS] Global Marker Manager",
+		"url": "https://github.com/jovanivanovic/altv-os-global-marker-manager",
+		"description": "This is a basic global marker manager resource. It allows you to create/destroy markers from the server-side for all players.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/sm8wP7R.png",
+		"author": "resources/Dzeknjak",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-16T23:19:12.000Z"
+	},
+	{
+		"title": "[JS] Global Blip Manager",
+		"url": "https://github.com/jovanivanovic/altv-os-global-blip-manager",
+		"description": "This is a basic global blip manager resource. It allows you to create/destroy blips from the server-side for all players.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/gFcZ3AC.png",
+		"author": "resources/Dzeknjak",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-16T20:09:15.000Z"
+	},
+	{
+		"title": "[JS] Chat",
+		"url": "https://github.com/jovanivanovic/altv-os-chat",
+		"description": "Simple chat implementation for alt:V to get your server started with some player-to-player interaction.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/5NUVhNU.png",
+		"author": "resources/Dzeknjak",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-17T22:08:08.000Z"
+	},
+	{
+		"title": "[JS] Ugly Progress Bar",
+		"url": "https://github.com/KadirFiratFTW/Alt-V-UglyProgressBar",
+		"description": "An ugly progress bar snippet.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/KadirFiratFTW",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[TS] KifKick's Typescript Boilerplate",
+		"url": "https://github.com/KifKick/altv-typescript-boilerplate",
+		"description": "A boiler plate for writing typescript for alt:V",
+		"tags": [
+			"typescript",
+			"boilerplate"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/KifKick",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Simple IPC",
+		"url": "https://github.com/LeonMrBonnie/altv-simple-ipc",
+		"description": "A simple implementation for IPC for alt:V.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"utility",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Entity Sync",
+		"url": "https://github.com/LeonMrBonnie/altv-os-js-entitysync",
+		"description": "This repository provides an alt:V resource to work with the C# Entity Sync in JS. It provides an easy base class for entities that you can expand for you own entities.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/LeonMrBonnie",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-19T15:32:23.000Z"
+	},
+	{
+		"title": "[JS] Client-Server Communication",
+		"url": "https://github.com/MrSentex/communication",
+		"description": "The script provides the user with a simple API to make requests to the server and receive an asynchronous response from it, thus making the life of the developers simpler when it comes to receiving information from the server. The API is similar to the ESX API of FiveM so that developers coming from that platform will quickly become familiar with it.",
+		"tags": [
+			"javascript",
+			"tool",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/MrSentex",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-09T18:20:35.000Z"
+	},
+	{
+		"title": "[C#] Ped Syncer (Experimental)",
+		"url": "https://github.com/KWMSources/pedSyncer",
+		"description": "Experimental resource to sync NPCs / Peds / FiveM-like Citizens",
+		"tags": [
+			"ped",
+			"csharp"
+		],
+		"cover": "https://i.imgur.com/M0fF8XT.png",
+		"author": "resources/Saltmueller",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-09T19:48:46.000Z"
+	},
+	{
+		"title": "[C#] Parked Vehicle Spawner",
+		"url": "https://github.com/KWMSources/ParkedVehicleSpawner",
+		"description": "Resource to spawn vehicles on GTA-native (CarGenerator) parking spots",
+		"tags": [
+			"csharp",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/57KnQty.png",
+		"author": "resources/Saltmueller",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-09T19:38:20.000Z"
+	},
+	{
+		"title": "[JS] Selection Wheel",
+		"url": "https://github.com/Sinister-lab/alt-V-Selection-Wheel",
+		"description": "With this resource you can create a selection wheel that can call server and client events when its items are clicked.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/OHyKm0g.jpg",
+		"author": "resources/Sinister-lab",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] CFG Reader",
+		"url": "https://github.com/Timo972/cfg-reader",
+		"description": "Reads the alt:V configuration file.",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/8qW0DJY.jpeg",
+		"author": "resources/Timo972",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Server Updater",
+		"url": "https://github.com/Timo972/altv-updater-js",
+		"description": "a JS script to update your server",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/Timo972",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T16:36:59.000Z"
+	},
+	{
+		"title": "[C#] NPC Vehicle Sync [Experimental]",
+		"url": "https://github.com/WhishN/altV--NPCVehicleSync",
+		"description": "A server-side C# implementation of NPC traffic for your Server.",
+		"tags": [
+			"csharp",
+			"vehicle",
+			"ped"
+		],
+		"cover": "https://i.imgur.com/NYQejiD.png",
+		"author": "resources/WhishN",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T19:58:05.000Z"
+	},
+	{
+		"title": "[JS] Players List",
+		"url": "https://github.com/combowomb0/altv-players-list",
+		"description": "A players list for alt:V",
+		"tags": [
+			"javascript",
+			"player",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/GgIWagx.jpg",
+		"author": "resources/combowomb0",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Improved alt:V Log",
+		"url": "https://github.com/crossworth/altv-log",
+		"description": "Improves the usage of console.log for logging data, objects, etc.",
+		"tags": [
+			"utility",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/crossworth",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C++] alt:V Bin Reader",
+		"url": "https://github.com/drakeee/altv-bin-reader",
+		"description": "A basic reader which can read vehmodels.bin file inside your server data folder",
+		"tags": [
+			"c++",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/drakeee",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T16:32:38.000Z"
+	},
+	{
+		"title": "[JS] Visual Vehicle Spawner",
+		"url": "https://github.com/dusieq95/Visual-Vehicle-Spawner",
+		"description": "Visual vehicle spawner for alt:V",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/ozUQ41i.png",
+		"author": "resources/dusieq95",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Chat Extender",
+		"url": "https://github.com/echoWanderer/altV-Chat",
+		"description": "An extended chat resource by echo wanderer.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/echoWanderer",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Freeroam Example Gamemode",
+		"url": "https://github.com/faizmain/altV-freeroam",
+		"description": "Freeroam script for alt:v.",
+		"tags": [
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/faizmain",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Webpack Plugin",
+		"url": "https://github.com/micaww/altv-webpack-plugin",
+		"description": "This plugin will take all of your alt:V dependencies (alt, alt-client, alt-server), marks them as external dependencies, and adds a single ESM import at the top of each output file that will be used in place of all of these modules.",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/micaww",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[C#] alt:V Updater",
+		"url": "https://github.com/parpMoretti/AltVUpdate",
+		"description": "A windows server update utility for the alt:V Platform",
+		"tags": [
+			"tool",
+			"csharp"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/parpMoretti",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] alt:V Function Helpers",
+		"url": "https://github.com/lsvMoretti/altV-Helpers",
+		"description": "Few helpers for alt:V Multiplayer Development",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/parpMoretti",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "GTA:V Scenario List",
+		"url": "https://github.com/Santagain/gtav-scenarios",
+		"description": "A list of scenarios for GTA:V.",
+		"tags": [
+			"data"
+		],
+		"cover": "https://i.imgur.com/bUeviQX.jpg",
+		"author": "resources/santagain",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-12T14:52:02.000Z"
+	},
+	{
+		"title": "[JS] Postgres Database Wrapper",
+		"url": "https://github.com/Stuyk/altV-Postgres-Wrapper",
+		"description": "A database wrapper which uses TypeORM",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T13:14:24.000Z"
+	},
+	{
+		"title": "[JS] OS - Register / Login",
+		"url": "https://github.com/Stuyk/altv-os-auth",
+		"description": "Very simple decoupled authentication resource that uses MongoDB, Vue, and PKDBF2 for Encryption.",
+		"tags": [
+			"javascript",
+			"interface",
+			"authorization"
+		],
+		"cover": "https://i.imgur.com/p4nJGxE.jpeg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-14T06:39:05.000Z"
+	},
+	{
+		"title": "[JS] Open Roleplay",
+		"url": "https://github.com/Stuyk/openrp-altv",
+		"description": "This project now serves as a reference for roleplay servers in the future. Includes various systems and examples as references.",
+		"tags": [
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/uKfS2Eo.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-08T18:17:12.000Z"
+	},
+	{
+		"title": "[JS] OS - oAuth2 Discord Login / Whitelist",
+		"url": "https://github.com/Stuyk/altv-discord-auth",
+		"description": "oAuth2 Discord Login with optional whitelist for alt:V. If you ever wanted a login system where you integrate your alt:V server into Discord this is the easiest setup for such integration. Users will go through an official Discord Authorization page before being let into the server.",
+		"tags": [
+			"javascript",
+			"interface",
+			"authorization"
+		],
+		"cover": "https://i.imgur.com/qzftIlN.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-15T23:25:07.000Z"
+	},
+	{
+		"title": "[JS] OS - Nametags",
+		"url": "https://github.com/Stuyk/altv-os-nametags",
+		"description": "This repository provides a simple nametag system with optional health bars and armour bars. As well as hiding nametags when players are inside of vehicles. This nametag system scales based on distance as well as checks if you have direct line of sight with the opposing players. Nametags can be toggled completely off or on for a single player.",
+		"tags": [
+			"javascript",
+			"nametags"
+		],
+		"cover": "https://i.imgur.com/vvkbD90.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-17T22:31:36.000Z"
+	},
+	{
+		"title": "[JS] OS Global Text Labels",
+		"url": "https://github.com/Stuyk/altv-os-global-textlabels",
+		"description": "Easily create global text labels with custom color, font, scale, and distance. Text Labels are automatically synchronized when a player joins the server.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/tTmia7K.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-22T00:15:45.000Z"
+	},
+	{
+		"title": "[JS] Fuel Rats Gamemode",
+		"url": "https://github.com/Stuyk/altV-Fuel-Rats",
+		"description": "A free for all competitive gamemode where you smash your car into other players to capture a flag.",
+		"tags": [
+			"javascript",
+			"gamemode"
+		],
+		"cover": "https://i.imgur.com/B66MjeR.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-08T18:17:12.000Z"
+	},
+	{
+		"title": "[JS] OS Context Menus",
+		"url": "https://github.com/Stuyk/altv-os-context-menu",
+		"description": "This allows you to create a simple context menu for players to utilize. Which means they can hold left alt and right-click on objects to select different objects. Which is great for creating in-depth options for players to utilize.",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/kneO4mt.jpg",
+		"author": "resources/stuyk",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-20T00:56:26.000Z"
+	},
+	{
+		"title": "[JS] Fingerpointing",
+		"url": "https://github.com/tastydev/fingerpointing-altv",
+		"description": "This resource allows players to point out things with their finger",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/8qW0DJY.jpeg",
+		"author": "resources/t4styy",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-09T18:53:36.000Z"
+	},
+	{
+		"title": "[JS] In-Game Editor",
+		"url": "https://github.com/tameemi/altv-ingame-editor",
+		"description": "A server/client-sided editor made for Alt:V MP and powered by the Monaco Editor",
+		"tags": [
+			"javascript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/tameemi",
+		"updated": "2020-07-26T13:36:25.000Z",
+		"pushed": "2020-07-26T13:36:25.000Z",
+		"creation": "2020-07-13T13:05:42.000Z"
+	}
+]
