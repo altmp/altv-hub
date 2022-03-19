@@ -1,7 +1,0 @@
-{
-  "title": "IPL-Loader",
-  "url": "https://github.com/Myrinia/ALT-V_IPL-Loader",
-  "description": "IPL Loader to load IPL's as soon as Player is in range. This also fixes, IPL's not showing on reconnect in debug mode.",
-  "tags": ["typescript", "javascript", "utility","data"],
-  "cover": "https://i.imgur.com/SoQUFKf.png",
-}
