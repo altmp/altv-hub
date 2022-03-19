@@ -1,5 +1,21 @@
 [
 	{
+		"title": "IPL-Loader",
+		"url": "https://github.com/Myrinia/ALT-V_IPL-Loader",
+		"description": "IPL Loader to load IPL's as soon as Player is in range. This also fixes, IPL's not showing on reconnect in debug mode.",
+		"tags": [
+			"typescript",
+			"javascript",
+			"utility",
+			"data"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"author": "resources/Myrinia",
+		"updated": "2022-03-19T15:17:48.000Z",
+		"pushed": "2022-03-19T15:17:48.000Z",
+		"creation": "2022-03-19T11:06:31.000Z"
+	},
+	{
 		"title": "[JS/TS] client xstreamer",
 		"url": "https://github.com/xxshady/altv-client-xstreamer",
 		"description": "clientside entity streamer (JS/TS) based on workers",
