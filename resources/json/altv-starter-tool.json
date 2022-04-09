@@ -1,0 +1,8 @@
+﻿{
+  "title": "[C#] Starter Tool",
+  "url": "https://github.com/litolax/altV-Starter",
+  "description": ".NET starter tool for alt:V. You can change branches, debug without editing cfg. Has possibility to start alt:V without update.",
+  "tags": ["csharp", "tool", "utility"],
+  "cover": "https://i.imgur.com/osBztfg.png",
+  "cli": false
+}
