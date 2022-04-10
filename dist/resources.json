@@ -1,5 +1,22 @@
 [
 	{
+		"title": "uRP-Framework",
+		"url": "https://github.com/Underground-Roleplay/framework",
+		"description": "a simple framework that aims to facilitate migration from other platforms",
+		"tags": [
+			"gamemode",
+			"roleplay",
+			"javascript",
+			"quickstart"
+		],
+		"cover": "https://i.imgur.com/935HVvm.png",
+		"cli": false,
+		"author": "resources",
+		"updated": "2022-04-10T15:17:33.000Z",
+		"pushed": "2022-04-10T15:17:33.000Z",
+		"creation": "2022-04-10T15:17:33.000Z"
+	},
+	{
 		"title": "IPL-Loader",
 		"url": "https://github.com/Myrinia/ALT-V_IPL-Loader",
 		"description": "IPL Loader to load IPL's as soon as Player is in range. This also fixes, IPL's not showing on reconnect in debug mode.",
