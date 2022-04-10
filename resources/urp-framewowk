@@ -1,0 +1,8 @@
+{
+  "title": "uRP-Framework",
+  "url": "https://github.com/Underground-Roleplay/framework",
+  "description": "a simple framework that aims to facilitate migration from other platforms",
+  "tags": ["gamemode", "roleplay", "javascript", "quickstart"],
+  "cover": "https://i.imgur.com/935HVvm.png",
+  "cli": false
+}
