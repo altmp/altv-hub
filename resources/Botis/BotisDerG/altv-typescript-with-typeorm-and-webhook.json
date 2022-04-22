@@ -3,6 +3,6 @@
 	"url": "https://github.com/BotisDerG/altv-typescript-with-typeorm-and-webhook",
 	"description": "A Typescript Boilerplate for alt:V with simple TypeORM and Discord Webhook setup and usage.",
 	"tags": [ "discord", "typeorm", "typescript", "quickstart", "boilerplate" ],
-	"cover": "https://i.imgur.com/935HVvm.png",
+	"cover": "https://i.imgur.com/SoQUFKf.png",
 	"cli": false
 }
