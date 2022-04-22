@@ -1,5 +1,23 @@
 [
 	{
+		"title": "altv-typescript with TypeORM and Webhook",
+		"url": "https://github.com/BotisDerG/altv-typescript-with-typeorm-and-webhook",
+		"description": "A Typescript Boilerplate for alt:V with simple TypeORM and Discord Webhook setup and usage.",
+		"tags": [
+			"discord",
+			"typeorm",
+			"typescript",
+			"quickstart",
+			"boilerplate"
+		],
+		"cover": "https://i.imgur.com/935HVvm.png",
+		"cli": false,
+		"author": "resources/Botis/BotisDerG",
+		"updated": "2022-04-22T09:01:08.000Z",
+		"pushed": "2022-04-22T09:01:08.000Z",
+		"creation": "2022-04-22T09:01:08.000Z"
+	},
+	{
 		"title": "Athena Roleplay Framework",
 		"url": "https://github.com/Stuyk/altv-athena",
 		"description": "A free roleplay framework for alt:V built by Stuyk.",
