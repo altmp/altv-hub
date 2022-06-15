@@ -1,0 +1,8 @@
+{
+  "title": "[C#] Simple RPC",
+  "url": "https://github.com/IronPythonDev/IronPython.AltV.Net.RPC",
+  "description": "RPC for resources that is using csharp on client and server",
+  "tags": ["csharp", "utility"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
