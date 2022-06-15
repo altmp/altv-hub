@@ -1,5 +1,20 @@
 [
 	{
+		"title": "[C#] Simple RPC",
+		"url": "https://github.com/IronPythonDev/IronPython.AltV.Net.RPC",
+		"description": "RPC for resources that is using csharp on client and server",
+		"tags": [
+			"csharp",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/ironpython",
+		"updated": "2022-06-15T21:46:43.000Z",
+		"pushed": "2022-06-15T21:46:43.000Z",
+		"creation": "2022-06-15T21:46:43.000Z"
+	},
+	{
 		"title": "altv-typescript with TypeORM and Webhook",
 		"url": "https://github.com/BotisDerG/altv-typescript-with-typeorm-and-webhook",
 		"description": "A Typescript Boilerplate for alt:V with simple TypeORM and Discord Webhook setup and usage.",
