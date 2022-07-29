@@ -1,7 +1,0 @@
-{
-  "title": "[JS/TS] Esbuild dev plugin",
-  "url": "https://github.com/xxshady/esbuild-plugin-altv-dev-server",
-  "description": "esbuild plugin for extremely fast scripting using JS/TS on alt:V.",
-  "tags": ["javascript", "typescript", "tool"],
-  "cover": "https://i.imgur.com/spCngWE.jpg"
-}
