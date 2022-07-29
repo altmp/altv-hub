@@ -1,0 +1,7 @@
+{
+  "title": "esbuild dev and prod plugin",
+  "url": "https://github.com/xxshady/altv-esbuild",
+  "description": "alt:V esbuild plugin to simplify development and production",
+  "tags": ["javascript", "typescript", "tool"],
+  "cover": "https://i.imgur.com/spCngWE.jpg"
+}
