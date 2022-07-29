@@ -1,5 +1,20 @@
 [
 	{
+		"title": "esbuild dev and prod plugin",
+		"url": "https://github.com/xxshady/altv-esbuild",
+		"description": "alt:V esbuild plugin to simplify development and production",
+		"tags": [
+			"javascript",
+			"typescript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/spCngWE.jpg",
+		"author": "resources/xshady",
+		"updated": "2022-07-29T09:12:24.000Z",
+		"pushed": "2022-07-29T09:12:24.000Z",
+		"creation": "2022-07-29T09:12:24.000Z"
+	},
+	{
 		"title": "[C#] Simple RPC",
 		"url": "https://github.com/IronPythonDev/IronPython.AltV.Net.RPC",
 		"description": "RPC for resources that is using csharp on client and server",
@@ -388,21 +403,6 @@
 		"updated": "2021-10-25T20:31:41.000Z",
 		"pushed": "2021-10-25T20:31:41.000Z",
 		"creation": "2021-10-25T20:31:41.000Z"
-	},
-	{
-		"title": "[JS/TS] Esbuild dev plugin",
-		"url": "https://github.com/xxshady/esbuild-plugin-altv-dev-server",
-		"description": "esbuild plugin for extremely fast scripting using JS/TS on alt:V.",
-		"tags": [
-			"javascript",
-			"typescript",
-			"tool"
-		],
-		"cover": "https://i.imgur.com/spCngWE.jpg",
-		"author": "resources/xshady",
-		"updated": "2021-10-20T10:55:15.000Z",
-		"pushed": "2021-10-20T10:55:15.000Z",
-		"creation": "2021-10-20T10:55:15.000Z"
 	},
 	{
 		"title": "[JS] Simple Object Streamer",
