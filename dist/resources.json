@@ -1,5 +1,20 @@
 [
 	{
+		"title": "[C#] alt:V Package",
+		"url": "https://github.com/litolax/altV-Package",
+		"description": "Tool for downloading new files from alt:V CDN.",
+		"tags": [
+			"csharp",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": false,
+		"author": "resources/json",
+		"updated": "2022-08-01T12:24:42.000Z",
+		"pushed": "2022-08-01T12:24:42.000Z",
+		"creation": "2022-08-01T12:24:42.000Z"
+	},
+	{
 		"title": "esbuild dev and prod plugin",
 		"url": "https://github.com/xxshady/altv-esbuild",
 		"description": "alt:V esbuild plugin to simplify development and production",
