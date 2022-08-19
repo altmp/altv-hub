@@ -1,0 +1,8 @@
+{
+  "title": "Basic Scoreboard with mugshot",
+  "url": "https://github.com/CsokiHUN/altv-scoreboard",
+  "description": "Show players id, name and current session time. The script written in vuejs",
+  "tags": ["javascript", "interface", "player"],
+  "cover": "https://i.imgur.com/t2EjyPO.png",
+  "cli": false
+}
