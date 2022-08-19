@@ -1,5 +1,21 @@
 [
 	{
+		"title": "Basic Scoreboard with mugshot",
+		"url": "https://github.com/CsokiHUN/altv-scoreboard",
+		"description": "Show players id, name and current session time. The script written in vuejs",
+		"tags": [
+			"javascript",
+			"interface",
+			"player"
+		],
+		"cover": "https://i.imgur.com/t2EjyPO.png",
+		"cli": false,
+		"author": "resources/Csoki",
+		"updated": "2022-08-19T09:47:52.000Z",
+		"pushed": "2022-08-19T09:47:52.000Z",
+		"creation": "2022-08-19T09:47:52.000Z"
+	},
+	{
 		"title": "[C#] alt:V Package",
 		"url": "https://github.com/litolax/altV-Package",
 		"description": "Tool for downloading new files from alt:V CDN.",
