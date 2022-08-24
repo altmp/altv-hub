@@ -1,0 +1,8 @@
+{
+  "title": "[JS] vChat - A chat resouce for alt:V server",
+  "url": "https://github.com/5exyGuy/altv-vchat",
+  "description": "altV-vChat is a chat resource for alt:V server that offers more functionality than the usual example chat resource. The resource includes full keyboard support, a default message processor, more functions, autocompletion of command by typing part of the command name in the input field and more.",
+  "tags": ["javascript", "utility"],
+  "cover": "https://i.imgur.com/fQSSa26.png",
+  "cli": false
+}
