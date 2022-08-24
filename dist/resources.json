@@ -1,5 +1,20 @@
 [
 	{
+		"title": "[JS] vChat - A chat resouce for alt:V server",
+		"url": "https://github.com/5exyGuy/altv-vchat",
+		"description": "altV-vChat is a chat resource for alt:V server that offers more functionality than the usual example chat resource. The resource includes full keyboard support, a default message processor, more functions, autocompletion of command by typing part of the command name in the input field and more.",
+		"tags": [
+			"javascript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/fQSSa26.png",
+		"cli": false,
+		"author": "resources/5exyGuy",
+		"updated": "2022-08-24T09:25:02.000Z",
+		"pushed": "2022-08-24T09:25:02.000Z",
+		"creation": "2022-08-24T09:25:02.000Z"
+	},
+	{
 		"title": "Basic Scoreboard with mugshot",
 		"url": "https://github.com/CsokiHUN/altv-scoreboard",
 		"description": "Show players id, name and current session time. The script written in vuejs",
