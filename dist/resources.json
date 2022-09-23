@@ -1,5 +1,21 @@
 [
 	{
+		"title": "alt:V - MenuFramework",
+		"url": "https://github.com/MyHwu9508/altv-os-menu-framework",
+		"description": "A menu framework to replace NativeUI and start your dream projects!",
+		"tags": [
+			"javascript",
+			"interface",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/3AFwIxs.png",
+		"cli": false,
+		"author": "resources/kaniggel",
+		"updated": "2022-09-23T10:01:45.000Z",
+		"pushed": "2022-09-23T10:01:45.000Z",
+		"creation": "2022-09-23T10:01:45.000Z"
+	},
+	{
 		"title": "[JS] vChat - A chat resouce for alt:V server",
 		"url": "https://github.com/5exyGuy/altv-vchat",
 		"description": "altV-vChat is a chat resource for alt:V server that offers more functionality than the usual example chat resource. The resource includes full keyboard support, a default message processor, more functions, autocompletion of command by typing part of the command name in the input field and more.",
