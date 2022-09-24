@@ -1,0 +1,12 @@
+{
+  "title": "altV Postal Code Map & Minimap",
+  "url": "https://github.com/DykiSA/altv-addon-map",
+  "description": "This is a port of the FiveM resource: https://forum.cfx.re/t/free-release-postal-code-map-minimap-fixed/4882127",
+  "tags": [
+    "javascript",
+    "typescript",
+    "interface"
+  ],
+  "cover": "https://i.imgur.com/1PnpRaB.png",
+  "cli": false
+}
