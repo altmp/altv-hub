@@ -1,5 +1,21 @@
 [
 	{
+		"title": "altV Postal Code Map & Minimap",
+		"url": "https://github.com/DykiSA/altv-addon-map",
+		"description": "This is a port of the FiveM resource that allow you to enable the colorful map on server side: https://forum.cfx.re/t/free-release-postal-code-map-minimap-fixed/4882127. Please note that there is a bug on the altv that sometimes the minimap are not loaded properly https://github.com/altmp/altv-issues/issues/956. If you encounter the issue that mentioned, I recommend to turn off this resource because currently there is no workaround for it.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/1PnpRaB.png",
+		"cli": false,
+		"author": "resources/DykiSA",
+		"updated": "2022-09-26T09:36:54.000Z",
+		"pushed": "2022-09-26T09:36:54.000Z",
+		"creation": "2022-09-26T09:36:54.000Z"
+	},
+	{
 		"title": "alt:V - MenuFramework",
 		"url": "https://github.com/MyHwu9508/altv-os-menu-framework",
 		"description": "A menu framework to replace NativeUI and start your dream projects!",
