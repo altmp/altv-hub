@@ -1,0 +1,8 @@
+{
+  "title": "Custom Pause Menu",
+  "url": "https://github.com/jodev7/altv-pausemenu",
+  "description": "Custom Pause Menu for altv servers . svelte",
+  "tags": ["interface", "javascript"],
+  "cover": "https://cdn.discordapp.com/attachments/996130485644312646/1024292568596480050/screen.png",
+  "cli": false
+}
