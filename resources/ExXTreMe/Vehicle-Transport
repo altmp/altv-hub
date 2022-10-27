@@ -1,0 +1,8 @@
+{
+  "title": "Vehicle Transport",
+  "url": "https://github.com/ExXTreMe315/vehicle-transport",
+  "description": "Script for Transporting Vehicles. For these this script allows you to use a Vehilce-Trailer. Flatbed and others comming soon.",
+  "tags": ["vehicle", "javascript"],
+  "cover": "https://imgur.com/a/rhsM7yW.jpg",
+  "cli": false
+}
