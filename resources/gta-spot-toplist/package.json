@@ -1,7 +1,7 @@
 {
   "title": "GTA-Spot Toplist Updater",
   "url": "https://github.com/k37z3r/toplist",
-  "description": "An updater for toplist at gta-spot.com. if you want to publish your server on gta-spot, then you need this script for the server-updates",
+  "description": "An updater for toplist at gta-spot.com. if you want to publish your server on gta-spot.com, then you need this script for the server-updates",
   "tags": ["javascript"],
   "cover": "https://i.imgur.com/ZaxD0eg.png",
   "cli": false
