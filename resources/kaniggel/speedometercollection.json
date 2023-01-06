@@ -1,0 +1,8 @@
+{
+  "title": "alt:V - Speedometer Collection",
+  "url": "https://github.com/MyHwu9508/altv-os-speedometer-collection",
+  "description": "Some basic speedometer implementation using Svelte.",
+  "tags": ["javascript", "interface", "utility"],
+  "cover": "https://i.imgur.com/GIUsNkJ.png",
+  "cli": false
+}
