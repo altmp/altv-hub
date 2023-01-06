@@ -1,5 +1,21 @@
 [
 	{
+		"title": "alt:V - Speedometer Collection",
+		"url": "https://github.com/MyHwu9508/altv-os-speedometer-collection",
+		"description": "Some basic speedometer implementation using Svelte.",
+		"tags": [
+			"javascript",
+			"interface",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/GIUsNkJ.png",
+		"cli": false,
+		"author": "resources/kaniggel",
+		"updated": "2023-01-06T20:25:09.000Z",
+		"pushed": "2023-01-06T20:25:09.000Z",
+		"creation": "2023-01-06T20:25:09.000Z"
+	},
+	{
 		"title": "Vehicle Transport",
 		"url": "https://github.com/ExXTreMe315/vehicle-transport",
 		"description": "Script for Transporting Vehicles. For these this script allows you to use a Vehilce-Trailer. Flatbed and others comming soon.",
