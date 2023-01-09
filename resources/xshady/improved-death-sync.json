@@ -1,0 +1,7 @@
+{
+  "title": "Improved player death sync",
+  "url": "https://github.com/xxshady/altv-custom-player-death",
+  "description": "A resource that adds improved sync of player death and health.",
+  "tags": ["javascript", "player"],
+  "cover": "https://i.imgur.com/wBJcEYm.jpg"
+}
