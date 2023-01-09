@@ -1,7 +1,7 @@
 {
-  "title": "esbuild dev and prod plugin",
+  "title": "esbuild plugin for smooth development & production",
   "url": "https://github.com/xxshady/altv-esbuild",
-  "description": "alt:V esbuild plugin to simplify development and production",
+  "description": "esbuild plugin with extremely fast hot reload without restarting server (client reconnect) and more!",
   "tags": ["javascript", "typescript", "tool"],
   "cover": "https://i.imgur.com/spCngWE.jpg"
 }
