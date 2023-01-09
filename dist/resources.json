@@ -1,5 +1,49 @@
 [
 	{
+		"title": "Improved player death sync",
+		"url": "https://github.com/xxshady/altv-custom-player-death",
+		"description": "A resource that adds improved sync of player death and health.",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/wBJcEYm.jpg",
+		"author": "resources/xshady",
+		"updated": "2023-01-09T16:32:40.000Z",
+		"pushed": "2023-01-09T16:32:40.000Z",
+		"creation": "2023-01-09T16:32:40.000Z"
+	},
+	{
+		"title": "client-side xstreamer",
+		"url": "https://github.com/xxshady/altv-client-xstreamer",
+		"description": "TypeScript clientside entity streamer library.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/v1ovsoc.jpg",
+		"author": "resources/xshady",
+		"updated": "2023-01-09T16:32:40.000Z",
+		"pushed": "2023-01-09T16:32:40.000Z",
+		"creation": "2022-03-08T20:52:47.000Z"
+	},
+	{
+		"title": "esbuild plugin for smooth development & production",
+		"url": "https://github.com/xxshady/altv-esbuild",
+		"description": "esbuild plugin with extremely fast hot reload without restarting server (client reconnect) and more!",
+		"tags": [
+			"javascript",
+			"typescript",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/spCngWE.jpg",
+		"author": "resources/xshady",
+		"updated": "2023-01-09T16:32:40.000Z",
+		"pushed": "2023-01-09T16:32:40.000Z",
+		"creation": "2022-07-29T09:12:24.000Z"
+	},
+	{
 		"title": "alt:V - Speedometer Collection",
 		"url": "https://github.com/MyHwu9508/altv-os-speedometer-collection",
 		"description": "Some basic speedometer implementation using Svelte.",
@@ -125,21 +169,6 @@
 		"creation": "2022-08-01T12:24:42.000Z"
 	},
 	{
-		"title": "esbuild dev and prod plugin",
-		"url": "https://github.com/xxshady/altv-esbuild",
-		"description": "alt:V esbuild plugin to simplify development and production",
-		"tags": [
-			"javascript",
-			"typescript",
-			"tool"
-		],
-		"cover": "https://i.imgur.com/spCngWE.jpg",
-		"author": "resources/xshady",
-		"updated": "2022-07-29T09:12:24.000Z",
-		"pushed": "2022-07-29T09:12:24.000Z",
-		"creation": "2022-07-29T09:12:24.000Z"
-	},
-	{
 		"title": "[C#] Simple RPC",
 		"url": "https://github.com/IronPythonDev/IronPython.AltV.Net.RPC",
 		"description": "RPC for resources that is using csharp on client and server",
@@ -234,21 +263,6 @@
 		"updated": "2022-03-19T15:17:48.000Z",
 		"pushed": "2022-03-19T15:17:48.000Z",
 		"creation": "2022-03-19T11:06:31.000Z"
-	},
-	{
-		"title": "[JS/TS] client xstreamer",
-		"url": "https://github.com/xxshady/altv-client-xstreamer",
-		"description": "clientside entity streamer (JS/TS) based on workers",
-		"tags": [
-			"javascript",
-			"typescript",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/v1ovsoc.jpg",
-		"author": "resources/xshady",
-		"updated": "2022-03-08T20:52:47.000Z",
-		"pushed": "2022-03-08T20:52:47.000Z",
-		"creation": "2022-03-08T20:52:47.000Z"
 	},
 	{
 		"title": "[C#] Freeroam",
