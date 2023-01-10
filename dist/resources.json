@@ -1,5 +1,35 @@
 [
 	{
+		"title": "[C#] alt:V Resource Generator",
+		"url": "https://github.com/litolax/altV-Resources-Generator",
+		"description": "Tool for filling resources in server.toml from resource folder.",
+		"tags": [
+			"csharp",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": true,
+		"author": "resources/json",
+		"updated": "2023-01-10T23:53:59.000Z",
+		"pushed": "2023-01-10T23:53:59.000Z",
+		"creation": "2022-04-12T11:04:05.000Z"
+	},
+	{
+		"title": "[C#] alt:V Package",
+		"url": "https://github.com/litolax/altV-Package",
+		"description": "Tool for downloading new files from alt:V CDN.",
+		"tags": [
+			"csharp",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/SoQUFKf.png",
+		"cli": true,
+		"author": "resources/json",
+		"updated": "2023-01-10T23:53:59.000Z",
+		"pushed": "2023-01-10T23:53:59.000Z",
+		"creation": "2022-08-01T12:24:42.000Z"
+	},
+	{
 		"title": "Improved player death sync",
 		"url": "https://github.com/xxshady/altv-custom-player-death",
 		"description": "A resource that adds improved sync of player death and health.",
@@ -154,21 +184,6 @@
 		"creation": "2022-08-19T09:47:52.000Z"
 	},
 	{
-		"title": "[C#] alt:V Package",
-		"url": "https://github.com/litolax/altV-Package",
-		"description": "Tool for downloading new files from alt:V CDN.",
-		"tags": [
-			"csharp",
-			"tool"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"cli": false,
-		"author": "resources/json",
-		"updated": "2022-08-01T12:24:42.000Z",
-		"pushed": "2022-08-01T12:24:42.000Z",
-		"creation": "2022-08-01T12:24:42.000Z"
-	},
-	{
 		"title": "[C#] Simple RPC",
 		"url": "https://github.com/IronPythonDev/IronPython.AltV.Net.RPC",
 		"description": "RPC for resources that is using csharp on client and server",
@@ -214,22 +229,6 @@
 		"updated": "2022-04-19T23:29:29.000Z",
 		"pushed": "2022-04-19T23:29:29.000Z",
 		"creation": "2020-12-26T03:27:59.000Z"
-	},
-	{
-		"title": "[C#] alt:V Resources Generator",
-		"url": "https://github.com/litolax/altV-Resources-Generator",
-		"description": "Tool for filling resources in server.cfg from resources folder.",
-		"tags": [
-			"csharp",
-			"tool",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/SoQUFKf.png",
-		"cli": false,
-		"author": "resources/json",
-		"updated": "2022-04-12T11:28:43.000Z",
-		"pushed": "2022-04-12T11:28:43.000Z",
-		"creation": "2022-04-12T11:04:05.000Z"
 	},
 	{
 		"title": "uRP-Framework",
