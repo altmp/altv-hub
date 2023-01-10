@@ -1,8 +1,8 @@
 {
-  "title": "[C#] alt:V Resources Generator",
+  "title": "[C#] alt:V Resource Generator",
   "url": "https://github.com/litolax/altV-Resources-Generator",
-  "description": "Tool for filling resources in server.cfg from resources folder.",
-  "tags": ["csharp", "tool", "utility"],
+  "description": "Tool for filling resources in server.toml from resource folder.",
+  "tags": ["csharp", "tool"],
   "cover": "https://i.imgur.com/SoQUFKf.png",
-  "cli": false
+  "cli": true
 }

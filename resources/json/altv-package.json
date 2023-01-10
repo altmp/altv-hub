@@ -4,5 +4,5 @@
     "description": "Tool for downloading new files from alt:V CDN.",
     "tags": ["csharp", "tool"],
     "cover": "https://i.imgur.com/SoQUFKf.png",
-    "cli": false
+    "cli": true
   }
