@@ -1,0 +1,8 @@
+{
+    "title": "[JS] altv-utils",
+    "url": "https://github.com/litolax/altv-utils",
+    "description": "Cli package that contains tools for optimization daily routine of developers",
+    "tags": ["javascript", "tool"],
+    "cover": "https://i.imgur.com/SoQUFKf.png",
+    "cli": true
+  }
