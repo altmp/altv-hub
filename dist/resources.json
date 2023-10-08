@@ -1,5 +1,21 @@
 [
 	{
+		"title": "V15 Online RADIO using AUDIO API",
+		"url": "https://github.com/Jlawster/altv-v15-radio",
+		"description": "Replace base game radio with web radios, use v15 audio API for spatialization",
+		"tags": [
+			"inferface",
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/Dh24hR4.png",
+		"cli": false,
+		"author": "resources/Jlawster",
+		"updated": "2023-10-08T15:37:36.000Z",
+		"pushed": "2023-10-08T15:37:36.000Z",
+		"creation": "2023-10-08T15:37:36.000Z"
+	},
+	{
 		"title": "[JS] altv-utils",
 		"url": "https://github.com/litolax/altv-utils",
 		"description": "Cli package that contains tools for optimization daily routine of developers",
