@@ -1,0 +1,8 @@
+{
+  "title": "Vehicle Entry Handler",
+  "url": "https://github.com/S0P4/vehicle-entry-handler",
+  "description": "A custom way of handling how the player enters a vehicle!",
+  "tags": ["javascript"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
