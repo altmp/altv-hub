@@ -1,5 +1,21 @@
 [
 	{
+		"title": "Simple Handling Editor",
+		"url": "https://github.com/Cops-and-Crimes/altv-simple-handling-editor",
+		"description": "A tool to enable simple local adjustments to a vehicle's HandlingMeta data",
+		"tags": [
+			"javascript",
+			"tool",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/HGYSHR4.png",
+		"cli": false,
+		"author": "resources/rezondes",
+		"updated": "2023-10-16T15:16:58.000Z",
+		"pushed": "2023-10-16T15:16:58.000Z",
+		"creation": "2023-10-16T15:16:58.000Z"
+	},
+	{
 		"title": "Vehicle Entry Handler",
 		"url": "https://github.com/S0P4/vehicle-entry-handler",
 		"description": "A custom way of handling how the player enters a vehicle!",
