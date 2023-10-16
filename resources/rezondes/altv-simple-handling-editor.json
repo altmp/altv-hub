@@ -1,0 +1,8 @@
+{
+  "title": "Simple Handling Editor",
+  "url": "https://github.com/Cops-and-Crimes/altv-simple-handling-editor",
+  "description": "A tool to enable simple local adjustments to a vehicle's HandlingMeta data",
+  "tags": ["javascript", "tool", "vehicle"],
+  "cover": "https://i.imgur.com/HGYSHR4.png",
+  "cli": false
+}
