@@ -1,0 +1,8 @@
+{
+  "title": "Wasted",
+  "url": "https://github.com/Cops-and-Crimes/altv-wasted",
+  "description": "A resource available to display a simple WASTED screen, similar to GTA Online.",
+  "tags": ["javascript", "interface", "utility"],
+  "cover": "https://i.imgur.com/faMqQUk.png",
+  "cli": false
+}
