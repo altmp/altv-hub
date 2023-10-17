@@ -1,5 +1,68 @@
 [
 	{
+		"title": "Wasted",
+		"url": "https://github.com/Cops-and-Crimes/altv-wasted",
+		"description": "A resource available to display a simple WASTED screen, similar to GTA Online.",
+		"tags": [
+			"javascript",
+			"interface",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/faMqQUk.png",
+		"cli": false,
+		"author": "resources/rezondes",
+		"updated": "2023-10-17T10:24:07.000Z",
+		"pushed": "2023-10-17T10:24:07.000Z",
+		"creation": "2023-10-17T10:24:07.000Z"
+	},
+	{
+		"title": "Streetnames",
+		"url": "https://github.com/Cops-and-Crimes/altv-streetnames",
+		"description": "A resource to show the player the current location and direction of view",
+		"tags": [
+			"javascript",
+			"interface",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/QWr8lYy.png",
+		"cli": false,
+		"author": "resources/rezondes",
+		"updated": "2023-10-17T10:24:07.000Z",
+		"pushed": "2023-10-17T10:24:07.000Z",
+		"creation": "2023-10-17T10:24:07.000Z"
+	},
+	{
+		"title": "Simple Notifications",
+		"url": "https://github.com/Cops-and-Crimes/altv-notifications",
+		"description": "A simple way to show notifications.",
+		"tags": [
+			"javascript",
+			"interface",
+			"utility"
+		],
+		"cover": "https://i.imgur.com/CUvd0T4.png",
+		"cli": false,
+		"author": "resources/rezondes",
+		"updated": "2023-10-17T10:24:07.000Z",
+		"pushed": "2023-10-17T10:24:07.000Z",
+		"creation": "2023-10-17T10:24:07.000Z"
+	},
+	{
+		"title": "Synced Nitro",
+		"url": "https://github.com/Cops-and-Crimes/altv-synced-nitro",
+		"description": "Boost your vehicle and spit flames from the exhaust for every player to see.",
+		"tags": [
+			"javascript",
+			"vehicle"
+		],
+		"cover": "https://i.imgur.com/14S5oc1.png",
+		"cli": false,
+		"author": "resources/rezondes",
+		"updated": "2023-10-17T10:24:07.000Z",
+		"pushed": "2023-10-17T10:24:07.000Z",
+		"creation": "2023-10-17T10:24:07.000Z"
+	},
+	{
 		"title": "Simple Handling Editor",
 		"url": "https://github.com/Cops-and-Crimes/altv-simple-handling-editor",
 		"description": "A tool to enable simple local adjustments to a vehicle's HandlingMeta data",
