@@ -1,0 +1,8 @@
+{
+  "title": "Streetnames",
+  "url": "https://github.com/Cops-and-Crimes/altv-streetnames",
+  "description": "A resource to show the player the current location and direction of view",
+  "tags": ["javascript", "interface", "utility"],
+  "cover": "https://i.imgur.com/QWr8lYy.png",
+  "cli": false
+}
