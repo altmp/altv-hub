@@ -1,5 +1,22 @@
 [
 	{
+		"title": "React Hooks for alt:V",
+		"url": "https://github.com/FlorianV85/altv-react-hooks",
+		"description": "Simple hooks for working with React on alt:V Multiplayer.",
+		"tags": [
+			"interface",
+			"utility",
+			"javascript",
+			"typescript"
+		],
+		"cover": "https://i.imgur.com/v5xJBvL.png",
+		"cli": false,
+		"author": "resources/FlorianV85",
+		"updated": "2023-11-03T09:32:31.000Z",
+		"pushed": "2023-11-03T09:32:31.000Z",
+		"creation": "2023-11-03T09:32:31.000Z"
+	},
+	{
 		"title": "Wasted",
 		"url": "https://github.com/Cops-and-Crimes/altv-wasted",
 		"description": "A resource available to display a simple WASTED screen, similar to GTA Online.",
