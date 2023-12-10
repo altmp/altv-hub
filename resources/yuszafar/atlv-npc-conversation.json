@@ -1,0 +1,8 @@
+{
+  "title": "altv-npc-conversation",
+  "url": "https://github.com/yuszafar/atlv-npc-conversation",
+  "description": "Interface for communicating with NPCs",
+  "tags": ["javascript", "interface"],
+  "cover": "https://i.imgur.com/GPrxJI6.png",
+  "cli": false
+}
