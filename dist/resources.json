@@ -1,5 +1,20 @@
 [
 	{
+		"title": "altv-npc-conversation",
+		"url": "https://github.com/yuszafar/altv-npc-conversation",
+		"description": "Interface for communicating with NPCs",
+		"tags": [
+			"javascript",
+			"interface"
+		],
+		"cover": "https://i.imgur.com/GPrxJI6.png",
+		"cli": false,
+		"author": "resources/yuszafar",
+		"updated": "2023-12-11T09:20:16.000Z",
+		"pushed": "2023-12-11T09:20:16.000Z",
+		"creation": "2023-12-11T09:20:16.000Z"
+	},
+	{
 		"title": "altv-os-car-showroom",
 		"url": "https://github.com/yuszafar/altv-os-car-showroom",
 		"description": "Ready-made working interface for your car dealership",
