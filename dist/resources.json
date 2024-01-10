@@ -1,5 +1,21 @@
 [
 	{
+		"title": "[JS] Vehicle Damage",
+		"url": "https://github.com/SaiCode-DEV/altV-vehicle-damage",
+		"description": "A good basis for turning a car breakdown into a realistic and impressive experience.",
+		"tags": [
+			"vehicle",
+			"javascript",
+			"quickstart"
+		],
+		"cover": "https://i.imgur.com/tBitcH9.png",
+		"cli": false,
+		"author": "resources/SaiCode",
+		"updated": "2024-01-10T22:59:56.000Z",
+		"pushed": "2024-01-10T22:59:56.000Z",
+		"creation": "2024-01-10T22:59:56.000Z"
+	},
+	{
 		"title": "altv-npc-conversation",
 		"url": "https://github.com/yuszafar/altv-npc-conversation",
 		"description": "Interface for communicating with NPCs",
