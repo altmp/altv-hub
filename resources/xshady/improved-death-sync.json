@@ -1,7 +1,10 @@
 {
-  "title": "Improved player death sync",
+  "title": "Controllable player damage & death sync",
   "url": "https://github.com/xxshady/altv-custom-player-death",
-  "description": "A resource that adds improved sync of player death and health.",
-  "tags": ["javascript", "player"],
+  "description": "Server-side control over sync of player damage, death and health.",
+  "tags": [
+    "javascript",
+    "player"
+  ],
   "cover": "https://i.imgur.com/wBJcEYm.jpg"
 }
