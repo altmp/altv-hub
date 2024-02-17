@@ -1,0 +1,8 @@
+{
+  "title": "avdk - Alt:V Developer Kit",
+  "url": "https://github.com/carlos-menezes/avdk",
+  "description": "Opinionated alternative to altv-pkg which allows a developer to scaffold a project with ease.",
+  "tags": ["boilerplate", "typescript", "quickstart", "tool"],
+  "cover": "https://i.imgur.com/nCxuP3v.png",
+  "cli": false
+}
