@@ -1,0 +1,8 @@
+{
+  "title": "altv-typescript-jsv2-starter",
+  "url": "https://github.com/carlos-menezes/altv-typescript-jsv2-starter",
+  "description": "TypeScript boilerplate with support for the JSv2 module, Voice server and React.",
+  "tags": ["boilerplate", "typescript", "quickstart", "tool"],
+  "cover": "https://i.imgur.com/rGKCHEL.png",
+  "cli": false
+}
