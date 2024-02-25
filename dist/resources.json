@@ -1,5 +1,22 @@
 [
 	{
+		"title": "altv-typescript-jsv2-starter",
+		"url": "https://github.com/carlos-menezes/altv-typescript-jsv2-starter",
+		"description": "TypeScript boilerplate with support for the JSv2 module, Voice server and React.",
+		"tags": [
+			"boilerplate",
+			"typescript",
+			"quickstart",
+			"tool"
+		],
+		"cover": "https://i.imgur.com/rGKCHEL.png",
+		"cli": false,
+		"author": "resources/carlos-menezes",
+		"updated": "2024-02-25T23:04:22.000Z",
+		"pushed": "2024-02-25T23:04:22.000Z",
+		"creation": "2024-02-25T23:04:22.000Z"
+	},
+	{
 		"title": "[JS] Vehicle Damage",
 		"url": "https://github.com/SaiCode-DEV/altV-vehicle-damage",
 		"description": "A good basis for turning a car breakdown into a realistic and impressive experience.",
