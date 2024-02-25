@@ -1,5 +1,35 @@
 [
 	{
+		"title": "Controllable player damage & death sync",
+		"url": "https://github.com/xxshady/altv-custom-player-death",
+		"description": "Server-side control over sync of player damage, death and health.",
+		"tags": [
+			"javascript",
+			"player"
+		],
+		"cover": "https://i.imgur.com/wBJcEYm.jpg",
+		"author": "resources/xshady",
+		"updated": "2024-02-25T23:05:05.000Z",
+		"pushed": "2024-02-25T23:05:05.000Z",
+		"creation": "2023-01-09T16:32:40.000Z"
+	},
+	{
+		"title": "alt:V Angular",
+		"url": "https://github.com/cibucristi/altv-angular",
+		"description": "A basic boilerplate for getting started with Angular in alt:V. It contains several helpful features and was generated with the Angular CLI. The project was setup using SCSS as stylesheet format, it is for both browser and in-game based development workflow.",
+		"tags": [
+			"javascript",
+			"typescript",
+			"boilerplate"
+		],
+		"cover": "https://i.imgur.com/wB1ha8I.png",
+		"cli": false,
+		"author": "resources/cibucristi",
+		"updated": "2024-02-25T23:04:56.000Z",
+		"pushed": "2024-02-25T23:04:56.000Z",
+		"creation": "2024-02-25T23:04:56.000Z"
+	},
+	{
 		"title": "altv-typescript-jsv2-starter",
 		"url": "https://github.com/carlos-menezes/altv-typescript-jsv2-starter",
 		"description": "TypeScript boilerplate with support for the JSv2 module, Voice server and React.",
@@ -233,35 +263,6 @@
 		"updated": "2023-01-10T23:53:59.000Z",
 		"pushed": "2023-01-10T23:53:59.000Z",
 		"creation": "2022-08-01T12:24:42.000Z"
-	},
-	{
-		"title": "Improved player death sync",
-		"url": "https://github.com/xxshady/altv-custom-player-death",
-		"description": "A resource that adds improved sync of player death and health.",
-		"tags": [
-			"javascript",
-			"player"
-		],
-		"cover": "https://i.imgur.com/wBJcEYm.jpg",
-		"author": "resources/xshady",
-		"updated": "2023-01-09T16:32:40.000Z",
-		"pushed": "2023-01-09T16:32:40.000Z",
-		"creation": "2023-01-09T16:32:40.000Z"
-	},
-	{
-		"title": "client-side xstreamer",
-		"url": "https://github.com/xxshady/altv-client-xstreamer",
-		"description": "TypeScript clientside entity streamer library.",
-		"tags": [
-			"javascript",
-			"typescript",
-			"utility"
-		],
-		"cover": "https://i.imgur.com/v1ovsoc.jpg",
-		"author": "resources/xshady",
-		"updated": "2023-01-09T16:32:40.000Z",
-		"pushed": "2023-01-09T16:32:40.000Z",
-		"creation": "2022-03-08T20:52:47.000Z"
 	},
 	{
 		"title": "esbuild plugin for smooth development & production",
