@@ -1,0 +1,7 @@
+{
+  "title": "Handling Editor",
+  "url": "https://github.com/szkiddaj/altv-handling-editor",
+  "description": "An in-game handling editor made with Svelte. It allows players to modify their vehicle's handling in real-time, and save their changes to the clipboard.",
+  "tags": ["javascript", "handling", "editor"],
+  "cover": "https://i.imgur.com/D3OdCO5.png"
+}
