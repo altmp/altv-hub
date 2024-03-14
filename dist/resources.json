@@ -792,21 +792,6 @@
 		"creation": "2020-07-12T14:52:02.000Z"
 	},
 	{
-		"title": "[C#] GTA V Pursuits Gamemode [PT/BR]",
-		"url": "https://github.com/GuilhermeTrevizani/pursuits-server",
-		"description": "GTA V Pursuits Gamemode C#",
-		"tags": [
-			"csharp",
-			"gamemode"
-		],
-		"cover": "https://i.imgur.com/9B0JITT.jpg",
-		"cli": false,
-		"author": "resources/GuilhermeTrevizani",
-		"updated": "2021-09-09T23:18:47.000Z",
-		"pushed": "2021-09-09T23:18:47.000Z",
-		"creation": "2021-02-27T17:07:22.000Z"
-	},
-	{
 		"title": "[JS] AltV-Infoscript",
 		"url": "https://github.com/Heady20006/AltV-InfoScript",
 		"description": "Small script to get several informations about the Player, Vehicle or other Entities. Using raycast to get an Entity",
