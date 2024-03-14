@@ -1,0 +1,8 @@
+{
+  "title": "altv-os-car-showroom",
+  "url": "https://github.com/yuszafar/altv-os-car-showroom",
+  "description": "Ready-made working interface for your car dealership",
+  "tags": ["javascript", "vehicle", "interface"],
+  "cover": "https://i.imgur.com/C0lu0iM.png",
+  "cli": false
+}

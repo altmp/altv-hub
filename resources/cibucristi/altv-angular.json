@@ -1,0 +1,8 @@
+{
+  "title": "alt:V Angular",
+  "url": "https://github.com/cibucristi/altv-angular",
+  "description": "A basic boilerplate for getting started with Angular in alt:V. It contains several helpful features and was generated with the Angular CLI. The project was setup using SCSS as stylesheet format, it is for both browser and in-game based development workflow.",
+  "tags": ["javascript", "typescript", "boilerplate"],
+  "cover": "https://i.imgur.com/wB1ha8I.png",
+  "cli": false
+}

@@ -1,0 +1,8 @@
+{
+  "title": "React Hooks for alt:V",
+  "url": "https://github.com/FlorianV85/altv-react-hooks",
+  "description": "Simple hooks for working with React on alt:V Multiplayer.",
+  "tags": ["interface", "utility", "javascript", "typescript"],
+  "cover": "https://i.imgur.com/v5xJBvL.png",
+  "cli": false
+}
