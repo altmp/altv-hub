@@ -1,0 +1,8 @@
+{
+  "title": "[JS] Custom Login Queue",
+  "url": "https://github.com/Laelon/custom-altv-login-queue",
+  "description": "Custom login queue script with customizable reconnect time for game and queue.",
+  "tags": ["javascript", "tool", "utility"],
+  "cover": "https://i.imgur.com/FL1U8Il.png",
+  "cli": true
+}
