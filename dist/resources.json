@@ -1,5 +1,21 @@
 [
 	{
+		"title": "Trevizani Roleplay",
+		"url": "https://github.com/GuilhermeTrevizani/trevizani-roleplay",
+		"description": "Text-based roleplay server",
+		"tags": [
+			"csharp",
+			"gamemode",
+			"javacript"
+		],
+		"cover": "https://i.imgur.com/e63x4Um.jpeg",
+		"cli": false,
+		"author": "resources/GuilhermeTrevizani",
+		"updated": "2024-03-22T12:26:54.000Z",
+		"pushed": "2024-03-22T12:26:54.000Z",
+		"creation": "2021-01-07T20:17:12.000Z"
+	},
+	{
 		"title": "Handling Editor",
 		"url": "https://github.com/szkiddaj/altv-handling-editor",
 		"description": "An in-game handling editor made with Svelte. It allows players to modify their vehicle's handling in real-time, and save their changes to the clipboard.",
@@ -1283,21 +1299,6 @@
 		"updated": "2021-03-12T06:38:21.000Z",
 		"pushed": "2021-03-12T06:38:21.000Z",
 		"creation": "2021-03-12T06:38:21.000Z"
-	},
-	{
-		"title": "[C#] Segunda Vida Roleplay Gamemode [PT/BR]",
-		"url": "https://github.com/GuilhermeTrevizani/roleplay-server",
-		"description": "Segunda Vida Roleplay Gamemode C#",
-		"tags": [
-			"csharp",
-			"gamemode"
-		],
-		"cover": "https://i.imgur.com/9B0JITT.jpg",
-		"cli": false,
-		"author": "resources/GuilhermeTrevizani",
-		"updated": "2021-02-27T17:06:42.000Z",
-		"pushed": "2021-02-27T17:06:42.000Z",
-		"creation": "2021-01-07T20:17:12.000Z"
 	},
 	{
 		"title": "alt:V Battlefield Open Source Game Mode",
