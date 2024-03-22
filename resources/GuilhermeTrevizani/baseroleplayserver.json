@@ -1,8 +1,8 @@
 {
-  "title": "[C#] Segunda Vida Roleplay Gamemode [PT/BR]",
-  "url": "https://github.com/GuilhermeTrevizani/roleplay-server",
-  "description": "Segunda Vida Roleplay Gamemode C#",
-  "tags": ["csharp","gamemode"],
-  "cover": "https://i.imgur.com/9B0JITT.jpg",
+  "title": "Trevizani Roleplay",
+  "url": "https://github.com/GuilhermeTrevizani/trevizani-roleplay",
+  "description": "Text-based roleplay server",
+  "tags": ["csharp","gamemode","javacript"],
+  "cover": "https://i.imgur.com/e63x4Um.jpeg",
   "cli": false
 }
