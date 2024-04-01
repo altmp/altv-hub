@@ -1,5 +1,33 @@
 [
 	{
+		"title": "alt:V - Slots",
+		"url": "https://github.com/dGxxxx/altv-slots",
+		"description": "Basic Slots Script for alt:V.",
+		"tags": [
+			"typescript",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/OtnfeVQ.jpeg",
+		"author": "resources/dGxxxx",
+		"updated": "2024-04-01T22:51:29.000Z",
+		"pushed": "2024-04-01T22:51:29.000Z",
+		"creation": "2024-04-01T22:51:29.000Z"
+	},
+	{
+		"title": "alt:V - Hunting",
+		"url": "https://github.com/dGxxxx/altv-hunting",
+		"description": "Basic Hunting Script for alt:V.",
+		"tags": [
+			"typescript",
+			"javascript"
+		],
+		"cover": "https://i.imgur.com/1wgQG9n.png",
+		"author": "resources/dGxxxx",
+		"updated": "2024-04-01T22:51:29.000Z",
+		"pushed": "2024-04-01T22:51:29.000Z",
+		"creation": "2024-04-01T22:51:29.000Z"
+	},
+	{
 		"title": "Trevizani Roleplay",
 		"url": "https://github.com/GuilhermeTrevizani/trevizani-roleplay",
 		"description": "Text-based roleplay server",
