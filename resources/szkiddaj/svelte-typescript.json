@@ -1,0 +1,7 @@
+{
+  "title": "Svelte - Typescript Boilerplate [jsv2 & v1]",
+  "url": "https://github.com/szkiddaj/altv-typescript-svelte",
+  "description": "A boilerplate for creating an alt:V server using Svelte and Typescript. Supports both jsv2 and v1 module.",
+  "tags": ["boilerplate", "typescript"],
+  "cover": "https://imgur.com/SoQUFKf.png"
+}
