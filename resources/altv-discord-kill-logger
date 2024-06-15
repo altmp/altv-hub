@@ -1,0 +1,7 @@
+{
+  "title": "[JS] Discord Alt:V Logger : Detailed Death/Kill/Victom Discord Logger Bot",
+  "url": "https://github.com/xpara97/altv-discord-kill-logger",
+  "description": "Simple implementation of a discord bot, that sends information about death events in a specific channel",
+  "tags": ["javascript", "tool", "utility", "player", "data"],
+  "cover": "https://i.imgur.com/5MHloKZ.png"
+}
