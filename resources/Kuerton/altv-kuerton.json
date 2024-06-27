@@ -1,0 +1,11 @@
+{
+  "title": "[JS] altv-kuerton",
+  "url": "https://github.com/kuerton/altv-kuerton/",
+  "description": "The alt:V JS setup on GitHub.",
+  "tags": [
+    "boilerplate",
+    "javascript"
+  ],
+  "cover": "https://i.imgur.com/YAAOZd8.png",
+  "cli": false
+}
