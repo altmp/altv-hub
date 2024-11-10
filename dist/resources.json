@@ -1,5 +1,19 @@
 [
 	{
+		"title": "AltV Open Mineshaft",
+		"url": "https://github.com/Melxnne/AltV-Open-Mineshaft",
+		"description": "This resource enables players to access a previously blocked-off mineshaft interior by removing its door, providing an expanded area for exploration and immersion within the AltV server",
+		"tags": [
+			"map"
+		],
+		"cover": "https://i.imgur.com/S5i25u7.png",
+		"cli": false,
+		"author": "resources/Melonne",
+		"updated": "2024-11-10T15:17:26.000Z",
+		"pushed": "2024-11-10T15:17:26.000Z",
+		"creation": "2024-11-10T15:17:26.000Z"
+	},
+	{
 		"title": "alt:V - Slots",
 		"url": "https://github.com/dGxxxx/altv-slots",
 		"description": "Basic Slots Script for alt:V.",
