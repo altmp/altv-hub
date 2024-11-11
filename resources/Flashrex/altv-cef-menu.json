@@ -1,0 +1,8 @@
+{
+  "title": "CEF Menu",
+  "url": "https://github.com/Flashrex/altv-cef-menu",
+  "description": "A easy to use menu builder build using typescript and vue3.",
+  "tags": ["typescript", "javascript", "utility", "interface"],
+  "cover": "https://i.imgur.com/itBrr5q.png",
+  "cli": false
+}
